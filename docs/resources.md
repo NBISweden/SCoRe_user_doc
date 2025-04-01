@@ -2,7 +2,7 @@
 
 !!! warning "Incomplete"
 
-    As of now, this table is incomplete. 
+    As of now, this table is incomplete.
 
     If some resource is missing, please [contact us](contact_us.md).
 
@@ -46,7 +46,7 @@ flowchart TD
 
   sens_compute --> |Compute| sens_compute_location
   sens_compute --> |Storage| aida_data_hub
-  
+
   compute --> |Compute| compute_ai
   compute --> |Storage| aida_data_hub
 
