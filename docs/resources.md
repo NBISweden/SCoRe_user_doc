@@ -1,10 +1,9 @@
 # Resources
 
-!!! warning "Incomplete"
+!!! warning "This page is a stub"
 
-    As of now, this table is incomplete.
-
-    If some resource is missing, please [contact us](contact_us.md).
+    As of now, this page is incomplete, possibly incorrect and
+    open for [contributions](CONTRIBUTING.md).
 
 HPC cluster | Center                 | Purpose
 ------------|------------------------|----------------------------------------------
