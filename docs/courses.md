@@ -5,5 +5,6 @@
     As of now, this page is incomplete, possibly incorrect and
     open for [contributions](CONTRIBUTING.md).
 
+- AIDA Data Hub training
 - [NAISS training](https://www.naiss.se/training/)
 
