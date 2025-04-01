@@ -10,9 +10,7 @@ tags:
 
 # Contact us
 
-Sometimes there is a question missing at
-the [Frequently Asked Questions](faq.md) section,
-sometimes there are other things.
+Sometimes there is something incorrect us or missing. Please let us know!
 
 You can contact us:
 
@@ -20,15 +18,13 @@ You can contact us:
 
 Contact method                                                                |Features
 ------------------------------------------------------------------------------|------------------------------------------------------------------------------
-[Create an issue](https://github.com/UPPMAX/naiss_intro_python/issues)       |Best for asking a question publicly, requires a GitHub account
+[Create an issue](https://github.com/NBISweden/SCoRe_user_doc/issues)         |Best for asking a question publicly, requires a GitHub account
 Create a pull request                                                         |Best for improving the course content, requires a GitHub account
 Send an email                                                                 |Best for asking a question privately, invisible to others
 
 <!-- markdownlint-enable MD013 -->
 
-When sending an email, these are the roles:
+Sending an email:
 
-Role              |Person
-------------------|------------------------------------
-Course coordinator|[Diana Iusan](https://www.uu.se/en/contact-and-organisation/staff?query=N5-245)
-Main teacher      |[Richèl Bilderbeek](https://www.uu.se/en/contact-and-organisation/staff?query=N21-617)
+- [Jonas Söderberg](https://nbis.se/staff/jonas-soederberg) (head of SCoRe)
+- [Richèl Bilderbeek](https://nbis.se/staff/employee-richel-bilderbeek)

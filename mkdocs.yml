@@ -5,6 +5,8 @@ edit_uri: blob/main/docs/
 nav:
   - Start: index.md
   - Resources: resources.md
+  - Contributing: CONTRIBUTING.md
+  - Contact us: contact_us.md
 
 theme:
   name: material
