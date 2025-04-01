@@ -17,3 +17,5 @@ Tetralith   | NAISS                  | General purpose
 Verdi       | AIDA Data Hub          | Sensitive data, more storage than compute
 `?`         | `[Other centers]`      | `[description]`
 
+
+- [NBIS resources](https://nbis.se/services/computational-resources)
