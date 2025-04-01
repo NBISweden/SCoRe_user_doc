@@ -1,6 +1,10 @@
 # Resources
 
-[Table with resources of AIDA Data Hub and NBIS and more here]
+!!! warning "Incomplete"
+
+    As of now, this table is incomplete. 
+
+    If some resource is missing, please [contact us](contact_us.md).
 
 HPC cluster | Center                 | Purpose
 ------------|------------------------|----------------------------------------------
@@ -11,5 +15,6 @@ Dardel      | NAISS                  | General purpose
 LUMI        | NAISS                  | General purpose
 Tetralith   | NAISS                  | General purpose
 Verdi       | AIDA Data Hub          | Sensitive data, more storage than compute
+`?`         | `[Other centers]`      | `[description]`
 
 
