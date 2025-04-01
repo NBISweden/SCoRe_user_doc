@@ -9,7 +9,7 @@
 
 <!-- markdownlint-enable MD013 -->
 
-- [Go to the nicely rendered site](https://NBISweden.github.io/SCORe_user_doc/)
+- [Go to the nicely rendered site](https://NBISweden.github.io/SCoRe_user_doc/)
 
 ## Files used by continuous integration scripts
 
