@@ -31,3 +31,11 @@ uu
 wordlist
 www
 yml
+Kebnekaise
+LUNARC
+Linköping
+Lund
+PDC
+Rackham
+Umeå
+Uppsala
