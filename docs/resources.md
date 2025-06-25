@@ -5,6 +5,8 @@
     As of now, this page is incomplete, possibly incorrect and
     open for [contributions](CONTRIBUTING.md).
 
+## Overview of resources
+
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
 HPC cluster | Center(s)              | Compute type   | Compute | Storage |Type of data| Costs `[1]` | Accessible for
@@ -24,6 +26,8 @@ Verdi       | AIDA Data Hub          | General purpose| Low     | High    | Any 
 <!-- markdownlint-enable MD013 -->
 
 - `[1]`: 'Costs' means: 'costs to be paid directly by a user'
+
+## Selecting the right resource
 
 ```mermaid
 flowchart TD
