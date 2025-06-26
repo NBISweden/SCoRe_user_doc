@@ -36,7 +36,6 @@ flowchart TD
   sens_compute[Do you need compute or storage?]
   sens_compute_location[Where are you located?]
   compute_location[Where are you located?]
-  compute_ai_location[Where are you located?]
 
   aida_data_hub[AIDA data hub]
   alvis[Alvis]
@@ -60,15 +59,13 @@ flowchart TD
   compute --> |Storage| aida_data_hub
 
   compute_ai --> |No| compute_location
-  compute_ai --> |Yes| compute_ai_location
+  compute_ai --> |Yes| alvis
 
   compute_location --> |Anywhere in Sweden| dardel
   compute_location --> |Anywhere in Sweden| tetralith
   compute_location --> |Umeå| Kebnekase
   compute_location --> |Uppsala| rackham
   rackham -.-> |Future| pelle
-
-  compute_ai_location --> |Anywhere in Sweden| alvis
 
   sens_compute_location --> |Anywhere in Sweden| bianca
   sens_compute_location --> |Lund| cosmos_sens
