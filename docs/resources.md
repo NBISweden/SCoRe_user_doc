@@ -31,11 +31,11 @@ Verdi       | AIDA Data Hub          | General purpose| Low     | High    | Any 
 
 ```mermaid
 flowchart TD
-  sensitive_data[Sensitive data?]
-  compute[Compute or storage?]
-  compute_ai[Focus on AI?]
+  sensitive_data[Do you work with Sensitive data?]
+  compute[Do you need compute or storage?]
+  compute_ai[Do you focus on AI?]
 
-  sens_compute[Compute or storage?]
+  sens_compute[Do you need compute or storage?]
   sens_compute_location[Where are you located?]
   compute_location[Where are you located?]
   compute_ai_location[Where are you located?]
