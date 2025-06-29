@@ -19,6 +19,7 @@ Dardel                | NAISS, PDC             | General purpose | Medium  | Low
 Kebnekaise            | HPC2N                  | General purpose | Medium  | Low     | Regular            | Free           | Umeå researchers
 LUMI                  | NAISS, CSC             | General purpose | High    | Low     | Regular            | Free           | Swedish researchers
 Rackham               | NAISS, UPPMAX          | General purpose | Medium  | Low     | Regular            | Free           | Uppsala researchers
+Unknown               | SND                    | None            | None    | High    | Regular            | Free           | Swedish researchers
 SweStore              | NAISS                  | None            | None    | High    | Active, regular    | Free           | Swedish researchers
 Swedish Science Cloud | NAISS                  | Hosting websites| Low     | Low     | Regular            | Free           | Swedish researchers
 Tetralith             | NAISS, NSC             | General purpose | Medium  | Low     | Regular            | Free           | Swedish researchers
