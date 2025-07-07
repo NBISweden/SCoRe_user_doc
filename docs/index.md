@@ -11,7 +11,7 @@
 `[Other logos]`
 
 The goal of SCoRe is in its name:
-'**S**upport for **Co**mputational **Re**sources'.
+'Support for Computational Resources'.
 This site intends to help a user find the resources for his/her needs.
 
 Need                                         |Resource

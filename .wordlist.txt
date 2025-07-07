@@ -39,3 +39,8 @@ PDC
 Rackham
 Umeå
 Uppsala
+CSC
+SND
+SweStore
+SciLifeLab
+ENCCS
