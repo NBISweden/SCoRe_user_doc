@@ -5,7 +5,12 @@ edit_uri: blob/main/docs/
 nav:
   - Start: index.md
   - Resources: resources.md
-  - Courses: courses.md
+    - Compute: compute.md
+    - Courses: courses.md
+    - Efficient compute: efficiency.md
+    - Other: other.md
+    - Storage: storage.md
+    - Website: website.md
   - Contributing: CONTRIBUTING.md
   - Contact us: contact_us.md
 

@@ -10,5 +10,16 @@
 ![The NAISS logo](logo/naiss_logo_inverted.png)
 `[Other logos]`
 
-[Courses](courses.md){ .md-button .md-button--primary }
-[Resources](resources.md){ .md-button .md-button--primary }
+The goal of SCoRe is in its name:
+'**S**upport for **Co**mputational **Re**sources'.
+This site intends to help a user find the resources for his/her needs.
+
+Need                                         |Resource
+---------------------------------------------|----------------------
+I need to run heavy calculations             |[Compute](compute.md)
+I need to run heavy calculations efficiently |[Efficiency](efficiency.md)
+I need to store big amounts of data          |[Storage](storage.md)
+I need a website                             |[Website](website.md)
+I need to learn how to do something          |[Courses and training](courses.md)
+I need something else                        |[Other](other.md)
+I have other needs                           |[Contact us](contact_us.md)
