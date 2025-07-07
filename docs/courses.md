@@ -5,7 +5,7 @@
     As of now, this page is incomplete, possibly incorrect and
     open for [contributions](CONTRIBUTING.md).
 
-Courses are a resource too. 
+Courses are a resource too.
 
 For now, here is an overview of courses:
 
@@ -14,5 +14,4 @@ For now, here is an overview of courses:
 - [SciLifeLab training](https://training.scilifelab.se/events)
 - [ENCCS training](https://enccs.se/events)
 - Courses by your local HPC center
-
 
