@@ -20,4 +20,4 @@ I have other needs                 |[Contact us](contact_us.md)
 
 - [AIDA Data Hub resources](https://nbisweden.github.io/aida-datahub-docs/)
 - [NBIS resources](https://nbis.se/services/computational-resources)
-- <researchdata.se>
+- [`researchdata.se`](https://researchdata.se)
