@@ -5,7 +5,10 @@
     As of now, this page is incomplete, possibly incorrect and
     open for [contributions](CONTRIBUTING.md).
 
-Courses are a resource too.
+There are multiple types of [resources](resources.md) you may need.
+Knowledge is a resource too.
+This page shows the places to increase your knowledge in a learning
+environment, as provided by courses and training.
 
 For now, here is an overview of courses:
 
