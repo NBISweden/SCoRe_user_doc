@@ -8,11 +8,10 @@ on:
 name: Update courses
 
 jobs:
-  R-CMD-check:
-    runs-on: ${{ matrix.os }}
-    strategy:
-      matrix:
-        os: [ubuntu-latest]
+  update_courses:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
@@ -46,4 +45,9 @@ jobs:
         shell: Rscript {0}
 
       - name: Create courses
-        run: Rscript -e 'scoreto::get_courses_as_markdown()'
+        run: Rscript -e 'scoreto::get_courses_as_markdown()' > docs/courses_overview.md
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
