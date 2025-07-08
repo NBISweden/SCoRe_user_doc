@@ -51,3 +51,4 @@ flowchart TD
   checks the websites of the course providers and updates the list.
 
 <!-- courses_2.md is machine-generated and pasted below this file, courses_1.md -->
+
