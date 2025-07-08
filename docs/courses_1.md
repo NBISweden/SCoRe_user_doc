@@ -46,10 +46,10 @@ flowchart TD
 
 ???- question "How is this list generated and updated?"
 
-  On a daily basis,
-  [the `update_courses.yaml` continuous integration script](https://github.com/NBISweden/SCoRe_user_doc/blob/main/.github/workflows/update_courses.yaml)
-  checks the websites of the course providers and updates the list,
-  using [the `scoreto` R package](https://github.com/richelbilderbeek/scoreto).
+    On a daily basis,
+    [the `update_courses.yaml` continuous integration script](https://github.com/NBISweden/SCoRe_user_doc/blob/main/.github/workflows/update_courses.yaml)
+    checks the websites of the course providers and updates the list,
+    using [the `scoreto` R package](https://github.com/richelbilderbeek/scoreto).
 
 <!-- courses_2.md is machine-generated and pasted below this file, courses_1.md -->
 
