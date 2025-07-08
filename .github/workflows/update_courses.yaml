@@ -70,6 +70,11 @@ jobs:
       - name: View changes, if any
         run: git status
 
+      - name: Add and commit changes, if any
+        run: |
+          git add docs/courses.md 
+          git commit -m "Update courses"
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
