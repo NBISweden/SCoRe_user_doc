@@ -48,7 +48,7 @@ jobs:
         run: Rscript -e 'scoreto::get_courses_as_markdown()' > docs/courses_2.md
 
       - name: Create courses.md
-        run: ./scripts/create_course_page.sh
+        run: ./scripts/create_courses_page.sh
 
       - name: Push changes
         uses: ad-m/github-push-action@master
