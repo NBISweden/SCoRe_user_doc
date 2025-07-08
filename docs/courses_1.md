@@ -42,13 +42,12 @@ flowchart TD
   where_local --> |LU| LUNARC
 ```
 
+## List of courses
 
+???- question "How is this list generated and updated?"
 
-For now, here is an overview of courses:
+  On a daily basis,
+  [the `update_courses.yaml` continuous integration script](https://github.com/NBISweden/SCoRe_user_doc/blob/main/.github/workflows/update_courses.yaml)
+  checks the websites of the course providers and updates the list.
 
-- [AIDA Data Hub training](https://datahub.aida.scilifelab.se/training/)
-- [NAISS training](https://www.naiss.se/training/)
-- [SciLifeLab training](https://training.scilifelab.se/events)
-- [ENCCS training](https://enccs.se/events)
-- Courses by your local HPC center
-
+<!-- courses_2.md is machine-generated and pasted below this file, courses_1.md -->
