@@ -22,5 +22,13 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt natsort
 
+      # Intermediate files needed for ./scripts/create_courses_page.sh,
+      # where 'docs/courses_2.md' is created by 'update_courses.yaml'
+      - name: Remove intermediate files
+        run: |
+          rm docs/courses_1.md
+          rm docs/courses_2.md
+          rm docs/courses_3.md
+
       - name: Deploy website
         run: mkdocs gh-deploy --force
