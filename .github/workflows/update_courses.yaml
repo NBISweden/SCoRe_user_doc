@@ -1,7 +1,17 @@
 # Update the courses on a daily basis
 on:
   push:
+    paths:
+      - .github/workflows/update_courses.yaml
+      - docs/courses_1.md
+      - docs/courses_3.md
+      - scripts/create_courses_page.sh
   pull_request:
+    paths:
+      - .github/workflows/update_courses.yaml
+      - docs/courses_1.md
+      - docs/courses_3.md
+      - scripts/create_courses_page.sh
   schedule:
   - cron: "0 0 * * *" # Run daily
 
