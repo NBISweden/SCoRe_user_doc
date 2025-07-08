@@ -44,8 +44,11 @@ jobs:
           remotes::install_github("richelbilderbeek/scoreto")
         shell: Rscript {0}
 
-      - name: Create courses
-        run: Rscript -e 'scoreto::get_courses_as_markdown()' > docs/courses_overview.md
+      - name: Create courses_2.md
+        run: Rscript -e 'scoreto::get_courses_as_markdown()' > docs/courses_2.md
+
+      - name: Create courses.md
+        run: ./scripts/create_course_page.sh
 
       - name: Push changes
         uses: ad-m/github-push-action@master
