@@ -24,9 +24,9 @@ jobs:
 
       #- uses: r-lib/actions/setup-pandoc@v2
 
-      #- name: Install libcurl4-openssl-dev
-      #  run: sudo apt install -qq libcurl4-openssl-dev
-      #  if: matrix.os == 'ubuntu-latest'
+      - name: Install libcurl4-openssl-dev
+        run: sudo apt install -qq libcurl4-openssl-dev
+        if: matrix.os == 'ubuntu-latest'
 
       #- name: Install libharfbuzz-dev libfribidi-dev
       #  run: sudo apt install -qq libharfbuzz-dev libfribidi-dev
@@ -34,6 +34,14 @@ jobs:
       - name: Install dependencies
         run: |
           install.packages(c("remotes", "rcmdcheck"))
+          remotes::install_cran("dplyr")
+          remotes::install_cran("knitr")
+          remotes::install_cran("lubridate")
+          remotes::install_cran("readr")
+          remotes::install_cran("stringr")
+          remotes::install_cran("testthat")
+          remotes::install_cran("tibble")
+          remotes::install_cran("tidyr")
           remotes::install_github("richelbilderbeek/scoreto")
         shell: Rscript {0}
 
