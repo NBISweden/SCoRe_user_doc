@@ -29,11 +29,13 @@ Center Storage        | NSC                    | Active, regular    | Free      
 Centerstorage nobackup| LUNARC                 | Active, regular    | Free                                                          | Users of the LUNARC HPC clusters
 Data Science Platform | AIDA Data Hub          | Any                | [Prices](https://datahub.aida.scilifelab.se/services/#prices) | Anyone
 dCache                | SweStore, NAISS        | Active, regular    | Free                                                          | Swedish researchers
+EOSC EU Node          | EOSC                   | Active, regular    | Free                                                          | Researchers in Europe
 Klemming              | PDC                    | Active, regular    | Free                                                          | Users of the PDC Dardel HPC cluster
 Mimer                 | C3SE                   | Active, regular    | Free                                                          | Users of the C3SE Alvis HPC cluster
 Nobackup              | HPC2N                  | Active, regular    | Free                                                          | Users of the HPC2N HPC clusters
 NSC Center Storage    | NSC                    | Active, regular    | Free                                                          | Users of NSC HPC clusters
 Spirula               | SciLifeLab, UPPMAX     | Active, regular    | Free                                                          | Swedish data-driven life science researchers
 Storage               | LUMI Sweden, NAISS     | Active, regular    | Free                                                          | Users of the CSC LUMI HPC cluster
+Vesta                 | UPPMAX                 | Sensitive          | Free                                                          | Uppsala University researchers
 
 <!-- markdownlint-enable MD013 -->
