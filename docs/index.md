@@ -1,14 +1,15 @@
 # Welcome to the SCoRe user documentation
 
+![SCoRe logo](logo/score_logo_410x233.png)
+
 !!! warning "This page is a stub"
 
     As of now, this page is incomplete, possibly incorrect and
     open for [contributions](CONTRIBUTING.md).
 
-![SCoRe logo](logo/score_logo_410x233.png)
-![AIDA Data Hub logo](logo/aida_logo.png)
-![The NAISS logo](logo/naiss_logo_inverted.png)
-`[Other logos]`
+Logo                                   |Resource name
+---|------------
+![AIDA Data hub](logo/aida_logo_64_x_64.png)|[AIDA Data Hub](https://datahub.aida.scilifelab.se/)
 
 The goal of SCoRe is in its name:
 'Support for Computational Resources'.
