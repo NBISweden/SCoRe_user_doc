@@ -9,7 +9,9 @@
 
 Logo                                   |Resource name
 ---|------------
-![AIDA Data hub](logo/aida_logo_64_x_64.png)|[AIDA Data Hub](https://datahub.aida.scilifelab.se/)
+![AIDA Data hub](logo/aida_logo_64_x_64.png)   |[AIDA Data Hub](https://datahub.aida.scilifelab.se/)
+![NAISS](logo/naiss_logo_inverted_294_x_64.png)|[NAISS](https://naiss.se)
+
 
 The goal of SCoRe is in its name:
 'Support for Computational Resources'.
