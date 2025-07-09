@@ -9,8 +9,8 @@
 
 Logo                                   |Resource name
 ---|------------
-![AIDA Data hub](logo/aida_logo_32_x_32.png)   |[AIDA Data Hub](https://datahub.aida.scilifelab.se/)
-![NAISS](logo/naiss_logo_inverted_197_x_32.png)|[NAISS](https://naiss.se)
+![AIDA Data hub](logo/aida_logo_24_x_24.png)   |[AIDA Data Hub](https://datahub.aida.scilifelab.se/)
+![NAISS](logo/naiss_logo_inverted_148_x_24.png)|[NAISS](https://naiss.se)
 
 
 The goal of SCoRe is in its name:
