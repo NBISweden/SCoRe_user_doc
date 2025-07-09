@@ -11,6 +11,7 @@ Logo                                                   |Resource name
 ---|------------
 ![AIDA Data hub logo](logo/aida_logo_24_x_24.png)      |[AIDA Data Hub](https://datahub.aida.scilifelab.se/)
 ![ENCCS logo](logo/enccs_logo_103_x_24.png)            |[ENCCS](https://enccs.se/)
+![HPC2N logo](logo/hpc2n_logo_84_x_24.png)             |[HPC2N](https://www.hpc2n.umu.se/)
 ![NAISS logo](logo/naiss_logo_inverted_148_x_24.png)   |[NAISS](https://naiss.se)
 ![PDC logo](logo/pdc_logo_21_x_24.png)                 |[PDC](https://www.pdc.kth.se/)
 ![SciLifeLab logo](logo/sll_logo_110_x_24.png)         |[SciLifeLab](https://www.scilifelab.se/)
