@@ -12,7 +12,7 @@ This site intends to help a user find
 
 !!! note "Where do I find what I need?"
 
-  [Find the resources for you needs](resources.md).
+    [Find the resources for you needs](resources.md).
 
 Below is a table with all resource providers:
 
