@@ -10,6 +10,10 @@ The goal of SCoRe is in its name:
 This site intends to help a user find
 [the resources for his/her needs](resources.md).
 
+!!! note "Where do I find what I need?"
+
+  [Find the resources for you needs](resources.md).
+
 Below is a table with all resource providers:
 
 Logo                                                   |Name of resource provider
