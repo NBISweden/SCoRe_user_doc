@@ -58,6 +58,9 @@ jobs:
       - name: Create docs/courses_2.md
         run: Rscript -e 'scoreto::get_courses_as_markdown()' > docs/courses_2.md
 
+      - name: Create docs/courses.csv
+        run: Rscript -e 'scoreto::save_courses_as_csv("docs/courses.csv")'
+
       - name: View courses_2.md
         run: cat docs/courses_2.md
 
