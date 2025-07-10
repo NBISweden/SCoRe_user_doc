@@ -28,6 +28,3 @@ This site intends to help a user find
 ![SCoRe logo](logo/score_logo_42_x_24.png)
 ![SciLifeLab logo](logo/sll_logo_110_x_24.png)
 ![UPPMAX logo](logo/uppmax_logo_116_x_24.png)
-
-
-
