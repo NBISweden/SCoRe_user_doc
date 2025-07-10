@@ -77,7 +77,7 @@ jobs:
         run: |
             # From https://stackoverflow.com/a/25149786/3364162
             if [[ $(git status --porcelain) ]]; then
-              echpo "Changes have been made"
+              echo "Changes have been made"
             else
               echo "No changes have been made. Done!"
             fi
