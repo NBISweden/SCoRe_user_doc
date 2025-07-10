@@ -54,7 +54,6 @@ flowchart TD
 <!-- courses_2.md is machine-generated and pasted below this file, courses_1.md -->
 
 
-
 |**From**|**To**|**Course name**|**Course site**|**Provider site**|**Provider name**|
 |:----------|:----------|:---------------------------------------------------|:-----------|:------------|:------------|
 |2025-07-10 |2025-07-10 |Profiling AI Software Bootcamp (Online)                                              |[Course site](https://enccs.se/events/07-2025-profiling-ai-software-bootcamp/)|[Provider site](https://enccs.se/events)|![ENCCS logo](logo/enccs_logo_103_x_24.png)|
