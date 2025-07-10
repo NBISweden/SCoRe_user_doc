@@ -70,6 +70,15 @@ jobs:
       - name: View changes, if any
         run: git status
 
+      - name: If no changes, we are done
+        run: |
+            # From https://stackoverflow.com/a/25149786/3364162
+            if [[ $(git status --porcelain) ]]; then
+              echpo "Changes have been made"
+            else
+              echo "No changes have been made. Done!"
+            fi
+
       # Cannot get this to work here, maybe for the better
       #
       #   git pull --no-edit --rebase=true
@@ -79,10 +88,11 @@ jobs:
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add docs/courses.md 
-          git commit -m "Update courses"
+          git commit -m "Update courses" || true
 
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
+
