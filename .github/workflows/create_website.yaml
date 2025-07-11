@@ -30,7 +30,6 @@ jobs:
         run: |
           rm docs/courses_1.md
           rm docs/courses_2.md
-          rm docs/courses_3.md
 
       - name: Deploy website
         run: mkdocs gh-deploy --force
