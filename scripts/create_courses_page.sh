@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Create the page courses.md,
-# by stitching together courses_1.md, courses_2.md and courses_3.md
+# by stitching together courses_1.md and courses_2.md
 #
 # Usage:
 #
