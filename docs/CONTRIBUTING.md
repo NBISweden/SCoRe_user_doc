@@ -21,5 +21,5 @@ is likely to be accepted.
 
 ## Code
 
-We welcome any contribution that 
+We welcome any contribution that
 helps our site's visitors find the computational resources they need.

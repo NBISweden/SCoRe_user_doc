@@ -26,7 +26,6 @@ environment, as provided by courses and training.
 <!-- courses_2.md is machine-generated and pasted below this file, courses_1.md -->
 
 
-
 |**From**|**To**|**Course name**|**Course site**|**Provider site**|**Provider name**|
 |:-----------|:------------|:---------------------------------------------------|:-----------|:------------------|:------------|
 |2025-08-14 |2025-08-22 |PDC Summer School 2025                                                               |[Course site](https://lumi-supercomputer.eu/events/pdc-summer-school-2025/)|[Provider site](https://lumi-supercomputer.eu/events/)|![CSC logo](logo/csc_logo_31_x_24.png)|
