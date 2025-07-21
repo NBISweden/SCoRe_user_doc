@@ -53,7 +53,7 @@ jobs:
       # Do not check files that are allowed to have broken links
       - name: Remove courses.md
         run: |
-          rm docs/courses.md
+          echo "I am the courses page" > rm docs/courses.md
           rm docs/courses_2.md
 
       - uses: gaurav-nelson/github-action-markdown-link-check@v1
