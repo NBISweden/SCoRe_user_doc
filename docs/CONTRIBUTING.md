@@ -19,7 +19,7 @@ or, or be displayed incorrectly.
 
 Things that will be fixed are:
 
-- A course is not picked up from a provider's site 
+- A course is not picked up from a provider's site
 
 Things that will not be fixed are:
 

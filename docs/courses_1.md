@@ -24,4 +24,3 @@ environment, as provided by courses and training.
     or [contact us](contact_us.md).
 
 <!-- courses_2.md is machine-generated and pasted below this file, courses_1.md -->
-
