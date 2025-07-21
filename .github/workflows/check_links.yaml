@@ -50,6 +50,12 @@ jobs:
       - name: unindent text
         run: ./scripts/unindent_text.sh
 
+      # Do not check files that are allowed to have broken links
+      - name: Remove courses.md
+        run: |
+          rm docs/courses.md
+          rm docs/courses_2.md
+
       - uses: gaurav-nelson/github-action-markdown-link-check@v1
         with:
           config-file: 'mlc_config.json'
