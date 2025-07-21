@@ -8,7 +8,8 @@
 There are multiple types of [resources](resources.md) you may need.
 Knowledge is a resource too.
 This page shows the places to increase your knowledge in a learning
-environment, as provided by courses and training.
+environment,
+as provided by courses and training.
 
 ## List of courses
 
