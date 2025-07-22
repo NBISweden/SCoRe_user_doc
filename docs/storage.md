@@ -52,7 +52,7 @@ TODO
 <!-- storage_2.md is machine-generated and pasted below this file, storage_1.md -->
 
 
-|HPC storage system name|Data sensivity|Data activity|User fee|Accessible for|Center(s)|
+|HPC storage system name|Data sensitivity|Data activity|User fee|Accessible for|Center(s)|
 |:----------------------|:----------------|:-------------|:----------|:--------------------------------------------------|:-------------------|
 |[Berzelius Storage](https://supr.naiss.se/resource/berzelius-storage/)|regular          |active        |Free       |Users of the NSC Berzelius HPC cluster             |![NSC](logo/nsc_logo_66_x_24.png)|
 |[Center Storage](https://www.nsc.liu.se/support/storage/snic-centrestorage/)|regular          |active        |Free       |Users of the NSC HPC clusters                      |![NSC](logo/nsc_logo_66_x_24.png)|
