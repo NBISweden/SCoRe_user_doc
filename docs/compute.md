@@ -80,13 +80,13 @@ flowchart TD
 
 ???- question "How can I read this data is a machine-friendly format?"
 
-    Most of this information can be
-    [downloaded as a `.csv`](https://raw.githubusercontent.com/NBISweden/SCoRe_user_doc/refs/heads/main/docs/compute.csv).
+    This information can be downloaded as a `.csv` from
+    [the `scoreto` R package](https://github.com/richelbilderbeek/scoreto/blob/main/inst/extdata/compute.csv).
 
 <!-- compute_2.md is machine-generated and pasted below this file, compute_1.md -->
 
 
-HPC cluster name|Type of computation|Type of data|User fee|Accessible for|Center(s)
+|HPC cluster name|Type of computation|Type of data|User fee|Accessible for|Center(s)|
 |:----------------------------|:----------------|:---------|:----------|:----------------------|:-------------------------|
 |[Alvis](https://www.c3se.chalmers.se/about/Alvis/)|AI               |Regular   |Free       |Swedish researchers    |![C3SE](logo/c3se_logo_134_x_24.png) ![NAISS](logo/naiss_logo_148_x_24.png)|
 |[Bianca](https://docs.uppmax.uu.se/cluster_guides/bianca/)|General purpose  |Sensitive |Free       |Swedish researchers    |![NAISS](logo/naiss_logo_148_x_24.png) ![UPPMAX](logo/uppmax_logo_116_x_24.png)|
