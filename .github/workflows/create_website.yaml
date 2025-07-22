@@ -10,7 +10,10 @@ on:
       - mkdocs.yml
   schedule:
   - cron: "0 1 * * *" # Run daily, 1 hour after 'update_courses.yaml'
-
+  workflow_run:
+    workflows: ["Update courses"]
+    types:
+      - completed
 jobs:
   deploy:
     runs-on: ubuntu-latest
