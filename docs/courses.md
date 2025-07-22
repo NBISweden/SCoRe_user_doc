@@ -13,6 +13,18 @@ as provided by courses and training.
 
 ## List of courses
 
+???- question "Why is this a useful resource?"
+
+    This page is the only page that combines all the courses of all the
+    different providers.
+
+    Additionally, it can be used to
+
+    - Detect broken links to courses, as indicated by the :warning:
+      emoji
+    - Detect inconsistencies when the same course is advertised by multiple
+      providers, as the same course will be displayed multiple times
+
 ???- question "How is this list generated and updated?"
 
     On a daily basis,
@@ -20,9 +32,28 @@ as provided by courses and training.
     checks the websites of the course providers and updates the list,
     using [the `scoreto` R package](https://github.com/richelbilderbeek/scoreto).
 
-    If your course is missing,
-    either [create an issue at the `scoreto` R package](https://github.com/richelbilderbeek/scoreto/issues)
+???- question "What does the :warning: mean?"
+
+    It means that the course provider has supplied a broken course URL.
+
+???- question "My course is missing!"
+
+    If your course is missing, please [contribute](CONTRIBUTING.md)
     or [contact us](contact_us.md).
+
+???- question "My course can be displayed better!"
+
+    If your course can be displayed better,
+    please [contribute](CONTRIBUTING.md)
+    or [contact us](contact_us.md).
+
+???- question "My course is displayed twice!"
+
+    The same course can be listed by multiple providers.
+    If so, this page will show the same course muliple times.
+    This is intentional: it allows a course provider to check
+    if all course information is shared identical across the providers.
+
 
 <!-- courses_2.md is machine-generated and pasted below this file, courses_1.md -->
 
@@ -34,7 +65,7 @@ as provided by courses and training.
 |2025-08-25 |2025-08-27 |Introduction to Linux and UPPMAX                                                     |[Course site](https://docs.uppmax.uu.se/courses_workshops/uppmax_intro_course)|[Provider site](https://docs.uppmax.uu.se/courses_workshops/courses_workshops/)|![UPPMAX logo](logo/uppmax_logo_116_x_24.png)|
 |2025-08-26 |2025-08-26 |Cluster architecture and job submission                                              |[Course site](https://www.hpc2n.umu.se/events/courses)|[Provider site](https://www.hpc2n.umu.se/events/courses)|![HPC2N logo](logo/hpc2n_logo_84_x_24.png)|
 |2025-08-28 |2025-08-29 |Awk workshop                                                                         |[Course site](https://docs.uppmax.uu.se/courses_workshops/awk/)|[Provider site](https://docs.uppmax.uu.se/courses_workshops/courses_workshops/)|![UPPMAX logo](logo/uppmax_logo_116_x_24.png)|
-|2025-09-02 |2025-09-02 |Cluster architecture and job submission                                              |[Course site](https://www.lunarc.lu.se/learning-more/training-courses/learning-more/training-courses/cluster-architecture-and-job-submission-2-september-2025/)|[Provider site](https://www.lunarc.lu.se/learning-more/training-courses/)|![LUNARC logo](logo/lunarc_logo_42_x_24.png)|
+|2025-09-02 |2025-09-02 |Cluster architecture and job submission                                              |:warning: [Course site](https://www.lunarc.lu.se/learning-more/training-courses/learning-more/training-courses/cluster-architecture-and-job-submission-2-september-2025/)|[Provider site](https://www.lunarc.lu.se/learning-more/training-courses/)|![LUNARC logo](logo/lunarc_logo_42_x_24.png)|
 |2025-09-05 |2025-09-05 |Log in and transfer files to/from HPC Clusters                                       |[Course site](https://docs.uppmax.uu.se/courses_workshops/naiss_transfer)|[Provider site](https://docs.uppmax.uu.se/courses_workshops/courses_workshops/)|![UPPMAX logo](logo/uppmax_logo_116_x_24.png)|
 |2025-09-08 |2025-09-08 |Introduction to Linux                                                                |[Course site](https://www.hpc2n.umu.se/events/courses/2025/fall/1/intro-linux)|[Provider site](https://www.hpc2n.umu.se/events/courses)|![HPC2N logo](logo/hpc2n_logo_84_x_24.png)|
 |2025-09-09 |2025-09-11 |CodeRefinery tools workshop (online)                                                 |[Course site](https://coderefinery.github.io/2025-09-09-workshop/)|[Provider site](https://coderefinery.org/workshops/upcoming/)|![Code Refinery logo](logo/coderefinery_logo_32_x_24.png)|
