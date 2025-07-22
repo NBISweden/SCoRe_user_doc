@@ -8,8 +8,6 @@ on:
       - .github/workflows/create_website.yaml
       - 'docs/**'
       - mkdocs.yml
-  schedule:
-  - cron: "0 1 * * *" # Run daily, 1 hour after 'update_courses.yaml'
   workflow_run:
     workflows: ["Update courses"]
     types:
