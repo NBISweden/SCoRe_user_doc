@@ -25,6 +25,3 @@ Computer-related and associated things, such as:
 - [Knowledge how to use these resources listed, i.e. courses](courses.md)
 - [Efficiency, i.e. knowing how to use computational power effectively](efficiency.md)
 
-
-
-
