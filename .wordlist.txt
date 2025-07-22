@@ -125,5 +125,5 @@ formalisms
 InfraViz
 SCC
 Codecademy
-
-
+Gothenburg
+Swestore
