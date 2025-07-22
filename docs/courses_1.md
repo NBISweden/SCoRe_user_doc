@@ -18,6 +18,13 @@ as provided by courses and training.
     This page is the only page that combines all the courses of all the
     different providers.
 
+    Additionally, it can be used to
+
+    - Detect broken links to courses, as indicated by the :warning:
+      emoji
+    - Detect inconsistencies when the same course is advertised by multiple
+      providers, as the same course will be displayed multiple times
+
 ???- question "How is this list generated and updated?"
 
     On a daily basis,
@@ -39,5 +46,13 @@ as provided by courses and training.
     If your course can be displayed better,
     please [contribute](CONTRIBUTING.md)
     or [contact us](contact_us.md).
+
+???- question "My course is displayed twice!"
+
+    The same course can be listed by multiple providers.
+    If so, this page will show the same course muliple times.
+    This is intentional: it allows a course provider to check
+    if all course information is shared identical across the providers.
+
 
 <!-- courses_2.md is machine-generated and pasted below this file, courses_1.md -->
