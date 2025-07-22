@@ -23,7 +23,7 @@ as provided by courses and training.
 ???- question "How is this list generated and updated?"
 
     On a daily basis,
-    [the `update_courses.yaml` continuous integration script](https://github.com/NBISweden/SCoRe_user_doc/blob/main/.github/workflows/update_courses.yaml)
+    [the `update_content.yaml` continuous integration script](https://github.com/NBISweden/SCoRe_user_doc/blob/main/.github/workflows/update_content.yaml)
     checks the websites of the course providers and updates the list,
     using [the `scoreto` R package](https://github.com/richelbilderbeek/scoreto).
 
@@ -35,6 +35,12 @@ as provided by courses and training.
 
     If a course provider is missing, please [contribute](CONTRIBUTING.md)
     or [contact us](contact_us.md).
+
+    To be a course provider, one needs to provide for a learning
+    environment with a live and human teacher.
+    If a course providers provides an online self-study
+    learning environment, it is listed
+    at [the course materials page](course_materials.md).
 
 ???- question "My course is missing!"
 
