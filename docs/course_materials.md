@@ -36,4 +36,4 @@ Resource                                                     |Topic
 [Learn X in Y minutes](https://learnxinyminutes.com/)        |Programming languages
 [SCC](https://github.com/SNICScienceCloud/technical-training)|Swedish Science Cloud, e.g. deploying an interactive website
 
-<!-- markdownlint-enable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+<!-- markdownlint-enable MD013 -->
