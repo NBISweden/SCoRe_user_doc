@@ -36,6 +36,12 @@ as provided by courses and training.
     If a course provider is missing, please [contribute](CONTRIBUTING.md)
     or [contact us](contact_us.md).
 
+    To be a course provider, one needs to provide for a learning
+    environment with a live and human teacher.
+    If a course providers provides an online self-study
+    learning environment, it is listed
+    at [the course materials page](course_materials.md).
+
 ???- question "My course is missing!"
 
     If your course is missing, please [contribute](CONTRIBUTING.md)

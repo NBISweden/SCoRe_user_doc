@@ -32,8 +32,11 @@ by reading self-study material.
 
 Resource                                                     |Topic
 ----------------------|----------------------
+[CodeCademy](https://www.codecademy.com/)                    |Computer science and programming languages
 [ENCCS](https://enccs.se/lessons/)                           |HPC computing
 [Learn X in Y minutes](https://learnxinyminutes.com/)        |Programming languages
 [SCC](https://github.com/SNICScienceCloud/technical-training)|Swedish Science Cloud, e.g. deploying an interactive website
+
+
 
 <!-- markdownlint-enable MD013 -->
