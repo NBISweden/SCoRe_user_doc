@@ -80,7 +80,7 @@ flowchart TD
 
 ???- question "How can I read this data is a machine-friendly format?"
 
-    Most of this information can be
-    [downloaded as a `.csv`](https://raw.githubusercontent.com/NBISweden/SCoRe_user_doc/refs/heads/main/docs/compute.csv).
+    This information can be downloaded as a `.csv` from
+    [the `scoreto` R package](https://github.com/richelbilderbeek/scoreto/blob/main/inst/extdata/compute.csv).
 
 <!-- compute_2.md is machine-generated and pasted below this file, compute_1.md -->
