@@ -1,14 +1,11 @@
 # Welcome to the SCoRe user documentation
 
-!!! warning "This page is a stub"
-
-    As of now, this page is incomplete, possibly incorrect and
-    open for [contributions](CONTRIBUTING.md).
-
 This site intends to help a user find
 [the resources for his/her needs](resources.md).
 
 [Find the resources for you needs](resources.md).
+
+---
 
 ![AIDA Data Hub logo](logo/aida_logo_24_x_24.png)
 ![C3SE logo](logo/c3se_logo_134_x_24.png)
