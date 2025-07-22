@@ -8,6 +8,8 @@
 There are multiple types of [resources](resources.md) you may need.
 This page is about doing a heavy calculation efficiently.
 
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
 |HPC cluster name|Guide on how to improve efficiency|Center(s)|
 |:----------------------------|:----------------|:---------|
 |[Alvis](https://www.c3se.chalmers.se/about/Alvis/)                                      |.                                                                                   |![C3SE](logo/c3se_logo_134_x_24.png) ![NAISS](logo/naiss_logo_148_x_24.png)|
@@ -28,3 +30,5 @@ This page is about doing a heavy calculation efficiently.
 |[Trusted research environment](https://tre.gu.se/)                                      |                                                                                    |![University of Gothenburg](logo/university_of_gothenburg_logo_24_x_24.png)|
 |[Vera](https://www.c3se.chalmers.se/about/Vera/)                                        |                                                                                    |![C3SE](logo/c3se_logo_134_x_24.png)|
 |[Verdi](https://datahub.aida.scilifelab.se/data-science-platform/hardware/#verdi)       |                                                                                    |![AIDA Data Hub](logo/aida_logo_24_x_24.png)|
+
+<!-- markdownlint-enable MD013 -->
