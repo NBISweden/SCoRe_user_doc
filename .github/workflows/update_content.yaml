@@ -106,7 +106,23 @@ jobs:
         run: cat docs/index.md
 
       ##########################
-      # Commit
+      # Storage
+      ##########################
+
+      - name: Create docs/storage_2.md
+        run: Rscript -e 'scoreto::get_storage_as_markdown()' > docs/storage_2.md
+
+      - name: View storage_2.md
+        run: cat docs/storage_2.md
+
+      - name: Create docs/storage.md
+        run: ./scripts/create_storage_page.sh
+
+      - name: View docs/storage.md
+        run: cat docs/storage.md
+
+      ##########################
+      # Done with generating content
       ##########################
 
       - name: View changes, if any
