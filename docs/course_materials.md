@@ -30,11 +30,10 @@ by reading self-study material.
 
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
-Resource                                             |Description
+Resource                                                     |Topic
 ----------------------|----------------------
-[Learn X in Y minutes](https://learnxinyminutes.com/)|Community-driven site for learning programming languages
-[ENCCS](https://enccs.se/lessons/)                   |HPC computing teaching material developed by ENCCS
-
-
+[ENCCS](https://enccs.se/lessons/)                           |HPC computing
+[Learn X in Y minutes](https://learnxinyminutes.com/)        |Programming languages
+[SCC](https://github.com/SNICScienceCloud/technical-training)|Swedish Science Cloud, e.g. deploying an interactive website
 
 <!-- markdownlint-enable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
