@@ -1,10 +1,5 @@
 # Courses
 
-!!! warning "This page is a stub"
-
-    As of now, this page is incomplete, possibly incorrect and
-    open for [contributions](CONTRIBUTING.md).
-
 There are multiple types of [resources](resources.md) you may need.
 Knowledge is a resource too.
 This page shows the places to increase your knowledge in a learning
@@ -35,6 +30,11 @@ as provided by courses and training.
 ???- question "What does the :warning: mean?"
 
     It means that the course provider has supplied a broken course URL.
+
+???- question "A course provider is missing!"
+
+    If a course provider is missing, please [contribute](CONTRIBUTING.md)
+    or [contact us](contact_us.md).
 
 ???- question "My course is missing!"
 
