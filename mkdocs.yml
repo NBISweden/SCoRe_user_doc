@@ -8,6 +8,7 @@ nav:
     - Overview: resources.md
     - Compute: compute.md
     - Courses: courses.md
+    - Course material: course_materials.md
     - Efficient compute: efficiency.md
     - Other: other.md
     - Storage: storage.md
