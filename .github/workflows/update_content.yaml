@@ -57,6 +57,10 @@ jobs:
           remotes::install_github("richelbilderbeek/scoreto")
         shell: Rscript {0}
 
+      ##########################
+      # Compute
+      ##########################
+
       - name: Create docs/compute_2.md
         run: Rscript -e 'scoreto::get_compute_as_markdown()' > docs/compute_2.md
 
@@ -75,6 +79,10 @@ jobs:
       - name: View docs/compute.csv
         run: cat docs/compute.csv
 
+      ##########################
+      # Courses
+      ##########################
+
       - name: Create docs/courses_2.md
         run: Rscript -e 'scoreto::get_courses_as_markdown()' > docs/courses_2.md
 
@@ -92,6 +100,26 @@ jobs:
 
       - name: View docs/courses.csv
         run: cat docs/courses.csv
+
+      ##########################
+      # Index
+      ##########################
+
+      - name: Create docs/index_2.md
+        run: Rscript -e 'scoreto::get_all_provider_logos_as_markdown()' > docs/index_2.md
+
+      - name: View index_2.md
+        run: cat docs/index_2.md
+
+      - name: Create docs/index.md
+        run: ./scripts/create_index_page.sh
+
+      - name: View docs/index.md
+        run: cat docs/index.md
+
+      ##########################
+      # Commit
+      ##########################
 
       - name: View changes, if any
         run: git status
