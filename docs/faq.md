@@ -25,3 +25,13 @@ Computer-related and associated things, such as:
 - [Knowledge how to use these resources listed, i.e. courses](courses.md)
 - [Efficiency, i.e. knowing how to use computational power effectively](efficiency.md)
 
+## Who is behind this site?
+
+SCoRe is behind this site.
+
+## What is SCoRe?
+
+SCoRe is an abbreviation of 'Support for Computational Resources'.
+One of the purposes of this NBIS unit
+is to help Swedish life scientists find the resources they
+need.
