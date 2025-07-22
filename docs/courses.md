@@ -1,3 +1,14 @@
+---
+tags:
+  - courses
+  - training
+  - workshops
+  - teach
+  - teaching
+  - learning
+  - knowledge
+---
+
 # Courses
 
 !!! warning "This page is a stub"

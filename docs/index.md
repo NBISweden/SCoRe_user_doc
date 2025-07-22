@@ -5,14 +5,10 @@
     As of now, this page is incomplete, possibly incorrect and
     open for [contributions](CONTRIBUTING.md).
 
-The goal of SCoRe is in its name:
-'Support for Computational Resources'.
 This site intends to help a user find
 [the resources for his/her needs](resources.md).
 
-!!! note "Where do I find what I need?"
-
-    [Find the resources for you needs](resources.md).
+[Find the resources for you needs](resources.md).
 
 ![AIDA Data Hub logo](logo/aida_logo_24_x_24.png)
 ![C3SE logo](logo/c3se_logo_134_x_24.png)
