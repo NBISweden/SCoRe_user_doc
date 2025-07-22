@@ -38,5 +38,4 @@ Resource                                                     |Topic
 [SCC](https://github.com/SNICScienceCloud/technical-training)|Swedish Science Cloud, e.g. deploying an interactive website
 
 
-
 <!-- markdownlint-enable MD013 -->
