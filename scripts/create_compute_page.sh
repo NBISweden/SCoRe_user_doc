@@ -20,3 +20,4 @@ if [[ "$PWD" =~ scripts$ ]]; then
 fi
 
 cat docs/compute_1.md docs/compute_2.md > docs/compute.md
+
