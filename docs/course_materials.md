@@ -33,6 +33,8 @@ by reading self-study material.
 Resource                                             |Description
 ----------------------|----------------------
 [Learn X in Y minutes](https://learnxinyminutes.com/)|Community-driven site for learning programming languages
+[ENCCS](https://enccs.se/lessons/)                   |HPC computing teaching material developed by ENCCS
+
 
 
 <!-- markdownlint-enable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
