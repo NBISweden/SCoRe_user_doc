@@ -9,7 +9,7 @@ on:
       - 'docs/**'
       - mkdocs.yml
   workflow_run:
-    workflows: ["Update courses"]
+    workflows: ["Update content"]
     types:
       - completed
 jobs:
