@@ -65,6 +65,15 @@ as provided by courses and training.
     This is intentional: it allows a course provider to check
     if all course information is shared identical across the providers.
 
+???- question "How can I read this data is a machine-friendly format?"
+
+    Most of this information can be
+    [downloaded as a `.csv`](https://raw.githubusercontent.com/NBISweden/SCoRe_user_doc/refs/heads/main/docs/courses.csv).
+    The only difference is there is no indicator that a URL is broken.
+    
+    If you could use this information in the `.csv` file,
+    please [contribute](CONTRIBUTING.md)
+    or [contact us](contact_us.md).
 
 <!-- courses_2.md is machine-generated and pasted below this file, courses_1.md -->
 
