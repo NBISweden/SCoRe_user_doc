@@ -135,12 +135,8 @@ jobs:
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add docs/compute.md 
-          git add docs/compute.csv
-          git add docs/courses.md 
-          git add docs/courses.csv
-          git add docs/index.md 
-          git commit -m "Update courses" || true
+          git add .
+          git commit -m "Update content" || true
 
       - name: Push changes
         uses: ad-m/github-push-action@master
