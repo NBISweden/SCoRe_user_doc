@@ -67,12 +67,6 @@ jobs:
       - name: View docs/compute.md
         run: cat docs/compute.md
 
-      - name: Create docs/compute.csv
-        run: Rscript -e 'scoreto::save_compute_as_csv("docs/compute.csv")'
-
-      - name: View docs/compute.csv
-        run: cat docs/compute.csv
-
       ##########################
       # Courses
       ##########################
