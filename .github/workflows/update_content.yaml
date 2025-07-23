@@ -114,20 +114,20 @@ jobs:
         run: cat docs/index.md
 
       ##########################
-      # Web host
+      # Other
       ##########################
 
-      - name: Create docs/web_host_2.md
-        run: Rscript -e 'scoreto::get_web_host_as_markdown()' > docs/web_host_2.md
+      - name: Create docs/other_2.md
+        run: Rscript -e 'scoreto::get_other_as_markdown()' > docs/other_2.md
 
-      - name: View web_host_2.md
-        run: cat docs/web_host_2.md
+      - name: View other_2.md
+        run: cat docs/other_2.md
 
-      - name: Create docs/web_host.md
-        run: ./scripts/create_web_host_page.sh
+      - name: Create docs/other.md
+        run: ./scripts/create_other_page.sh
 
-      - name: View docs/web_host.md
-        run: cat docs/web_host.md
+      - name: View docs/other.md
+        run: cat docs/other.md
 
       ##########################
       # Storage
@@ -144,6 +144,22 @@ jobs:
 
       - name: View docs/storage.md
         run: cat docs/storage.md
+
+      ##########################
+      # Web host
+      ##########################
+
+      - name: Create docs/web_host_2.md
+        run: Rscript -e 'scoreto::get_web_host_as_markdown()' > docs/web_host_2.md
+
+      - name: View web_host_2.md
+        run: cat docs/web_host_2.md
+
+      - name: Create docs/web_host.md
+        run: ./scripts/create_web_host_page.sh
+
+      - name: View docs/web_host.md
+        run: cat docs/web_host.md
 
       ##########################
       # Done with generating content
