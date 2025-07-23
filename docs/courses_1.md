@@ -6,8 +6,6 @@ This page shows the places to increase your knowledge in a learning
 environment,
 as provided by courses and training.
 
-## List of courses
-
 ???- question "Why is this a useful resource?"
 
     This page is the only page that combines all the courses of all the
