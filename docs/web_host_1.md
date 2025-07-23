@@ -26,12 +26,4 @@ flowchart TD
 
 ## Overview of resources
 
-<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
-
-Resource                                        | Center(s)              | Resource type   | Compute | Storage |Type of data        | Costs for user | Accessible for
-------------------------------------------------|------------------------|-----------------|---------|---------|--------------------|----------------|------
-[Swedish Science Cloud](https://cloud.snic.se/) | NAISS                  | Website         | Low     | Low     | Regular            | Free           | Swedish researchers
-[SciLifeLab Serve](https://serve.scilifelab.se/)| SciLifeLab             | Website         | Low     | Low     | Regular            | Free           | Life science scientists
-
-<!-- markdownlint-enable MD013 -->
-
+<!-- web_host_2.md is machine-generated and pasted below this file, web_host_1.md -->
