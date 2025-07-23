@@ -40,7 +40,7 @@ flowchart TD
 ???- question "How can I read this data is a machine-friendly format?"
 
     This information can be downloaded as a `.csv` from
-    [the `scoreto` R package](https://github.com/richelbilderbeek/scoreto/blob/main/inst/extdata/web host.csv).
+    [the `scoreto` R package](https://github.com/richelbilderbeek/scoreto/blob/main/inst/extdata/web_host.csv).
 
 <!-- web_host_2.md is machine-generated and pasted below this file, web_host_1.md -->
 

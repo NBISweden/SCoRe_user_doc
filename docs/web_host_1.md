@@ -42,7 +42,7 @@ flowchart TD
     <!-- markdownlint-disable MD013 --><!-- URLs cannot be split up over lines, hence will break 80 characters per line -->
 
     This information can be downloaded as a `.csv` from
-    [the `scoreto` R package](https://github.com/richelbilderbeek/scoreto/blob/main/inst/extdata/web host.csv).
+    [the `scoreto` R package](https://github.com/richelbilderbeek/scoreto/blob/main/inst/extdata/web_host.csv).
 
     <!-- markdownlint-enable MD013 -->
 
