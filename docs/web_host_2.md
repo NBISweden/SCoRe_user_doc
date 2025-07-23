@@ -1,6 +1,6 @@
 
 
-|Webhost name|Deploy type|Data sensitivity|User fee|Accessible for|Center(s)|
+|Web host name|Deploy type|Data sensitivity|User fee|Accessible for|Center(s)|
 |:-----------------------------|:------------------------------------------------------------------------|:----------------|:----------|:-----------------------|:-----------|
 |[EOSC Cloud Container Platform](https://open-science-cloud.ec.europa.eu/services/cloud-container-platform)|Containers                                                               |Unknown          |Unknown    |EU citizens             |![EOSC](logo/eosc_logo_77_x_24.png)|
 |[EOSC Interactive Notebooks](https://open-science-cloud.ec.europa.eu/services/interactive-notebooks)|Jupyter notebooks in multiple programming langauges such as R and Python |Unknown          |Unknown    |EU citizens             |![EOSC](logo/eosc_logo_77_x_24.png)|
