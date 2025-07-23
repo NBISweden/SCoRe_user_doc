@@ -14,7 +14,7 @@ Need                                         |Resource
 I need to run heavy calculations             |[Compute](compute.md)
 I need to run heavy calculations efficiently |[Efficiency](efficiency.md)
 I need to store big amounts of data          |[Storage](storage.md)
-I need a website                             |[Website](website.md)
+I need a website                             |[Webhosting](webhost.md)
 I need to learn how to do something          |[Courses and training](courses.md)
 I need something else                        |[Other](other.md)
 I have other needs                           |[Contact us](contact_us.md)
