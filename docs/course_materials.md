@@ -23,6 +23,11 @@ by reading self-study material.
     This page is the only page that combines all the course materials
     of all the different providers.
 
+???- question "How was this overview created?"
+
+    This overview was created by going through providers'
+    sites and copying the resources they linked to.
+
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
 Resource                                                     |Topic
