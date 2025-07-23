@@ -1,4 +1,4 @@
-# Website
+# Web host
 
 !!! warning "This page is a stub"
 
