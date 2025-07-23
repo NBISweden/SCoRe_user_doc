@@ -21,7 +21,7 @@ Computer-related and associated things, such as:
 
 - [Computational power, e.g. HPC clusters](compute.md)
 - [Storage space, e.g. HPC storage systems](storage.md)
-- [A static or interactive website](website.md)
+- [A static or interactive website](web_host.md)
 - [Knowledge how to use these resources listed, i.e. courses](courses.md)
 - [Efficiency, i.e. knowing how to use computational power effectively](efficiency.md)
 
