@@ -39,13 +39,18 @@ flowchart TD
 
 ???- question "How can I read this data is a machine-friendly format?"
 
+    <!-- markdownlint-disable MD013 --><!-- URLs cannot be split up over lines, hence will break 80 characters per line -->
+
     This information can be downloaded as a `.csv` from
     [the `scoreto` R package](https://github.com/richelbilderbeek/scoreto/blob/main/inst/extdata/web_host.csv).
 
-<!-- web_host_2.md is machine-generated and pasted below this file, web_host_1.md -->
+    <!-- markdownlint-enable MD013 -->
+
+<!-- web_host_2.md is machine-generated -->
+<!-- and pasted below this file, web_host_1.md -->
 
 
-|Webhost name|Deploy type|Data sensitivity|User fee|Accessible for|Center(s)|
+|Web host name|Deploy type|Data sensitivity|User fee|Accessible for|Center(s)|
 |:-----------------------------|:------------------------------------------------------------------------|:----------------|:----------|:-----------------------|:-----------|
 |[EOSC Cloud Container Platform](https://open-science-cloud.ec.europa.eu/services/cloud-container-platform)|Containers                                                               |Unknown          |Unknown    |EU citizens             |![EOSC](logo/eosc_logo_77_x_24.png)|
 |[EOSC Interactive Notebooks](https://open-science-cloud.ec.europa.eu/services/interactive-notebooks)|Jupyter notebooks in multiple programming langauges such as R and Python |Unknown          |Unknown    |EU citizens             |![EOSC](logo/eosc_logo_77_x_24.png)|
