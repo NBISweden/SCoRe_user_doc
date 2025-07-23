@@ -1,7 +1,7 @@
 ---
 name: Courses page can be improved
 about: There is something in the Courses page that can be improved.
-title: ''
+title: 'Courses improvement suggestion: '
 labels: ''
 assignees: ''
 
