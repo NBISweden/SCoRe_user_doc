@@ -47,3 +47,10 @@ instead of the heavier [compute resources](compute.md).
 |[Verdi](https://datahub.aida.scilifelab.se/data-science-platform/hardware/#verdi)       |None found                                                                                             |![AIDA Data Hub](logo/aida_logo_24_x_24.png)|
 
 <!-- markdownlint-enable MD013 -->
+
+Other guides:
+
+- [Southern Methodist University best practices guide](https://southernmethodistuniversity.github.io/hpc_docs/tutorials/slurm/best_practices.html)
+- [Stack Overflow post on how to get the CPU and memory usage](https://stackoverflow.com/a/24087711/3364162)
+- [Blog post on using `seff` and `reportseff`](https://rse.princeton.edu/2020/01/monitoring-slurm-efficiency-with-reportseff/)
+
