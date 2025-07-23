@@ -12,7 +12,7 @@ nav:
     - Efficient compute: efficiency.md
     - Other: other.md
     - Storage: storage.md
-    - Web hosting: webhost.md
+    - Web hosting: web_host.md
   - FAQ: faq.md
   - Contributing: CONTRIBUTING.md
   - Contact us: contact_us.md
