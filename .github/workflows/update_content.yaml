@@ -106,6 +106,22 @@ jobs:
         run: cat docs/index.md
 
       ##########################
+      # Web host
+      ##########################
+
+      - name: Create docs/web_host_2.md
+        run: Rscript -e 'scoreto::get_all_provider_logos_as_markdown()' > docs/web_host_2.md
+
+      - name: View web_host_2.md
+        run: cat docs/web_host_2.md
+
+      - name: Create docs/web_host.md
+        run: ./scripts/create_web_host_page.sh
+
+      - name: View docs/web_host.md
+        run: cat docs/web_host.md
+
+      ##########################
       # Storage
       ##########################
 
