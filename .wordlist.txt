@@ -127,3 +127,10 @@ SCC
 Codecademy
 Gothenburg
 Swestore
+Nextcloud
+datasets
+Jupyter
+Researchdata
+Nextcloud
+datasets
+
