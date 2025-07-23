@@ -118,7 +118,7 @@ jobs:
       ##########################
 
       - name: Create docs/web_host_2.md
-        run: Rscript -e 'scoreto::get_all_provider_logos_as_markdown()' > docs/web_host_2.md
+        run: Rscript -e 'scoreto::get_web_host_as_markdown()' > docs/web_host_2.md
 
       - name: View web_host_2.md
         run: cat docs/web_host_2.md
