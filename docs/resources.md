@@ -18,7 +18,3 @@ I need a website                             |[Web hosting](web_host.md)
 I need to learn how to do something          |[Courses and training](courses.md)
 I need something else                        |[Other](other.md)
 I have other needs                           |[Contact us](contact_us.md)
-
-## Links
-
-- [NBIS resources](https://nbis.se/services/computational-resources)
