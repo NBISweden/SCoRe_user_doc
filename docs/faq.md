@@ -25,9 +25,12 @@ Those that are allowed to use at least one of the resources listed.
 
 These are some categories a user can be in:
 
+- Anyone
+- Anyone in Europe
 - Anyone in Sweden
 - A researcher based in Sweden
-- A researcher associated to a Swedish university
+- A researcher associated to a specific Swedish university
+- A researcher in a specific field
 
 ## What is meant with 'resources'?
 
