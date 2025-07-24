@@ -10,8 +10,6 @@ This page is about finding a place to run heavy calculations on:
 it shows a flowchart how to determine the computational resource
 you can use, followed by an overview of all resources.
 
-## Selecting the computational resource you can use
-
 ```mermaid
 flowchart TD
 
@@ -95,6 +93,8 @@ flowchart TD
   sensitivity_question[Do you work with sensitive data?]
   sensitivity_question --> |Yes| researcher_on_sensitive_data
   sensitivity_question --> |No| researcher_on_regular_data
+
+  researcher_on_sensitive_data ~~~ researcher_on_regular_data 
 ```
 
 ???- question "Why is this a useful resource?"

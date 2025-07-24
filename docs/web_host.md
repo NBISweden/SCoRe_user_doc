@@ -9,14 +9,26 @@ you can use, followed by an overview of all resources.
 
 ```mermaid
 flowchart TD
-  container[Can your work be put into a container?]
-  life_science[Do you work in life science?]
+
+  eosc_interactive_notebooks[EOSC Interactive Notebooks]
+  eosc_virtual_machines[EOSC Virtual Machines]
+  scc[Swedish Science Cloud]
+
   sll_serve[SciLifeLab Serve]
-  ssc[Swedish Science Cloud]
-  life_science --> |Yes| container
-  life_science --> |No| ssc
-  container --> |Yes| sll_serve
-  container --> |No| ssc
+  eosc_cloud_container_platform[EOSC Cloud Container Platform]
+
+  question_notebook[Do you only need a Jupyter notebook?]
+  question_notebook --> |Yes| eosc_interactive_notebooks
+  question_notebook --> |No| question_deployment
+
+  question_deployment[How do you want to deploy?]
+  question_deployment --> |From a container| question_life_science
+  question_deployment --> |From an image| eosc_virtual_machines
+  question_deployment --> |Custom| scc
+
+  question_life_science[Do you work in life science?]
+  question_life_science --> |Yes| sll_serve
+  question_life_science --> |No| eosc_cloud_container_platform	
 ```
 
 ???- question "How is this list generated and updated?"
