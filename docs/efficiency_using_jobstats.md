@@ -1,4 +1,4 @@
-# Efficiency
+# Efficiency using `jobstats`
 
 There are multiple tools for
 [using your HPC resources efficiently](efficiency.md) you may need.
