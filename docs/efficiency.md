@@ -124,7 +124,7 @@ flowchart TD
     mean that around half the time there is too little CPU power.
     This has an effect.
 
-    > Increase the number of cores, 
+    > Increase the number of cores,
     > so that on average the right amount of CPUs are booked
 
     This is around 8 cores (800%), as with that amount of cores:
@@ -142,7 +142,7 @@ inefficiently, see [the examples below](#examples)
 
 !!! note "No queue is possible"
 
-    If everyone followed these guidelines, 
+    If everyone followed these guidelines,
     there would probably not even be a queue most of the time!
 
 ## Examples
