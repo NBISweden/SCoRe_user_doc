@@ -7,6 +7,13 @@ using the `jobstats` tool.
 
 Here is the general strategy to effectively use your HPC resources:
 
+???- question "Want to see a video?"
+
+    Watch the YouTube video
+    [Efficient HPC resource use, using Slurm and jobstats](https://youtu.be/0FcREXUcOHc)
+    to see how the reasoning of this strategy
+    works out.
+
 <!-- markdownlint-disable MD013 --><!-- Mermaid nodes cannot be split up over lines, hence will break 80 characters per line -->
 
 ```mermaid
