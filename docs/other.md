@@ -1,10 +1,5 @@
 # Other
 
-!!! warning "This page is a stub"
-
-    As of now, this page is incomplete, possibly incorrect and
-    open for [contributions](CONTRIBUTING.md).
-
 There are multiple types of [resources](resources.md) you may need.
 This page is about other resources.
 
@@ -41,7 +36,7 @@ This page is about other resources.
 
 
 |Name|Description|User fee|Accessible for|Center(s)|
-|:------------------------|:-----------------------------------------|:----------|:--------------|:--------------|
+|:------------------------|:-----------------------------------------|:--------|:--------------|:------|
 |[AIDA Data Hub datasets](https://docs.datahub.aida.scilifelab.se/data/download-dataset/)|Download datasets from the AIDA Nextcloud |Free       |Everyone       |![AIDA Data Hub](logo/aida_logo_24_x_24.png)|
 |[EOSC Bulk Data Transfer](https://open-science-cloud.ec.europa.eu/services/bulk-data-transfer)|Transfer data in bulk                     |Unknown    |EU citizens    |![EOSC](logo/eosc_logo_77_x_24.png)|
 |[EOSC Large File Transfer](https://open-science-cloud.ec.europa.eu/services/large-file-transfer)|Transfer large files                      |Unknown    |EU citizens    |![EOSC](logo/eosc_logo_77_x_24.png)|

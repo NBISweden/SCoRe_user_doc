@@ -72,7 +72,7 @@ as provided by courses and training.
 
 
 |**From**|**To**|**Course name**|**Course site**|**Provider site**|**Provider name**|
-|:-----------|:------------|:---------------------------------------------------|:-----------|:------------------|:------------|
+|:----------|:----------|:------------------------------------------------------------------------------------|:---------------------|:-----------------|:-----------------|
 |2025-08-14 |2025-08-22 |PDC Summer School 2025                                                               |[Course site](https://lumi-supercomputer.eu/events/pdc-summer-school-2025/)|[Provider site](https://lumi-supercomputer.eu/events/)|![CSC logo](logo/csc_logo_31_x_24.png)|
 |2025-08-14 |2025-08-14 |PDC Summer School 2025: Introduction to High Performance Computing                   |:warning: [Course site](https://www.pdc.kth.se/about/events/about/events/pdc-summer-school-2025-introduction-to-high-performance-computing-1.1389436?date=2025-08-14&amp;orgdate=2025-07-24&amp;length=1&amp;orglength=0)|[Provider site](https://www.pdc.kth.se/about/events)|![PDC logo](logo/pdc_logo_21_x_24.png)|
 |2025-08-25 |2025-08-27 |Introduction to Linux and UPPMAX                                                     |[Course site](https://docs.uppmax.uu.se/courses_workshops/uppmax_intro_course)|[Provider site](https://docs.uppmax.uu.se/courses_workshops/courses_workshops/)|![UPPMAX logo](logo/uppmax_logo_116_x_24.png)|
