@@ -5,6 +5,20 @@
 This site intends to help a user find
 the resources for his/her needs.
 
+## What is new about this site?
+
+- Combines information from multiple sites.
+  The best example is [the 'Courses' page](courses.md),
+  where this site is the first to combine the courses offered by
+  [13 different](https://github.com/richelbilderbeek/scoreto/blob/main/R/get_courses.R#L26)
+  course providers.
+- Friendly to [contributions](CONTRIBUTING.md). For example, each page has
+  an 'Edit' button at the top-right corner, making it easy for everyone
+  (with a GitHub account) to suggest changes
+- Checks link to be valid. Not all resource providers do so:
+  for them, [the 'Courses' page](courses.md) is a useful resource,
+  as this indicates which of their course links are broken.
+
 ## Who are meant with 'user'?
 
 Those that are allowed to use at least one of the resources listed.
@@ -26,6 +40,8 @@ Computer-related and associated things, such as:
 - [Efficiency, i.e. knowing how to use computational power effectively](efficiency.md)
 
 ## Who is behind this site?
+
+![SCoRe logo](logo/score_logo_42_x_24.png)
 
 SCoRe is behind this site.
 
