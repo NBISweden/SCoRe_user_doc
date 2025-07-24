@@ -28,7 +28,7 @@ flowchart TD
 
   question_life_science[Do you work in life science?]
   question_life_science --> |Yes| sll_serve
-  question_life_science --> |No| eosc_cloud_container_platform	
+  question_life_science --> |No| eosc_cloud_container_platform 
 ```
 
 ???- question "How is this list generated and updated?"
