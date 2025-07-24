@@ -10,8 +10,6 @@ This page is about finding a place to store big amounts of data:
 it shows a flowchart how to determine the storage resource
 you can use, followed by an overview of all resources.
 
-## Selecting the storage resource you can use
-
 ```mermaid
 flowchart TD
 
@@ -87,6 +85,11 @@ flowchart TD
     question_data_sensitivity --> |No| spirula
 
   end
+
+  heavy_compute ~~~ research_field
+  question_hpc_cluster ~~~ research_field
+  heavy_compute ~~~ others
+  research_field ~~~ others
 ```
 
 ???- question "Why is this a useful resource?"
