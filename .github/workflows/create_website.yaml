@@ -31,6 +31,15 @@ jobs:
         run: |
           rm docs/courses_1.md
           rm docs/courses_2.md
+          rm docs/index_1.md
+          rm docs/index_2.md
+          rm docs/other_1.md
+          rm docs/other_2.md
+          rm docs/storage_1.md
+          rm docs/storage_2.md
+          rm docs/web_host_1.md
+          rm docs/web_host_2.md
 
       - name: Deploy website
         run: mkdocs gh-deploy --force
+
