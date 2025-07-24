@@ -1,4 +1,4 @@
-# Resources
+# Compute
 
 !!! warning "This page is a stub"
 
@@ -75,6 +75,7 @@ flowchart TD
     question_where_rr --> |Sweden| tetralith
     question_where_rr --> |Linköping| sigma
     question_where_rr --> |Gothenburg| vera
+    question_where_rr --> |Uppsala| rackham
 
     rackham -.-> |Future| pelle
     rackham -.-> |Future| arrhenius_rr
