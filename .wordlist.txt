@@ -133,4 +133,9 @@ Jupyter
 Researchdata
 Nextcloud
 datasets
-
+Bolin
+Centre
+FEGA
+GBIF
+genotype
+SBDI
