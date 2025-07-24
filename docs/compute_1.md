@@ -45,6 +45,7 @@ flowchart TD
   subgraph researcher_on_regular_data[Researcher, regular data]
     alvis[Alvis]
     arrhenius_rr[Arrhenius]
+    berzelius[Berzelius]
     cosmos[COSMOS]
     dardel[Dardel]
     data_science_platform_rr[Data Science Platform]
@@ -69,7 +70,8 @@ flowchart TD
     question_ai --> |No| question_where_rr
 
     question_where_rr[Where are you located?]
-    question_where_rr --> |Linköping| cosmos
+    question_where_rr --> |Linköping| berzelius
+    question_where_rr --> |Lund| cosmos
     question_where_rr --> |Sweden| dardel
     question_where_rr --> |Lund| kebnekaise
     question_where_rr --> |Sweden| tetralith
