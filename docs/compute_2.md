@@ -1,7 +1,7 @@
 
 
 |HPC cluster name|Type of computation|Type of data|User fee|Accessible for|Center(s)|
-|:----------------------------|:---------------|:---------|:----------|:----------------------|:-------------------------|
+|:----------------------------|:-------------------|:------------|:--------|:----------------------|:------|
 |[Alvis](https://www.c3se.chalmers.se/about/Alvis/)|AI              |Regular   |Free       |Swedish researchers    |![C3SE](logo/c3se_logo_134_x_24.png) ![NAISS](logo/naiss_logo_148_x_24.png)|
 |[Berzelius](https://www.nsc.liu.se/systems/berzelius/)|General purpose |Regular   |Free       |Linköping researchers  |![NSC](logo/nsc_logo_66_x_24.png)|
 |[Bianca](https://docs.uppmax.uu.se/cluster_guides/bianca/)|General purpose |Sensitive |Free       |Swedish researchers    |![NAISS](logo/naiss_logo_148_x_24.png) ![UPPMAX](logo/uppmax_logo_116_x_24.png)|

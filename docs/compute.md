@@ -1,10 +1,5 @@
 # Compute
 
-!!! warning "This page is a stub"
-
-    As of now, this page is incomplete, possibly incorrect and
-    open for [contributions](CONTRIBUTING.md).
-
 There are multiple types of [resources](resources.md) you may need.
 This page is about finding a place to run heavy calculations on:
 it shows a flowchart how to determine the computational resource
@@ -135,7 +130,7 @@ flowchart TD
 
 
 |HPC cluster name|Type of computation|Type of data|User fee|Accessible for|Center(s)|
-|:----------------------------|:---------------|:---------|:----------|:----------------------|:-------------------------|
+|:----------------------------|:-------------------|:------------|:--------|:----------------------|:------|
 |[Alvis](https://www.c3se.chalmers.se/about/Alvis/)|AI              |Regular   |Free       |Swedish researchers    |![C3SE](logo/c3se_logo_134_x_24.png) ![NAISS](logo/naiss_logo_148_x_24.png)|
 |[Berzelius](https://www.nsc.liu.se/systems/berzelius/)|General purpose |Regular   |Free       |Linköping researchers  |![NSC](logo/nsc_logo_66_x_24.png)|
 |[Bianca](https://docs.uppmax.uu.se/cluster_guides/bianca/)|General purpose |Sensitive |Free       |Swedish researchers    |![NAISS](logo/naiss_logo_148_x_24.png) ![UPPMAX](logo/uppmax_logo_116_x_24.png)|

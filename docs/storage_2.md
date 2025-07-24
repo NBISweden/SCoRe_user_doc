@@ -1,7 +1,7 @@
 
 
 |HPC storage system name|Data sensitivity|Data activity|User fee|Accessible for|Center(s)|
-|:----------------------------------------|:----------------|:-------------|:----------|:----------------------------------------------------------|:---------------------|
+|:----------------------------------------|:----------------|:-------------|:--------|:----------------------------------------------------------|:------|
 |[Berzelius Storage](https://supr.naiss.se/resource/berzelius-storage/)|regular          |active        |Free       |Users of the NSC Berzelius HPC cluster                     |![NSC](logo/nsc_logo_66_x_24.png)|
 |[Bolin Centre Database](https://bolin.su.se/data)|Regular          |Any           |Free       |Climate researchers                                        |![Stockholm University](logo/stockholm_university_logo_57_x_24.png)|
 |[Center Storage](https://www.nsc.liu.se/support/storage/snic-centrestorage/)|regular          |active        |Free       |Users of the NSC HPC clusters                              |![NSC](logo/nsc_logo_66_x_24.png)|
