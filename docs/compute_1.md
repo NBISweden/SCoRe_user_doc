@@ -1,4 +1,4 @@
-# Resources
+# Compute
 
 !!! warning "This page is a stub"
 
