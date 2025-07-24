@@ -25,9 +25,16 @@ flowchart TD
   klemming[Klemming]
   mimer[Mimer]
   nobackup[Nobackup]
-  researchdata[Researchdata.se]
   spirula[Spirula]
   vesta[Vesta]
+
+  bolin_centre_database[Bolin Centre Database]
+  fega_sweden[FEGA Sweden]
+  gbif_sweden[GBIF Sweden]
+  sll_data_repository[SciLifeLab Data Repository]
+  sites_data_portal[SITES Data Portal]
+  sbdi[SBDI]
+  doris[DORIS]
 
   question_custom_rs[Need a custom setup?]
   question_custom_rs --> |Yes| data_science_platform
@@ -35,7 +42,7 @@ flowchart TD
 
   question_heavy_compute[Need heavy compute?]
   question_heavy_compute --> |Yes| question_hpc_cluster
-  question_heavy_compute --> |No| question_storage_time
+  question_heavy_compute --> |No| question_research_field
 
   question_hpc_cluster[Which HPC cluster do you use?]
   question_hpc_cluster --> |Berzelius| berzelius_storage
@@ -45,6 +52,18 @@ flowchart TD
   question_hpc_cluster --> |Dardel| klemming
   question_hpc_cluster --> |Alvis| mimer
   question_hpc_cluster --> |Kebnekaise| nobackup
+
+  question_research_field[What is your research field?]
+  question_research_field --> |Climate| bolin_centre_database
+  question_research_field --> |Genomics or phenomics| fega_sweden
+  question_research_field --> |Biodiversity| gbif_sweden
+  question_research_field --> |Biodiversity| sbdi
+  question_research_field --> |Life science| sll_data_repository
+  question_research_field --> |Ecosystems| sites_data_portal
+  question_research_field --> |Any| doris
+
+  question_research_field --> |Any| question_storage_time
+
 
   question_storage_time[How long must the data be stored?]
   question_storage_time --> |Short| eosc_file_sync_and_share
