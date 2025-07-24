@@ -107,3 +107,7 @@ depends on your HPC cluster:
 |[Tetralith](https://www.nsc.liu.se/systems/tetralith/)                                  |TODO                                      |![NAISS](logo/naiss_logo_148_x_24.png) ![NSC](logo/nsc_logo_66_x_24.png)|
 |[Trusted research environment](https://tre.gu.se/)                                      |TODO                                      |![University of Gothenburg](logo/university_of_gothenburg_logo_24_x_24.png)|
 |[Vera](https://www.c3se.chalmers.se/about/Vera/)                                        |TODO                                      |![C3SE](logo/c3se_logo_134_x_24.png)|
+
+???- question "Need a worked-out example?"
+
+    Worked-out examples can be found on each page specific to the tool used.
