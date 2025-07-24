@@ -56,6 +56,8 @@ instead of the heavier [compute resources](compute.md).
 
 Here is a strategy to effectively use your HPC resources:
 
+<!-- markdownlint-disable MD013 --><!-- Mermaid nodes cannot be split up over lines, hence will break 80 characters per line -->
+
 ```mermaid
 flowchart TD
   obtain_data[Obtain CPU and memory usage of a job]
@@ -74,6 +76,8 @@ flowchart TD
   lower_limit_based_on_cpu --> done
   add_one --> done
 ```
+
+<!-- markdownlint-enable MD013 -->
 
 ???- question "Why not look at CPU usage?"
 
@@ -120,7 +124,8 @@ flowchart TD
     mean that around half the time there is too little CPU power.
     This has an effect.
 
-    > Increase the number of cores, so that on average the right amount of CPUs are booked
+    > Increase the number of cores, 
+    > so that on average the right amount of CPUs are booked
 
     This is around 8 cores (800%), as with that amount of cores:
 
@@ -137,7 +142,8 @@ inefficiently, see [the examples below](#examples)
 
 !!! note "No queue is possible"
 
-    If everyone followed these guidelines, there would probably not even be a queue most of the time!
+    If everyone followed these guidelines, 
+    there would probably not even be a queue most of the time!
 
 ## Examples
 
@@ -184,7 +190,8 @@ The answer is 'yes'. Having 1 core would
 mean that around half the time there is too little CPU power.
 This has an effect.
 
-> Increase the number of cores, so that on average the right amount of CPUs are booked
+> Increase the number of cores,
+> so that on average the right amount of CPUs are booked
 
 This is around 8 cores (800%), as with that amount of cores:
 
@@ -213,7 +220,8 @@ The answer is 'yes'. Having 1 core would
 mean that most of the time our run is limited by CPU power.
 This has an impact on the runtime speed.
 
-> Increase the number of cores, so that on average the right amount of CPUs are booked
+> Increase the number of cores,
+> so that on average the right amount of CPUs are booked
 
 This is around 6 cores (600%), as with that amount of cores:
 
@@ -223,7 +231,8 @@ This is around 6 cores (600%), as with that amount of cores:
 
 There are no signs of anything slowing them down, as the line is very even.
 
-This jobs should either have been booked with 6 cores, or the program running should be told to use all 8 cores.
+This jobs should either have been booked with 6 cores,
+or the program running should be told to use all 8 cores.
 
 ### Inefficient job example 4: slowdown
 
