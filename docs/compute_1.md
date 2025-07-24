@@ -14,40 +14,85 @@ you can use, followed by an overview of all resources.
 
 ```mermaid
 flowchart TD
-  sensitive_data[Do you work with sensitive data?]
-  compute_ai[Do you focus on AI?]
 
-  sens_compute_location[Where are you located?]
-  compute_location[Where are you located?]
+  subgraph researcher_on_sensitive_data[Researcher, sensitive data]
+    arrhenius_rs[Arrhenius]
+    bianca[Bianca]
+    cosmos_sens[COSMOS SENS]    
+    data_science_platform_rs[Data Science Platform]
+    lumi_rs[LUMI]
+    maja[Maja]
+    trusted_research_environment_rs[Trusted research environment]
 
-  alvis[Alvis]
-  arrhenius[Arrhenius]
-  bianca[Bianca]
-  cosmos_sens[COSMOS SENS]
-  dardel[Dardel]
-  maja[Maja]
-  rackham[Rackham]
-  pelle[Pelle]
-  tetralith[Tetralith]
-  vesta[Vesta]
+    question_custom_rs[Need a custom setup?]
+    question_custom_rs --> |Yes| data_science_platform_rs
+    question_custom_rs --> |No| question_very_heavy_compute_rs
 
-  sensitive_data --> |No| compute_ai
-  sensitive_data --> |Yes| sens_compute_location
+    question_very_heavy_compute_rs[Need very heavy compute?]
+    question_very_heavy_compute_rs --> |Yes| lumi_rs
+    question_very_heavy_compute_rs --> |No| question_where_rs
 
-  compute_ai --> |No| compute_location
-  compute_ai --> |Yes| alvis
+    question_where_rs[Where are you located?]
+    question_where_rs --> |Sweden| bianca
+    question_where_rs --> |Linköping| cosmos_sens
+    question_where_rs --> |Gothenburg| trusted_research_environment_rs
 
-  compute_location --> |Anywhere in Sweden| dardel
-  compute_location --> |Anywhere in Sweden| tetralith
-  compute_location --> |Umeå| Kebnekase
-  compute_location --> |Uppsala| rackham
-  rackham -.-> |Future| pelle
+    bianca -.-> |Future| maja
+    bianca -.-> |Future| arrhenius_rs
 
-  sens_compute_location --> |Anywhere in Sweden| bianca
-  sens_compute_location --> |Lund| cosmos_sens
-  sens_compute_location --> |Uppsala| vesta
-  sens_compute_location -.-> |Uppsala| maja
-  bianca -.-> |Future| arrhenius
+  end
+
+  subgraph researcher_on_regular_data[Researcher, regular data]
+    alvis[Alvis]
+    arrhenius_rr[Arrhenius]
+    cosmos[COSMOS]
+    dardel[Dardel]
+    data_science_platform_rr[Data Science Platform]
+    kebnekaise[Kebnekaise]
+    lumi[LUMI]
+    pelle[Pelle]
+    rackham[Rackham]
+    sigma[Sigma]
+    tetralith[Tetralith]
+    vera[Vera]
+
+    question_custom_rr[Need a custom setup?]
+    question_custom_rr --> |Yes| data_science_platform_rr
+    question_custom_rr --> |No| question_very_heavy_compute
+
+    question_very_heavy_compute_rr[Need very heavy compute?]
+    question_very_heavy_compute_rr --> |Yes| lumi
+    question_very_heavy_compute_rr --> |No| question_ai
+
+    question_ai[Are you working with AI?]
+    question_ai --> |Yes| alvis
+    question_ai --> |No| question_where_rr
+
+    question_where_rr[Where are you located?]
+    question_where_rr --> |Linköping| cosmos
+    question_where_rr --> |Sweden| dardel
+    question_where_rr --> |Lund| kebnekaise
+    question_where_rr --> |Sweden| tetralith
+    question_where_rr --> |Linköping| sigma
+    question_where_rr --> |Gothenburg| vera
+
+    rackham -.-> |Future| pelle
+    rackham -.-> |Future| arrhenius_rr
+
+  end
+  
+  subgraph anyone_on_any_data[Anyone, any data]
+    aa_data_science_platform[Data Science Platform]
+  end
+
+  job_question[Are you a researcher?]
+
+  job_question --> |No| anyone_on_any_data
+  job_question --> |Yes| sensitivity_question
+
+  sensitivity_question[Do you work with sensitive data?]
+  sensitivity_question --> |Yes| researcher_on_sensitive_data
+  sensitivity_question --> |No| researcher_on_regular_data
 ```
 
 ???- question "Why is this a useful resource?"
