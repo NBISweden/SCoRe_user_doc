@@ -1,10 +1,5 @@
 # Resources
 
-!!! warning "This page is a stub"
-
-    As of now, this page is incomplete, possibly incorrect and
-    open for [contributions](CONTRIBUTING.md).
-
 The goal of SCoRe is in its name:
 'Support for Computational Resources'.
 This site intends to help a user find the resources for his/her needs.
