@@ -10,6 +10,10 @@ Here is the general strategy to effectively use your HPC resources:
 ???- question "Want to see a video?"
 
     Watch the YouTube video
+    [obtain the CPU and memory usage of a job using `jobstats`](https://youtu.be/W2sd4qsBPdQ)
+    to see how to do so.
+
+    Watch the YouTube video
     [Efficient HPC resource use, using Slurm and jobstats](https://youtu.be/0FcREXUcOHc)
     to see how the reasoning of this strategy
     works out.
