@@ -1,5 +1,7 @@
 # Welcome to the SCoRe user documentation
 
+![SCoRe logo](logo/score_logo_42_x_24.png)
+
 This site intends to help a user find
 [the resources for his/her needs](resources.md).
 

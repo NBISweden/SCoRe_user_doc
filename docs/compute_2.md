@@ -8,7 +8,6 @@
 |[COSMOS SENS](https://www.lunarc.lu.se/systems/cosmos-sens/)|General purpose |Sensitive |Free       |Lund researchers       |![LUNARC](logo/lunarc_logo_42_x_24.png)|
 |[Dardel](https://www.pdc.kth.se/hpc-services/computing-systems/dardel-hpc-system/dardel)|General purpose |Regular   |Free       |Swedish researchers    |![NAISS](logo/naiss_logo_148_x_24.png) ![PDC](logo/pdc_logo_21_x_24.png)|
 |[Data Science Platform](https://datahub.aida.scilifelab.se/data-science-platform/)|Any             |Any       |[User fee](https://datahub.aida.scilifelab.se/services/#prices)|Anyone                 |![AIDA Data Hub](logo/aida_logo_24_x_24.png)|
-|[EOSC EU Node](https://open-science-cloud.ec.europa.eu/)|General purpose |Regular   |Free       |Researchers in Europe  |![EOSC](logo/eosc_logo_77_x_24.png)|
 |[Kebnekaise](https://www.hpc2n.umu.se/resources/hardware/kebnekaise)|General purpose |Regular   |Free       |Umeå researchers       |![HPC2N](logo/hpc2n_logo_84_x_24.png)|
 |[Kebnekaise GPU](https://www.hpc2n.umu.se/resources/hardware/kebnekaise)|General purpose |Regular   |Free       |Umeå researchers       |![HPC2N](logo/hpc2n_logo_84_x_24.png)|
 |[Kebnekaise Large Memory](https://www.hpc2n.umu.se/resources/hardware/kebnekaise)|General purpose |Regular   |Free       |Umeå researchers       |![HPC2N](logo/hpc2n_logo_84_x_24.png)|
