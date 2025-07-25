@@ -1,6 +1,6 @@
 date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-08-14,2025-08-22,PDC Summer School 2025,https://lumi-supercomputer.eu/events/pdc-summer-school-2025/,https://lumi-supercomputer.eu/events/,CSC
-2025-08-14,2025-08-14,PDC Summer School 2025: Introduction to High Performance Computing,https://www.pdc.kth.se/about/events/about/events/pdc-summer-school-2025-introduction-to-high-performance-computing-1.1389436?date=2025-08-14&amp;orgdate=2025-07-24&amp;length=1&amp;orglength=0,https://www.pdc.kth.se/about/events,PDC
+2025-08-14,2025-08-14,PDC Summer School 2025: Introduction to High Performance Computing,https://www.pdc.kth.se/about/events/about/events/pdc-summer-school-2025-introduction-to-high-performance-computing-1.1389436?date=2025-08-14&amp;orgdate=2025-07-25&amp;length=1&amp;orglength=0,https://www.pdc.kth.se/about/events,PDC
 2025-08-25,2025-08-27,Introduction to Linux and UPPMAX,https://docs.uppmax.uu.se/courses_workshops/uppmax_intro_course,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-08-26,2025-08-26,Cluster architecture and job submission,https://www.hpc2n.umu.se/events/courses,https://www.hpc2n.umu.se/events/courses,HPC2N
 2025-08-28,2025-08-29,Awk workshop,https://docs.uppmax.uu.se/courses_workshops/awk/,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
@@ -19,7 +19,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-09-18,2025-09-18,Quantum-Accelerated Supercomputing for Materials Science (Webinar),https://enccs.se/events/quantum-accelerated-sc-materials-science/,https://enccs.se/events,ENCCS
 2025-09-22,2025-09-26,Epigenomics Data Analysis: from Bulk to Single Cell – ONLINE,https://uppsala.instructure.com/courses/112730,https://training.scilifelab.se/events,SciLifeLab
 2025-09-23,2025-09-26,CSC/Pawsey GPU Hackathon,https://lumi-supercomputer.eu/events/gpu-hackathon/,https://lumi-supercomputer.eu/events/,CSC
-2025-09-29,2025-09-29,Introduction to PDC Systems Course,https://www.pdc.kth.se/about/events/about/events/introduction-to-pdc-systems-course-1.1410466?date=2025-09-29&amp;orgdate=2025-07-24&amp;length=1&amp;orglength=0,https://www.pdc.kth.se/about/events,PDC
+2025-09-29,2025-09-29,Introduction to PDC Systems Course,https://www.pdc.kth.se/about/events/about/events/introduction-to-pdc-systems-course-1.1410466?date=2025-09-29&amp;orgdate=2025-07-25&amp;length=1&amp;orglength=0,https://www.pdc.kth.se/about/events,PDC
 2025-10-06,2025-10-08,"Introduction to running R, Julia, and Matlab in HPC",https://www.hpc2n.umu.se/events/courses,https://www.hpc2n.umu.se/events/courses,HPC2N
 2025-10-06,2025-10-31,Omics and data-driven precision health,https://scilifelab-training.github.io/Omics_DataDriven_PrecisionHealth/2504/,https://training.scilifelab.se/events,SciLifeLab
 2025-10-06,2025-10-10,"Introduction to running R, MATLAB, and Julia in HPC",https://docs.uppmax.uu.se/courses_workshops/R_matlab_julia,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
