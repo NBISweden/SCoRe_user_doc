@@ -52,7 +52,7 @@ flowchart TD
 
     question_custom_rr[Need a custom setup?]
     question_custom_rr --> |Yes| data_science_platform_rr
-    question_custom_rr --> |No| question_very_heavy_compute
+    question_custom_rr --> |No| question_very_heavy_compute_rr
 
     question_very_heavy_compute_rr[Need very heavy compute?]
     question_very_heavy_compute_rr --> |Yes| lumi
