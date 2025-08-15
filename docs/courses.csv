@@ -1,6 +1,5 @@
 date_from,date_to,course_name,course_url,provider_courses_url,provider_name
-2025-08-14,2025-08-22,PDC Summer School 2025,https://lumi-supercomputer.eu/events/pdc-summer-school-2025/,https://lumi-supercomputer.eu/events/,CSC
-2025-08-14,2025-08-14,PDC Summer School 2025: Introduction to High Performance Computing,https://www.pdc.kth.se//about/events/pdc-summer-school-2025-introduction-to-high-performance-computing-1.1389436?date=2025-08-14&amp;orgdate=2025-08-14&amp;length=1&amp;orglength=0,https://www.pdc.kth.se/about/events,PDC
+2025-07-01,2025-12-31,Open Science in the Swedish Context - Self Paced,https://doi.org/10.17044/scilifelab.c.7890686.v1,https://training.scilifelab.se/events,SciLifeLab
 2025-08-25,2025-08-27,Introduction to Linux and UPPMAX,https://docs.uppmax.uu.se/courses_workshops/uppmax_intro_course,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-08-26,2025-08-26,Cluster architecture and job submission,https://www.hpc2n.umu.se/events/courses,https://www.hpc2n.umu.se/events/courses,HPC2N
 2025-08-28,2025-08-29,Awk workshop,https://docs.uppmax.uu.se/courses_workshops/awk/,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
@@ -22,7 +21,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-10-01,2025-10-01,Introduction seminar for Alvis users,https://indico.chalmers.se/event/353/,https://www.c3se.chalmers.se/,C3SE
 2025-10-02,2025-10-02,AITO webinar,https://lumi-supercomputer.eu/events/aito-webinar/,https://lumi-supercomputer.eu/events/,CSC
 2025-10-06,2025-10-08,"Introduction to running R, Julia, and Matlab in HPC",https://www.hpc2n.umu.se/events/courses,https://www.hpc2n.umu.se/events/courses,HPC2N
-2025-10-06,2025-10-06,Introduction to PDC Systems Course,https://www.pdc.kth.se//about/events/introduction-to-pdc-systems-course-1.1410466?date=2025-10-06&amp;orgdate=2025-08-14&amp;length=1&amp;orglength=0,https://www.pdc.kth.se/about/events,PDC
+2025-10-06,2025-10-06,Introduction to PDC Systems Course,https://www.pdc.kth.se//about/events/introduction-to-pdc-systems-course-1.1410466?date=2025-10-06&amp;orgdate=2025-08-15&amp;length=1&amp;orglength=0,https://www.pdc.kth.se/about/events,PDC
 2025-10-06,2025-10-31,Omics and data-driven precision health,https://scilifelab-training.github.io/Omics_DataDriven_PrecisionHealth/2504/,https://training.scilifelab.se/events,SciLifeLab
 2025-10-06,2025-10-10,"Introduction to running R, MATLAB, and Julia in HPC",https://docs.uppmax.uu.se/courses_workshops/R_matlab_julia,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-10-08,2025-10-09,Moving your AI training jobs to LUMI: A Hands-On Workshop,https://lumi-supercomputer.eu/events/moving-your-ai-training-jobs-to-lumi-a-hands-on-workshop/,https://lumi-supercomputer.eu/events/,CSC
@@ -42,7 +41,6 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-11-03,2025-11-07,Introduction to Git,https://www.hpc2n.umu.se/events/courses,https://www.hpc2n.umu.se/events/courses,HPC2N
 2025-11-03,2025-11-14,Proteomics by Mass Spectrometry: When and How,https://doctoralcourses.application.ki.se/fubasextern/info?kurs=K7F2522,https://training.scilifelab.se/events,SciLifeLab
 2025-11-10,2025-11-14,Physiology of ion channels and their role in disease,https://liu.se/en/organisation/liu/bkv/physiology-of-ion-channels-and-their-role-in-disease,https://training.scilifelab.se/events,SciLifeLab
-2025-11-17,2025-11-21,Introduction to bioinformatics using NGS data,https://uppsala.instructure.com/courses/112140,https://training.scilifelab.se/events,SciLifeLab
 2025-11-18,2025-11-18,Bianca In-Depth Workshop/Hackathon: Improve Your Handling of Sensitive Research Data,https://docs.uppmax.uu.se/courses_workshops/bianca_intermediate,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-11-25,2025-11-25,AITO webinar,https://lumi-supercomputer.eu/events/aito-webinar-2/,https://lumi-supercomputer.eu/events/,CSC
 2025-11-27,2025-11-28,Using Python in an HPC environment part 2,https://docs.uppmax.uu.se/courses_workshops/hpc_python,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
