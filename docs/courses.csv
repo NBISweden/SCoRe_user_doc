@@ -7,29 +7,23 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-09-09,2025-09-11,CodeRefinery tools workshop (online),https://coderefinery.github.io/2025-09-09-workshop/,https://coderefinery.org/workshops/upcoming/,Code Refinery
 2025-09-09,2025-09-09,Introduction to Kebnekaise,https://www.hpc2n.umu.se/events/courses/2025/fall/intro-kebnekaise,https://www.hpc2n.umu.se/events/courses,HPC2N
 2025-09-09,2025-09-09,Berzelius Training - Introduction to Berzelius,https://www.nsc.liu.se/support/Events/Berzelius_training_Sep2025/,https://www.nsc.liu.se/support/Events/,NSC
-2025-09-09,2025-09-11,Introduction to Data Management Practices,https://uppsala.instructure.com/courses/112492,https://training.scilifelab.se/events,SciLifeLab
 2025-09-10,2025-09-10,Selecting Software Modules,https://www.hpc2n.umu.se/events/courses/2025/fall/1/selecting-modules,https://www.hpc2n.umu.se/events/courses,HPC2N
-2025-09-10,2025-09-12,1st SciLifeLab Workshop on Microcrystal Electron Diffraction (MicroED),https://www.scilifelab.se/wp-content/uploads/2025/06/Program_MicroED_Workshop10-12Sept-2025_2-1.pdf,https://training.scilifelab.se/events,SciLifeLab
-2025-09-15,2025-09-19,Population Genomics in Practice,https://docs.google.com/forms/d/e/1FAIpQLSfT9BIcZnqwOfvXLfXIiBLzDzZPTRXdC8b4kiogiFgJWom7PQ/viewform?usp=send_form,https://training.scilifelab.se/events,SciLifeLab
 2025-09-15,2025-09-15,Introduction to Bianca: Handling Sensitive Research Data,https://docs.uppmax.uu.se/courses_workshops/bianca_intro,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-09-16,2025-09-18,Practical Machine Learning (Online),https://enccs.se/events/09-2025-practical-machine-learning/,https://enccs.se/events,ENCCS
 2025-09-18,2025-09-18,Quantum-Accelerated Supercomputing for Materials Science (Webinar),https://enccs.se/events/quantum-accelerated-sc-materials-science/,https://enccs.se/events,ENCCS
 2025-09-22,2025-09-22,Introduction to Linux,https://www.hpc2n.umu.se/events/courses/2025/fall/1/intro-linux,https://www.hpc2n.umu.se/events/courses,HPC2N
-2025-09-22,2025-09-26,Epigenomics Data Analysis: from Bulk to Single Cell – ONLINE,https://uppsala.instructure.com/courses/112730,https://training.scilifelab.se/events,SciLifeLab
 2025-09-23,2025-09-26,CSC/Pawsey GPU Hackathon,https://lumi-supercomputer.eu/events/gpu-hackathon/,https://lumi-supercomputer.eu/events/,CSC
 2025-10-01,2025-10-01,Introduction seminar for Alvis users,https://indico.chalmers.se/event/353/,https://www.c3se.chalmers.se/,C3SE
 2025-10-02,2025-10-02,AITO webinar,https://lumi-supercomputer.eu/events/aito-webinar/,https://lumi-supercomputer.eu/events/,CSC
 2025-10-06,2025-10-08,"Introduction to running R, Julia, and Matlab in HPC",https://www.hpc2n.umu.se/events/courses,https://www.hpc2n.umu.se/events/courses,HPC2N
 2025-10-06,2025-10-06,Introduction to PDC Systems Course,https://www.pdc.kth.se//about/events/introduction-to-pdc-systems-course-1.1410466?date=2025-10-06&amp;orgdate=2025-08-21&amp;length=1&amp;orglength=0,https://www.pdc.kth.se/about/events,PDC
-2025-10-06,2025-10-31,Omics and data-driven precision health,https://scilifelab-training.github.io/Omics_DataDriven_PrecisionHealth/2504/,https://training.scilifelab.se/events,SciLifeLab
 2025-10-06,2025-10-10,"Introduction to running R, MATLAB, and Julia in HPC",https://docs.uppmax.uu.se/courses_workshops/R_matlab_julia,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-10-08,2025-10-09,Moving your AI training jobs to LUMI: A Hands-On Workshop,https://lumi-supercomputer.eu/events/moving-your-ai-training-jobs-to-lumi-a-hands-on-workshop/,https://lumi-supercomputer.eu/events/,CSC
 2025-10-09,2025-10-09,HPC Workloads in the Cloud - a practical intro webinar,https://enccs.se/events/10-2025-hpc-workloads-in-the-cloud/,https://enccs.se/events,ENCCS
 2025-10-09,2025-10-09,Berzelius Training - Practical Machine Learning,https://www.nsc.liu.se/support/Events/Berzelius_training_Oct2025/,https://www.nsc.liu.se/support/Events/,NSC
-2025-10-13,2025-10-16,Biomarker Discovery: from theory to real world examples,https://docs.google.com/forms/d/e/1FAIpQLSfdLPrNB1TdQ3x6cgNNNlSOMkuuH3-pFcHLMu9XBYD-Q5aYtA/viewform?usp=pp_url,https://training.scilifelab.se/events,SciLifeLab
 2025-10-13,2025-10-13,Basic Singularity: Running and building Singularity containers,https://docs.uppmax.uu.se/courses_workshops/singularity/,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-10-14,2025-10-14,Introduction to Python,https://docs.uppmax.uu.se/courses_workshops/intro_to_python,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
-2025-10-15,2025-10-17,Basic Course in Scanning and Transmission Electron Microscopy (SEM/TEM),https://www.umu.se/en/research/infrastructure/medicinska-fakulteten/u/umea-centre-for-electron-microscopy-ucem/courses-workshops-and-training/basic-course-oct-2025/,https://training.scilifelab.se/events,SciLifeLab
+2025-10-15,2025-10-17,Introduction to Linux and UPPMAX,https://docs.uppmax.uu.se/courses_workshops/uppmax_intro_course,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-10-20,2025-10-21,LUMI Intro Course,https://lumi-supercomputer.eu/events/lumi-intro-course-tallinn/,https://lumi-supercomputer.eu/events/,CSC
 2025-10-20,2025-10-20,Linux Command Line 101,https://www.hpc2n.umu.se/events/courses,https://www.hpc2n.umu.se/events/courses,HPC2N
 2025-10-22,2025-10-24,LUMI Profiling and Optimization Workshop,https://lumi-supercomputer.eu/events/profiling-ws-tallinn/,https://lumi-supercomputer.eu/events/,CSC
@@ -38,9 +32,6 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-11-03,2025-11-07,Quantum Autumn School 2025,https://lumi-supercomputer.eu/events/quantum-autumn-school-2025/,https://lumi-supercomputer.eu/events/,CSC
 2025-11-03,2025-11-07,Quantum Autumn School 2025,https://enccs.se/events/qas-2025/,https://enccs.se/events,ENCCS
 2025-11-03,2025-11-07,Introduction to Git,https://www.hpc2n.umu.se/events/courses,https://www.hpc2n.umu.se/events/courses,HPC2N
-2025-11-03,2025-11-14,Proteomics by Mass Spectrometry: When and How,https://doctoralcourses.application.ki.se/fubasextern/info?kurs=K7F2522,https://training.scilifelab.se/events,SciLifeLab
-2025-11-10,2025-11-14,Physiology of ion channels and their role in disease,https://liu.se/en/organisation/liu/bkv/physiology-of-ion-channels-and-their-role-in-disease,https://training.scilifelab.se/events,SciLifeLab
-2025-11-17,2025-11-21,Introduction to bioinformatics using NGS data,https://uppsala.instructure.com/courses/112140,https://training.scilifelab.se/events,SciLifeLab
 2025-11-18,2025-11-18,Bianca In-Depth Workshop/Hackathon: Improve Your Handling of Sensitive Research Data,https://docs.uppmax.uu.se/courses_workshops/bianca_intermediate,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-11-25,2025-11-25,AITO webinar,https://lumi-supercomputer.eu/events/aito-webinar-2/,https://lumi-supercomputer.eu/events/,CSC
 2025-11-27,2025-11-28,Using Python in an HPC environment part 2,https://docs.uppmax.uu.se/courses_workshops/hpc_python,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
