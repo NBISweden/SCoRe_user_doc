@@ -56,7 +56,7 @@ instead of the heavier [compute resources](compute.md).
 
 Below is a general strategy to effectively use your HPC resources.
 How this looks like in practice, depends on the tool available
-on your HPC cluster. 
+on your HPC cluster.
 
 <!-- markdownlint-disable MD013 --><!-- Mermaid nodes cannot be split up over lines, hence will break 80 characters per line -->
 
