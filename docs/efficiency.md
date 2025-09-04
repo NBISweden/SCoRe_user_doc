@@ -106,7 +106,7 @@ depends on your HPC cluster:
 |[LUMI](https://lumi-supercomputer.eu/)                                                  |TODO                                            |![CSC](logo/csc_logo_31_x_24.png) ![NAISS](logo/naiss_logo_148_x_24.png)|
 |[Rackham](https://docs.uppmax.uu.se/cluster_guides/rackham/)                            |[Using `jobstats`](efficiency_using_jobstats.md)|![NAISS](logo/naiss_logo_148_x_24.png) ![UPPMAX](logo/uppmax_logo_116_x_24.png)|
 |[Sigma](https://www.nsc.liu.se/systems/sigma/)                                          |TODO                                            |![NSC](logo/nsc_logo_66_x_24.png)|
-|[Tetralith](https://www.nsc.liu.se/systems/tetralith/)                                  |TODO                                            |![NAISS](logo/naiss_logo_148_x_24.png) ![NSC](logo/nsc_logo_66_x_24.png)|
+|[Tetralith](https://www.nsc.liu.se/systems/tetralith/)                                  |TODO, has `seff`                                |![NAISS](logo/naiss_logo_148_x_24.png) ![NSC](logo/nsc_logo_66_x_24.png)|
 |[Trusted research environment](https://tre.gu.se/)                                      |TODO                                            |![University of Gothenburg](logo/university_of_gothenburg_logo_24_x_24.png)|
 |[Vera](https://www.c3se.chalmers.se/about/Vera/)                                        |TODO                                            |![C3SE](logo/c3se_logo_134_x_24.png)|
 
