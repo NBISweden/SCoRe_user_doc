@@ -1,6 +1,5 @@
 date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-08-26,2025-10-16,Data-driven Life Sciences course 2025,https://ddls.aicell.io/course/ddls-2025/,https://training.scilifelab.se/events,SciLifeLab
-2025-09-05,2025-09-05,Log in and transfer files to/from HPC Clusters,https://docs.uppmax.uu.se/courses_workshops/naiss_transfer,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-09-09,2025-09-11,CodeRefinery tools workshop (online),https://coderefinery.github.io/2025-09-09-workshop/,https://coderefinery.org/workshops/upcoming/,Code Refinery
 2025-09-09,2025-09-11,CodeRefinery Workshop on Coding Tools and Techniques for Reproducible Research [In-person &amp; online],https://enccs.se/events/coderefinery-git-coding-tools-sept-25/,https://enccs.se/events,ENCCS
 2025-09-09,2025-09-09,Introduction to Kebnekaise,https://www.hpc2n.umu.se/events/courses/2025/fall/intro-kebnekaise,https://www.hpc2n.umu.se/events/courses,HPC2N
@@ -20,7 +19,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-10-02,2025-10-02,AITO webinar,https://lumi-supercomputer.eu/events/aito-webinar/,https://lumi-supercomputer.eu/events/,CSC
 2025-10-03,2025-10-03,VASP best practices seminar - online event,https://www.nsc.liu.se/support/Events/VASP_seminar_2025/,https://www.nsc.liu.se/support/Events/,NSC
 2025-10-06,2025-10-08,"Introduction to running R, Julia, and Matlab in HPC",https://www.hpc2n.umu.se/events/courses/2025/fall/r-matlab-julia,https://www.hpc2n.umu.se/events/courses,HPC2N
-2025-10-06,2025-10-06,Introduction to PDC Systems Course,https://www.pdc.kth.se//about/events/introduction-to-pdc-systems-course-1.1410466?date=2025-10-06&amp;orgdate=2025-09-05&amp;length=1&amp;orglength=0,https://www.pdc.kth.se/about/events,PDC
+2025-10-06,2025-10-06,Introduction to PDC Systems Course,https://www.pdc.kth.se//about/events/introduction-to-pdc-systems-course-1.1410466?date=2025-10-06&amp;orgdate=2025-09-06&amp;length=1&amp;orglength=0,https://www.pdc.kth.se/about/events,PDC
 2025-10-06,2025-10-31,Omics and data-driven precision health,https://scilifelab-training.github.io/Omics_DataDriven_PrecisionHealth/2504/,https://training.scilifelab.se/events,SciLifeLab
 2025-10-06,2025-10-10,"Introduction to running R, MATLAB, and Julia in HPC",https://docs.uppmax.uu.se/courses_workshops/R_matlab_julia,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-10-08,2025-10-09,Moving your AI training jobs to LUMI: A Hands-On Workshop,https://lumi-supercomputer.eu/events/moving-your-ai-training-jobs-to-lumi-a-hands-on-workshop/,https://lumi-supercomputer.eu/events/,CSC
