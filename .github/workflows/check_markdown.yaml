@@ -13,12 +13,14 @@ on:
       - 'docs/**'
       - .markdownlintignore
       - .markdownlint.jsonc
+      - '**.md'
   pull_request:
     paths:
       - .github/workflows/check_markdown.yaml
       - 'docs/**'
       - .markdownlintignore
       - .markdownlint.jsonc
+      - '**.md'
   schedule:
   - cron: "0 0 21 * *"
 
