@@ -23,7 +23,7 @@ Here is the general strategy to effectively use your HPC resources:
 ```mermaid
 flowchart TD
   obtain_data[Obtain CPU and memory usage of a job]
-  lower_limit_based_on_memory(Pick the number of cores to have enough memory)
+  lower_limit_based_on_memory(Book enough memory)
   limited_by_cpu(For that amount of cores, would runtime by limited by CPU?)
   lower_limit_based_on_cpu(Increase the number of cores, so that on average, the right amount of CPUs is booked)
 
@@ -85,7 +85,7 @@ The task which had the largest memory consumption differs by 102.24% from the av
 
     .
 
-    > Pick the number of cores to have enough memory
+    > Book enough memory
 
     .
 
@@ -99,7 +99,7 @@ The task which had the largest memory consumption differs by 102.24% from the av
 
 ???- question "Need another worked-out example?"
 
-    > Pick the number of cores to have enough memory
+    > Book enough memory
 
     .
 
@@ -139,7 +139,7 @@ The task which had the largest memory consumption differs by 102.24% from the av
 
 Here booking 7 cores is considered okay.
 
-> Pick the number of cores to have enough memory
+> Book enough memory
 
 In this job, only 3.17% of the memory of was used.
 3.17% of 160 scheduled cores is 5.072 core.
