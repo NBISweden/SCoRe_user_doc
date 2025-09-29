@@ -63,7 +63,7 @@ on your HPC cluster.
 ```mermaid
 flowchart TD
   obtain_data[Obtain CPU and memory usage of a job]
-  lower_limit_based_on_memory(Pick the number of cores to have enough memory)
+  lower_limit_based_on_memory(Book enough memory)
   limited_by_cpu(For that amount of cores, would runtime by limited by CPU?)
   lower_limit_based_on_cpu(Increase the number of cores, so that on average, the right amount of CPUs is booked)
 
