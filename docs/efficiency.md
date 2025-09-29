@@ -107,7 +107,7 @@ depends on your HPC cluster:
 |[Rackham](https://docs.uppmax.uu.se/cluster_guides/rackham/)                            |[Using `jobstats`](efficiency_using_jobstats.md)|![NAISS](logo/naiss_logo_148_x_24.png) ![UPPMAX](logo/uppmax_logo_116_x_24.png)|
 |[Sigma](https://www.nsc.liu.se/systems/sigma/)                                          |[Using `seff`](efficiency_using_seff.md)        |![NSC](logo/nsc_logo_66_x_24.png)|
 |[Tetralith](https://www.nsc.liu.se/systems/tetralith/)                                  |[Using `seff`](efficiency_using_seff.md)        |![NAISS](logo/naiss_logo_148_x_24.png) ![NSC](logo/nsc_logo_66_x_24.png)|
-|[Trusted research environment](https://tre.gu.se/)                                      |[Using `seff`](efficiency_using_seff.md)        |![University of Gothenburg](logo/university_of_gothenburg_logo_24_x_24.png)|
+|[Trusted research environment](https://tre.gu.se/)                                      |?                                               |![University of Gothenburg](logo/university_of_gothenburg_logo_24_x_24.png)|
 |[Vera](https://www.c3se.chalmers.se/about/Vera/)                                        |[Using Grafana](efficiency_using_grafana.md)    |![C3SE](logo/c3se_logo_134_x_24.png)|
 
 ???- question "Need a worked-out example?"
