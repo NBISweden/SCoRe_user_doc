@@ -160,25 +160,38 @@ and what you can do to make them more efficient.
 
 ### Inefficient job example 1: booking too much cores
 
-![seff showing a single-node job](seff_c_555912-l_1-k_bad_job_01_with_border.png)
+```bash
+Job ID: 12696175
+Cluster: dardel
+User/Group: aletyner/aletyner
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 160
+CPU Utilized: 00:00:03
+CPU Efficiency: 0.00% of 1-23:22:40 core-walltime
+Job Wall-clock time: 00:17:46
+Memory Utilized: 4.35 GB
+Memory Efficiency: 3.17% of 137.19 GB (878.00 MB/core)
+The task which had the largest memory consumption differs by 102.24% from the average task max memory consumption
+```
 
-Here booking 5 cores is considered okay.
+Here booking 7 cores is considered okay.
 
 > Pick the number of cores to have enough memory
 
-The dotted black line hits the right-hand vertical axis at 390%.
-This means that 4 cores (i.e. 400%) would be enough for this job.
+In this job, only 3.17% of the memory of was used.
+3.17% of 160 scheduled cores is 5.072 core.
+In practice, this will be 6 cores.
 
 > For that amount of cores, would runtime by limited by CPU?
 
-The answer is 'no'. Having 4 cores would
-mean that most of the time only 1 are used.
-Only for some CPU spikes, the runtime is limited by CPU.
-This short time only has a minor impact on the runtime speed.
+The answer is 'no': we see a CPU efficiency of 0.00%
+(i.e. 0.0049% or lower). Hence, using reducing the number
+of cores to 3.17% will still be enough for the CPU.
 
 > Increase the number of cores by one for safety
 
-This means booking 5 cores is recommended.
+This means booking 7 cores is recommended.
 
 ### Inefficient job example 2: booking too much cores
 
