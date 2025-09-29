@@ -1,20 +1,20 @@
-# Efficiency using `jobstats`
+# Efficiency using `seff`
 
 There are multiple tools for
 [using your HPC resources efficiently](efficiency.md) you may need.
 This page is about using your HPC resources efficiently
-using the `jobstats` tool.
+using the `seff` tool.
 
 Here is the general strategy to effectively use your HPC resources:
 
 ???- question "Want to see a video?"
 
     Watch the YouTube video
-    [obtain the CPU and memory usage of a job using `jobstats`](https://youtu.be/W2sd4qsBPdQ)
+    [obtain the CPU and memory usage of a job using `seff`](https://youtu.be/W2sd4qsBPdQ)
     to see how to do so.
 
     Watch the YouTube video
-    [Efficient HPC resource use, using Slurm and jobstats](https://youtu.be/0FcREXUcOHc)
+    [Efficient HPC resource use, using Slurm and seff](https://youtu.be/0FcREXUcOHc)
     to see how the reasoning of this strategy
     works out.
 
@@ -51,16 +51,16 @@ flowchart TD
     the CPU spike will be turned into a 100% CPU use (of that one core)
     for a longer duration.
 
-To obtain the CPU and memory usage of a job using `jobstats`:
+To obtain the CPU and memory usage of a job using `seff`:
 
 ```bash
-jobstats --plot [job_id]
+seff --plot [job_id]
 ```
 
 for example:
 
 ```bash
-jobstats --plot 12345678
+seff --plot 12345678
 ```
 
 A plot is produced showing the resource use per node
@@ -81,7 +81,7 @@ Each plot shows:
 
 ???- question "Need a worked-out example?"
 
-    ![jobstats showing a single-node job](jobstats_c_555912-l_1-k_milou-b2010042-douglas-8769275_with_border.png)
+    ![seff showing a single-node job](seff_c_555912-l_1-k_milou-b2010042-douglas-8769275_with_border.png)
 
     > Pick the number of cores to have enough memory
 
@@ -101,7 +101,7 @@ Each plot shows:
 
 ???- question "Need another worked-out example?"
 
-    ![jobstats showing a single-node job](jobstats_c_555912-l_1-k_bad_job_05_with_border.png)
+    ![seff showing a single-node job](seff_c_555912-l_1-k_bad_job_05_with_border.png)
 
     > Pick the number of cores to have enough memory
 
@@ -142,7 +142,7 @@ and what you can do to make them more efficient.
 
 ### Inefficient job example 1: booking too much cores
 
-![jobstats showing a single-node job](jobstats_c_555912-l_1-k_bad_job_01_with_border.png)
+![seff showing a single-node job](seff_c_555912-l_1-k_bad_job_01_with_border.png)
 
 Here booking 5 cores is considered okay.
 
@@ -164,7 +164,7 @@ This means booking 5 cores is recommended.
 
 ### Inefficient job example 2: booking too much cores
 
-![jobstats showing a single-node job](jobstats_c_555912-l_1-k_bad_job_05_with_border.png)
+![seff showing a single-node job](seff_c_555912-l_1-k_bad_job_05_with_border.png)
 
 This is one of the grayer areas:
 booking 2-9 cores is all considered reasonable.
@@ -195,7 +195,7 @@ can be considered okay.
 
 ### Inefficient job example 3
 
-![jobstats showing a single-node job](jobstats_c_555912-l_1-k_bad_job_03_with_border.png)
+![seff showing a single-node job](seff_c_555912-l_1-k_bad_job_03_with_border.png)
 
 Here booking 6 cores is considered okay.
 
@@ -226,7 +226,7 @@ or the program running should be told to use all 8 cores.
 
 ### Inefficient job example 4: slowdown
 
-![jobstats showing a single-node job](jobstats_c_555912-l_1-k_bad_job_02_with_border.png)
+![seff showing a single-node job](seff_c_555912-l_1-k_bad_job_02_with_border.png)
 
 This job is using almost all of the cores it has booked,
 but there seems to be something holding them back.
@@ -249,7 +249,7 @@ and the problem should be solved.
 
 ### Inefficient job example 5
 
-![jobstats showing a single-node job](jobstats_c_555912-l_1-k_bad_job_04_with_border.png)
+![seff showing a single-node job](seff_c_555912-l_1-k_bad_job_04_with_border.png)
 
 This job has the same problem as the example above,
 but in a more extreme way.

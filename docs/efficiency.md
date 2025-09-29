@@ -96,11 +96,11 @@ depends on your HPC cluster:
 
 |HPC cluster name|Tool and guide|Center(s)|
 |:----------------------------|:----------------|:---------|
-|[Alvis](https://www.c3se.chalmers.se/about/Alvis/)                                      |TODO                                            |![C3SE](logo/c3se_logo_134_x_24.png) ![NAISS](logo/naiss_logo_148_x_24.png)|
+|[Alvis](https://www.c3se.chalmers.se/about/Alvis/)                                      |[Using Grafana](efficiency_using_grafana.md)    |![C3SE](logo/c3se_logo_134_x_24.png) ![NAISS](logo/naiss_logo_148_x_24.png)|
 |[Bianca](https://docs.uppmax.uu.se/cluster_guides/bianca/)                              |[Using `jobstats`](efficiency_using_jobstats.md)|![NAISS](logo/naiss_logo_148_x_24.png) ![UPPMAX](logo/uppmax_logo_116_x_24.png)|
 |[COSMOS](https://www.lunarc.lu.se/systems/cosmos/)                                      |TODO                                            |![LUNARC](logo/lunarc_logo_42_x_24.png) ![NAISS](logo/naiss_logo_148_x_24.png)|
 |[COSMOS SENS](https://www.lunarc.lu.se/systems/cosmos-sens/)                            |TODO                                            |![LUNARC](logo/lunarc_logo_42_x_24.png)|
-|[Dardel](https://www.pdc.kth.se/hpc-services/computing-systems/dardel-hpc-system/dardel)|TODO                                            |![NAISS](logo/naiss_logo_148_x_24.png) ![PDC](logo/pdc_logo_21_x_24.png)|
+|[Dardel](https://www.pdc.kth.se/hpc-services/computing-systems/dardel-hpc-system/dardel)|[Using `seff`](efficiency_using_seff.md)        |![NAISS](logo/naiss_logo_148_x_24.png) ![PDC](logo/pdc_logo_21_x_24.png)|
 |[Data Science Platform](https://datahub.aida.scilifelab.se/data-science-platform/)      |TODO                                            |![AIDA Data Hub](logo/aida_logo_24_x_24.png)|
 |[Kebnekaise](https://www.hpc2n.umu.se/resources/hardware/kebnekaise)                    |TODO                                            |![HPC2N](logo/hpc2n_logo_84_x_24.png)|
 |[LUMI](https://lumi-supercomputer.eu/)                                                  |TODO                                            |![CSC](logo/csc_logo_31_x_24.png) ![NAISS](logo/naiss_logo_148_x_24.png)|
