@@ -54,24 +54,24 @@ flowchart TD
 To obtain the CPU and memory usage of a job using `sacct`:
 
 ```bash
-sacct --format=jobid,elapsed,ncpus,ntasks,CPUTime,AveCPU,ReqMem -j [job_number]
+sacct --format=jobid,elapsed,ncpus,ntasks,UserCPU,CPUTime,AveCPU,MaxVMSize,ReqMem -j [job_number]
 ```
 
 for example:
 
 ```bash
-sacct --format=jobid,elapsed,ncpus,ntasks,CPUTime,AveCPU,ReqMem -j 1615382
+sacct --format=jobid,elapsed,ncpus,ntasks,UserCPU,CPUTime,AveCPU,MaxVMSize,ReqMem -j 1615382
 ```
 
 This will produce output such as this:
 
 
 ```bash
-JobID           Elapsed      NCPUS   NTasks    CPUTime     AveCPU     ReqMem 
------------- ---------- ---------- -------- ---------- ---------- ---------- 
-1615382        00:00:08         48            00:06:24               254400M 
-1615382.bat+   00:00:08         48        1   00:06:24   00:03:15            
-1615382.ext+   00:00:08         48        1   00:06:24   00:00:00   
+JobID           Elapsed      NCPUS   NTasks    UserCPU    CPUTime     AveCPU  MaxVMSize     ReqMem 
+------------ ---------- ---------- -------- ---------- ---------- ---------- ---------- ---------- 
+1615382        00:00:08         48           02:59.456   00:06:24                          254400M 
+1615382.bat+   00:00:08         48        1  02:59.456   00:06:24   00:03:15    320592K            
+1615382.ext+   00:00:08         48        1   00:00:00   00:06:24   00:00:00       256K            
 ```
 
 ???- question "Need a worked-out example?"
