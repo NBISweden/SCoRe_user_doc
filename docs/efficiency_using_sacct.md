@@ -53,18 +53,27 @@ flowchart TD
 
 To obtain the CPU and memory usage of a job using `sacct`:
 
+<!-- markdownlint-disable MD013 --><!-- Verbatim code cannot be split up over lines, hence will break 80 characters per line -->
+
 ```bash
 sacct --format=jobid,elapsed,ncpus,ntasks,UserCPU,CPUTime,AveCPU,MaxVMSize,ReqMem -j [job_number]
 ```
 
+<!-- markdownlint-enable MD013 -->
+
 for example:
+
+<!-- markdownlint-disable MD013 --><!-- Verbatim code cannot be split up over lines, hence will break 80 characters per line -->
 
 ```bash
 sacct --format=jobid,elapsed,ncpus,ntasks,UserCPU,CPUTime,AveCPU,MaxVMSize,ReqMem -j 1615382
 ```
 
+<!-- markdownlint-enable MD013 -->
+
 This will produce output such as this:
 
+<!-- markdownlint-disable MD013 --><!-- Verbatim code cannot be split up over lines, hence will break 80 characters per line -->
 
 ```bash
 JobID           Elapsed      NCPUS   NTasks    UserCPU    CPUTime     AveCPU  MaxVMSize     ReqMem 
@@ -73,6 +82,8 @@ JobID           Elapsed      NCPUS   NTasks    UserCPU    CPUTime     AveCPU  Ma
 1615382.bat+   00:00:08         48        1  02:59.456   00:06:24   00:03:15    320592K            
 1615382.ext+   00:00:08         48        1   00:00:00   00:06:24   00:00:00       256K            
 ```
+
+<!-- markdownlint-enable MD013 -->
 
 ???- question "Need a worked-out example?"
 

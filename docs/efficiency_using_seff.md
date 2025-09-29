@@ -65,6 +65,7 @@ seff 12696175
 
 This will produce output such as this:
 
+<!-- markdownlint-disable MD013 --><!-- Verbatim output cannot be split up over lines, hence will break 80 characters per line -->
 
 ```bash
 Job ID: 12696175
@@ -80,6 +81,8 @@ Memory Utilized: 4.35 GB
 Memory Efficiency: 3.17% of 137.19 GB (878.00 MB/core)
 The task which had the largest memory consumption differs by 102.24% from the average task max memory consumption
 ```
+
+<!-- markdownlint-enable MD013 -->
 
 ???- question "Need a worked-out example?"
 
@@ -122,6 +125,8 @@ and what you can do to make them more efficient.
 
 ### Inefficient job example 1: booking too much cores
 
+<!-- markdownlint-disable MD013 --><!-- Verbatim output cannot be split up over lines, hence will break 80 characters per line -->
+
 ```bash
 Job ID: 12696175
 Cluster: dardel
@@ -136,6 +141,8 @@ Memory Utilized: 4.35 GB
 Memory Efficiency: 3.17% of 137.19 GB (878.00 MB/core)
 The task which had the largest memory consumption differs by 102.24% from the average task max memory consumption
 ```
+
+<!-- markdownlint-enable MD013 -->
 
 Here booking 7 cores is considered okay.
 

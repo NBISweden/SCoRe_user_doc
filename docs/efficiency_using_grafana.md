@@ -1,11 +1,12 @@
-# Efficiency - `grafana`
-
-# Efficiency using Grafana
+# Efficiency using a graphical representation
 
 There are multiple tools for
 [using your HPC resources efficiently](efficiency.md) you may need.
+
 This page is about using your HPC resources efficiently
-using the `Grafana` tool.
+using graphical representation of the resources used for each job run
+via Slurm, such as
+[done by C3SE](https://www.c3se.chalmers.se/documentation/submitting_jobs/monitoring/).
 
 Here is the general strategy to effectively use your HPC resources:
 
@@ -115,6 +116,8 @@ and what you can do to make them more efficient.
 
 ### Inefficient job example 1: booking too much cores
 
+<!-- markdownlint-disable MD013 --><!-- Verbatim code cannot be split up over lines, hence will break 80 characters per line -->
+
 ```bash
 Job ID: 12696175
 Cluster: dardel
@@ -129,6 +132,8 @@ Memory Utilized: 4.35 GB
 Memory Efficiency: 3.17% of 137.19 GB (878.00 MB/core)
 The task which had the largest memory consumption differs by 102.24% from the average task max memory consumption
 ```
+
+<!-- markdownlint-enable MD013 -->
 
 Here booking 7 cores is considered okay.
 
@@ -147,14 +152,3 @@ of cores to 3.17% will still be enough for the CPU.
 > Increase the number of cores by one for safety
 
 This means booking 7 cores is recommended.
-
-
-<!--
-
-Several tools exist for high level monitoring your jobs which should be used to verify that your job is running as intended. These tools give hints towards problem areas and bottlenecks or underutilized resources. 
-
-- [C3SE](https://www.c3se.chalmers.se/) has nice graphical representation of the resources used for each job run via slurm.  
-Please look at their particular implementation here  
-[https://www.c3se.chalmers.se/documentation/submitting_jobs/monitoring/](https://www.c3se.chalmers.se/documentation/submitting_jobs/monitoring/)
-
--->
