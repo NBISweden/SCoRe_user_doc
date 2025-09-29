@@ -54,14 +54,32 @@ flowchart TD
 To obtain the CPU and memory usage of a job using `seff`:
 
 ```bash
-seff --plot [job_id]
+seff [job_number]
 ```
 
 for example:
 
 ```bash
-seff --plot 12345678
+seff 12696175
 ```
+
+???- question "How does this look like?"
+
+    ```bash
+    Job ID: 12696175
+    Cluster: dardel
+    User/Group: aletyner/aletyner
+    State: COMPLETED (exit code 0)
+    Nodes: 1
+    Cores per node: 160
+    CPU Utilized: 00:00:03
+    CPU Efficiency: 0.00% of 1-23:22:40 core-walltime
+    Job Wall-clock time: 00:17:46
+    Memory Utilized: 4.35 GB
+    Memory Efficiency: 3.17% of 137.19 GB (878.00 MB/core)
+    The task which had the largest memory consumption differs by 102.24% from the average task max memory consumption
+    ```
+
 
 A plot is produced showing the resource use per node
 for a job that completed successfully and took longer than 5 minutes.
