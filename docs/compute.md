@@ -11,23 +11,19 @@ flowchart TD
   subgraph researcher_on_sensitive_data[Researcher, sensitive data]
     arrhenius_rs[Arrhenius]
     bianca[Bianca]
-    cosmos_sens[COSMOS SENS]    
+    cosmos_sens[COSMOS SENS or LUSEC]    
     data_science_platform_rs[Data Science Platform]
     lumi_rs[LUMI]
     maja[Maja]
-    trusted_research_environment_rs[Trusted research environment]
+    trusted_research_environment_rs[Trusted Research Environment]
 
-    question_custom_rs[Need a custom setup?]
+    question_custom_rs[Need a custom setup or a GPU-focused system?]
     question_custom_rs --> |Yes| data_science_platform_rs
-    question_custom_rs --> |No| question_very_heavy_compute_rs
-
-    question_very_heavy_compute_rs[Need very heavy compute?]
-    question_very_heavy_compute_rs --> |Yes| lumi_rs
-    question_very_heavy_compute_rs --> |No| question_where_rs
+    question_custom_rs --> |No| question_where_rs
 
     question_where_rs[Where are you located?]
     question_where_rs --> |Sweden| bianca
-    question_where_rs --> |Linköping| cosmos_sens
+    question_where_rs --> |Lund| cosmos_sens
     question_where_rs --> |Gothenburg| trusted_research_environment_rs
 
     bianca -.-> |Future| maja
@@ -59,11 +55,14 @@ flowchart TD
     question_very_heavy_compute_rr --> |No| question_ai
 
     question_ai[Are you working with AI?]
-    question_ai --> |Yes| alvis
+    question_ai --> |Yes| question_kaw
     question_ai --> |No| question_where_rr
 
+    question_kaw[Are you affiliated with KAW, DDLS, WASP, or similar?]
+    question_kaw --> |Yes| berzelius
+    question_kaw --> |No| alvis
+
     question_where_rr[Where are you located?]
-    question_where_rr --> |Linköping| berzelius
     question_where_rr --> |Lund| cosmos
     question_where_rr --> |Sweden| dardel
     question_where_rr --> |Lund| kebnekaise
