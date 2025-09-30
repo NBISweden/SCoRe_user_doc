@@ -7,10 +7,12 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-10-06,2025-10-06,Introduction to PDC Systems Course,https://www.pdc.kth.se//about/events/introduction-to-pdc-systems-course-1.1410466?date=2025-10-06&amp;orgdate=2025-09-30&amp;length=1&amp;orglength=0,https://www.pdc.kth.se/about/events,PDC
 2025-10-06,2025-10-31,Omics and data-driven precision health,https://scilifelab-training.github.io/Omics_DataDriven_PrecisionHealth/2504/,https://training.scilifelab.se/events,SciLifeLab
 2025-10-06,2025-10-10,"Introduction to running R, MATLAB, and Julia in HPC",https://docs.uppmax.uu.se/courses_workshops/R_matlab_julia,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
+2025-10-06,2025-10-06,Applied Bioinformatics,https://www.slubi.se/newsposts/courses/20251006_course_medbioinfo/index.html,https://www.slubi.se/courses.html,SLUBI
 2025-10-08,2025-10-09,Moving your AI training jobs to LUMI: A Hands-On Workshop,https://lumi-supercomputer.eu/events/moving-your-ai-training-jobs-to-lumi-a-hands-on-workshop/,https://lumi-supercomputer.eu/events/,CSC
 2025-10-09,2025-10-09,HPC Workloads in the Cloud. A practical intro webinar,https://enccs.se/events/10-2025-hpc-workloads-in-the-cloud/,https://enccs.se/events,ENCCS
 2025-10-09,2025-10-09,Berzelius Training - Practical Machine Learning,https://www.nsc.liu.se/support/Events/Berzelius_training_Oct2025/,https://www.nsc.liu.se/support/Events/,NSC
 2025-10-13,2025-10-13,Basic Singularity: Running and building Singularity containers,https://docs.uppmax.uu.se/courses_workshops/singularity/,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
+2025-10-13,2025-10-13,Analysis of High Throughput Sequencing RNA-Seq Data,https://www.slubi.se/newsposts/courses/20251013_course_RNAseq/index.html,https://www.slubi.se/courses.html,SLUBI
 2025-10-14,2025-10-14,Introduction to Python,https://docs.uppmax.uu.se/courses_workshops/intro_to_python,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-10-15,2025-10-17,Basic Course in Scanning and Transmission Electron Microscopy (SEM/TEM),https://www.umu.se/en/research/infrastructure/medicinska-fakulteten/u/umea-centre-for-electron-microscopy-ucem/courses-workshops-and-training/basic-course-oct-2025/,https://training.scilifelab.se/events,SciLifeLab
 2025-10-15,2025-10-17,Introduction to Linux and UPPMAX,https://docs.uppmax.uu.se/courses_workshops/uppmax_intro_course,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
