@@ -52,6 +52,8 @@ FAIpQLSfT
 FAIpQLSfdLPrNB
 MicroED
 Microcrystal
+Slurm
+Vibrational
 Multimodal
 NGS
 Omics
