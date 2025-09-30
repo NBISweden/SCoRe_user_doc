@@ -96,19 +96,19 @@ depends on your HPC cluster:
 
 |HPC cluster name|Tool and guide|Center(s)|
 |:----------------------------|:----------------|:---------|
-|[Alvis](https://www.c3se.chalmers.se/about/Alvis/)                                      |[Using Grafana](efficiency_using_grafana.md)    |![C3SE](logo/c3se_logo_134_x_24.png) ![NAISS](logo/naiss_logo_148_x_24.png)|
-|[Bianca](https://docs.uppmax.uu.se/cluster_guides/bianca/)                              |[Using `jobstats`](efficiency_using_jobstats.md)|![NAISS](logo/naiss_logo_148_x_24.png) ![UPPMAX](logo/uppmax_logo_116_x_24.png)|
-|[COSMOS](https://www.lunarc.lu.se/systems/cosmos/)                                      |[Using `sacct`](efficiency_using_sacct.md)      |![LUNARC](logo/lunarc_logo_42_x_24.png)|
-|[COSMOS SENS](https://www.lunarc.lu.se/systems/cosmos-sens/)                            |[Using `sacct`](efficiency_using_sacct.md)      |![LUNARC](logo/lunarc_logo_42_x_24.png)|
-|[Dardel](https://www.pdc.kth.se/hpc-services/computing-systems/dardel-hpc-system/dardel)|[Using `seff`](efficiency_using_seff.md)        |![NAISS](logo/naiss_logo_148_x_24.png) ![PDC](logo/pdc_logo_21_x_24.png)|
-|[Data Science Platform](https://datahub.aida.scilifelab.se/data-science-platform/)      |?                                               |![AIDA Data Hub](logo/aida_logo_24_x_24.png)|
-|[Kebnekaise](https://www.hpc2n.umu.se/resources/hardware/kebnekaise)                    |[Using `seff`](efficiency_using_seff.md)        |![HPC2N](logo/hpc2n_logo_84_x_24.png)|
-|[LUMI](https://lumi-supercomputer.eu/)                                                  |[Using `seff`](efficiency_using_seff.md)        |![CSC](logo/csc_logo_31_x_24.png) ![NAISS](logo/naiss_logo_148_x_24.png)|
-|[Rackham](https://docs.uppmax.uu.se/cluster_guides/rackham/)                            |[Using `jobstats`](efficiency_using_jobstats.md)|![NAISS](logo/naiss_logo_148_x_24.png) ![UPPMAX](logo/uppmax_logo_116_x_24.png)|
-|[Sigma](https://www.nsc.liu.se/systems/sigma/)                                          |[Using `seff`](efficiency_using_seff.md)        |![NSC](logo/nsc_logo_66_x_24.png)|
-|[Tetralith](https://www.nsc.liu.se/systems/tetralith/)                                  |[Using `seff`](efficiency_using_seff.md)        |![NAISS](logo/naiss_logo_148_x_24.png) ![NSC](logo/nsc_logo_66_x_24.png)|
-|[Trusted research environment](https://tre.gu.se/)                                      |?                                               |![University of Gothenburg](logo/university_of_gothenburg_logo_24_x_24.png)|
-|[Vera](https://www.c3se.chalmers.se/about/Vera/)                                        |[Using Grafana](efficiency_using_grafana.md)    |![C3SE](logo/c3se_logo_134_x_24.png)|
+|[Alvis](https://www.c3se.chalmers.se/about/Alvis/)                                      |[Using a graphical representation](efficiency_using_graphical_respresentation.md)|![C3SE](logo/c3se_logo_134_x_24.png) ![NAISS](logo/naiss_logo_148_x_24.png)|
+|[Bianca](https://docs.uppmax.uu.se/cluster_guides/bianca/)                              |[Using `jobstats`](efficiency_using_jobstats.md)                                 |![NAISS](logo/naiss_logo_148_x_24.png) ![UPPMAX](logo/uppmax_logo_116_x_24.png)|
+|[COSMOS](https://www.lunarc.lu.se/systems/cosmos/)                                      |[Using `sacct`](efficiency_using_sacct.md)                                       |![LUNARC](logo/lunarc_logo_42_x_24.png)|
+|[COSMOS SENS](https://www.lunarc.lu.se/systems/cosmos-sens/)                            |[Using `sacct`](efficiency_using_sacct.md)                                       |![LUNARC](logo/lunarc_logo_42_x_24.png)|
+|[Dardel](https://www.pdc.kth.se/hpc-services/computing-systems/dardel-hpc-system/dardel)|[Using `seff`](efficiency_using_seff.md)                                         |![NAISS](logo/naiss_logo_148_x_24.png) ![PDC](logo/pdc_logo_21_x_24.png)|
+|[Data Science Platform](https://datahub.aida.scilifelab.se/data-science-platform/)      |?                                                                                |![AIDA Data Hub](logo/aida_logo_24_x_24.png)|
+|[Kebnekaise](https://www.hpc2n.umu.se/resources/hardware/kebnekaise)                    |[Using `seff`](efficiency_using_seff.md)                                         |![HPC2N](logo/hpc2n_logo_84_x_24.png)|
+|[LUMI](https://lumi-supercomputer.eu/)                                                  |[Using `seff`](efficiency_using_seff.md)                                         |![CSC](logo/csc_logo_31_x_24.png) ![NAISS](logo/naiss_logo_148_x_24.png)|
+|[Rackham](https://docs.uppmax.uu.se/cluster_guides/rackham/)                            |[Using `jobstats`](efficiency_using_jobstats.md)                                 |![NAISS](logo/naiss_logo_148_x_24.png) ![UPPMAX](logo/uppmax_logo_116_x_24.png)|
+|[Sigma](https://www.nsc.liu.se/systems/sigma/)                                          |[Using `seff`](efficiency_using_seff.md)                                         |![NSC](logo/nsc_logo_66_x_24.png)|
+|[Tetralith](https://www.nsc.liu.se/systems/tetralith/)                                  |[Using `seff`](efficiency_using_seff.md)                                         |![NAISS](logo/naiss_logo_148_x_24.png) ![NSC](logo/nsc_logo_66_x_24.png)|
+|[Trusted research environment](https://tre.gu.se/)                                      |?                                                                                |![University of Gothenburg](logo/university_of_gothenburg_logo_24_x_24.png)|
+|[Vera](https://www.c3se.chalmers.se/about/Vera/)                                        |[Using a graphical representation](efficiency_using_graphical_respresentation.md)|![C3SE](logo/c3se_logo_134_x_24.png)|
 
 ???- question "Need a worked-out example?"
 
