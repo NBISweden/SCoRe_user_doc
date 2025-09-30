@@ -5,88 +5,86 @@ This page is about finding a place to store big amounts of data:
 it shows a flowchart how to determine the storage resource
 you can use, followed by an overview of all resources.
 
-Before you start, you should probably do a data classification and write a data management plan.
-
-Further things to consider include things like keeping a backup, versioning, etc, but the flowchart below can be a useful start. We will happily discuss your needs and help you find something suitable.
-
 ```mermaid
 flowchart TD
 
-  question_need_repo[Do you want to work actively on the data?]
-  question_need_repo --> |Yes| question_heavy_compute
-  question_need_repo --> |No| question_publish_archive
+  question_custom_rs[Need a custom setup?]
 
-  question_publish_archive[Do you want to publish data?]
-  question_publish_archive --> |Yes| research_field
-  question_publish_archive --> |No| others
+  data_science_platform[Data Science Platform]
+  question_custom_rs --> |Yes| data_science_platform
+  question_custom_rs --> |No| question_heavy_compute
 
   question_heavy_compute[Need heavy compute?]
-  question_heavy_compute --> |Yes| question_hpc_cluster[Cluster]
+  question_heavy_compute --> |Yes| question_hpc_cluster
+  question_heavy_compute --> |No| research_field
   question_heavy_compute --> |No| others
 
-  click question_hpc_cluster "./compute.md" "Compute decision tree"
+  subgraph heavy_compute["Heavy compute"]
+
+    berzelius_storage[Berzelius Storage]
+    center_storage[Center Storage]
+    centerstorage_nobackup[Centerstorage nobackup]
+    crex_1[Crex 1]
+    klemming[Klemming]
+    mimer[Mimer]
+    nobackup[Nobackup]
+
+    question_hpc_cluster[Which HPC cluster do you use?]
+    question_hpc_cluster --> |Berzelius| berzelius_storage
+    question_hpc_cluster --> |Any NSC cluster| center_storage
+    question_hpc_cluster --> |COSMOS| centerstorage_nobackup
+    question_hpc_cluster --> |Bianca| crex_1
+    question_hpc_cluster --> |Dardel| klemming
+    question_hpc_cluster --> |Alvis| mimer
+    question_hpc_cluster --> |Kebnekaise| nobackup
+  end
 
   subgraph research_field["Research field"]
 
     bolin_centre_database[Bolin Centre Database]
-    click bolin_centre_database "https://bolin.su.se/data"
     fega_sweden[FEGA Sweden]
-    click fega_sweden "https://fega.nbis.se"
     gbif_sweden[GBIF Sweden]
-    click gbif_sweden "https://www.gbif.se"
     sll_data_repository[SciLifeLab Data Repository]
-    click sll_data_repository "https://www.scilifelab.se/data/repository/"
     sites_data_portal[SITES Data Portal]
-    click sites_data_portal "https://data.fieldsites.se/portal/"
     sbdi[SBDI]
-    click sbdi "https://biodiversitydata.se"
-    ena[ENA]
-    click ena "https://www.ebi.ac.uk/ena/browser/home"
 
     question_research_field[What is your research field?]
 
     question_research_field --> |Climate| bolin_centre_database
-    question_research_field --> |Genomics or phenomics| q_fega_sweden
+    question_research_field --> |Genomics or phenomics| fega_sweden
     question_research_field --> |Biodiversity| gbif_sweden
     question_research_field --> |Biodiversity| sbdi
     question_research_field --> |Life science| sll_data_repository
     question_research_field --> |Ecosystems| sites_data_portal
-
-    q_fega_sweden[Sensitive human data?] --> |Yes| fega_sweden
-    q_fega_sweden[Sensitive human data?] --> |No| ena
   end
 
   subgraph others["Others"]
 
     eosc_file_sync_and_share[EOSC File Sync and Share]
-    click eosc_file_sync_and_share "https://open-science-cloud.ec.europa.eu/services/file-sync-share"
-    sll[SciLifeLab FAIR Storage]
-    click sll "https://data.scilifelab.se/services/fairstorage/"
-    uu[VESTA]
-    click uu "https://www.uu.se/medarbetare/stod-och-verktyg/it/it-tjanster/tillaggstjanster/vesta"
-    lu[COSMOS SENS or LUSEC]
-    click lu "https://www.medarbetarwebben.lu.se/lagring-forskningsdata"
-    gu[GU TRE]
-    click gu "https://tre.gu.se"
-    ki[OneDrive or SciShare]
-    click ki "https://staff.ki.se/tools-and-support/it-and-telephony/store-and-share-files"
+    dcache[dCache]
+    spirula[Spirula]
+    doris[DORIS]
+    vesta[Vesta]
 
     question_sync_and_share["Want to sync and share files?"]
     question_sync_and_share --> |Yes| eosc_file_sync_and_share
-    question_sync_and_share --> |No| question_data_sensitivity
+    question_sync_and_share --> |No| question_connect_naiss
+
+    question_connect_naiss["Need a connection with a NAISS HPC cluster?"]
+    question_connect_naiss --> |Yes| dcache
+    question_connect_naiss --> |No| question_data_sensitivity
 
     question_data_sensitivity["Is the data sensitive?"]
-    question_data_sensitivity --> |Yes| local_secure
-    question_data_sensitivity --> |No| sll
-
-    local_secure[Local secure storage]
-    local_secure --> |UU| uu
-    local_secure --> |LU| lu
-    local_secure --> |GU| gu
-    local_secure --> |KI| ki
+    question_data_sensitivity --> |Yes| doris
+    question_data_sensitivity --> |Yes| vesta
+    question_data_sensitivity --> |No| spirula
 
   end
 
+  heavy_compute ~~~ research_field
+  question_hpc_cluster ~~~ research_field
+  heavy_compute ~~~ others
+  research_field ~~~ others
 ```
 
 ???- question "Why is this a useful resource?"
