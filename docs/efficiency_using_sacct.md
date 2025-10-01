@@ -56,7 +56,7 @@ To obtain the CPU and memory usage of a job using `sacct`:
 <!-- markdownlint-disable MD013 --><!-- Verbatim code cannot be split up over lines, hence will break 80 characters per line -->
 
 ```bash
-sacct --format=jobid,elapsed,ncpus,ntasks,UserCPU,CPUTime,AveCPU,MaxVMSize,ReqMem -j [job_number]
+sacct --format=elapsed,ncpus,ntasks,UserCPU,CPUTime,AveCPU,MaxVMSize,ReqMem -j [job_number]
 ```
 
 <!-- markdownlint-enable MD013 -->
@@ -66,7 +66,7 @@ for example:
 <!-- markdownlint-disable MD013 --><!-- Verbatim code cannot be split up over lines, hence will break 80 characters per line -->
 
 ```bash
-sacct --format=jobid,elapsed,ncpus,ntasks,UserCPU,CPUTime,AveCPU,MaxVMSize,ReqMem -j 1615382
+sacct --format=elapsed,ncpus,ntasks,UserCPU,CPUTime,AveCPU,MaxVMSize,ReqMem -j 71611
 ```
 
 <!-- markdownlint-enable MD013 -->
@@ -76,45 +76,49 @@ This will produce output such as this:
 <!-- markdownlint-disable MD013 --><!-- Verbatim code cannot be split up over lines, hence will break 80 characters per line -->
 
 ```bash
-JobID           Elapsed      NCPUS   NTasks    UserCPU    CPUTime     AveCPU  MaxVMSize     ReqMem 
------------- ---------- ---------- -------- ---------- ---------- ---------- ---------- ---------- 
-1615382        00:00:08         48           02:59.456   00:06:24                          254400M 
-1615382.bat+   00:00:08         48        1  02:59.456   00:06:24   00:03:15    320592K            
-1615382.ext+   00:00:08         48        1   00:00:00   00:06:24   00:00:00       256K            
+   Elapsed      NCPUS   NTasks    UserCPU    CPUTime     AveCPU  MaxVMSize     ReqMem
+---------- ---------- -------- ---------- ---------- ---------- ---------- ----------
+  00:00:13         38           00:01.615   00:08:14                          222000M
+  00:00:13         38        1  00:01.615   00:08:14   00:00:00   3227532K
+  00:00:13         38        1   00:00:00   00:08:14
+
 ```
 
 <!-- markdownlint-enable MD013 -->
 
 ???- question "Need a worked-out example?"
 
-    .
+    Here is an example output:
+
+    ```bash
+       Elapsed      NCPUS   NTasks    UserCPU    CPUTime     AveCPU  MaxVMSize     ReqMem
+    ---------- ---------- -------- ---------- ---------- ---------- ---------- ----------
+      00:00:13         38           00:01.615   00:08:14                          222000M
+      00:00:13         38        1  00:01.615   00:08:14   00:00:00   3227532K
+      00:00:13         38        1   00:00:00   00:08:14
+    ```
 
     > Book enough memory
 
-    .
+    There were 38 CPUs booked, which provides for 222000 megabyte
+    of memory. The memory used was 3227532 kilobyte, which is around 3227
+    megabyte. So we only need 3227 megabyte out of 222000 megabyte.
+    `3227 / 222000 = 0.014536036 = ` 1.5% of what we requested.
+    1.5% of 38 CPUs is 0.6 CPU needed. Hence, booking 1 CPU will provide
+    enough memory
 
     > For that amount of cores, would runtime by limited by CPU?
 
-    .
+    Yes: we need 2 cores.
+
+    On average, each of the 38 cores spent 0 seconds (i.e. max 0.049 seconds)
+    working, out of 13 seconds. Using 1 core instead, means that all the work,
+    0.049 seconds per core for 38 cores can be done in `0.049 * 38 =` 1.9 core.
+    This means that in practice one books 2 cores.
 
     > Increase the number of cores by one for safety
 
-    .
-
-???- question "Need another worked-out example?"
-
-    > Book enough memory
-
-    .
-
-    > For that amount of cores, would runtime by limited by CPU?
-
-    .
-
-    > Increase the number of cores,
-    > so that on average the right amount of CPUs are booked
-
-    .
+    This would result in 3 cores.
 
 Sometimes, however, it is inevitable to use resources
 inefficiently.
@@ -127,24 +131,33 @@ and what you can do to make them more efficient.
 ### Inefficient job example 1: booking too much cores
 
 ```bash
-
+   Elapsed      NCPUS   NTasks    UserCPU    CPUTime     AveCPU  MaxVMSize     ReqMem
+---------- ---------- -------- ---------- ---------- ---------- ---------- ----------
+  00:00:01         64           00:12.995   00:01:04                             375G
+  00:00:01         64        1  00:12.995   00:01:04   00:00:00   3424140K
+  00:00:01         64        1   00:00:00   00:01:04
 ```
 
-Here booking 7 cores is considered okay.
+Here booking ? cores is considered okay.
 
 > Book enough memory
 
-In this job, only 3.17% of the memory of was used.
-3.17% of 160 scheduled cores is 5.072 core.
-In practice, this will be 6 cores.
+There were 64 CPUs booked, which provides for 375 gigabyte
+of memory. The memory used was 3424140 kilobyte, which is around 3424
+megabyte. So we only need 3424 megabyte out of 375000 megabyte.
+`3424 / 375000 = 0.009130667 = `0.9% of what we requested.
+0.9% of 64 cores is 0.6 core needed. Hence, booking 1 core will provide
+enough memory
 
 > For that amount of cores, would runtime by limited by CPU?
 
-The answer is 'no': we see a CPU efficiency of 0.00%
-(i.e. 0.0049% or lower). Hence, using reducing the number
-of cores to 3.17% will still be enough for the CPU.
+    Yes: we need 2 cores.
+
+    On average, each of the 64 cores spent 0 seconds (i.e. max 0.049 seconds)
+    working, out of 1 second. Using 1 core instead, means that all the work,
+    0.049 seconds per core for 64 cores can be done in `0.049 * 64 =` 3.13 core.
+    This means that in practice one books 4 cores.
 
 > Increase the number of cores by one for safety
 
-This means booking 7 cores is recommended.
-
+This would result in 3 cores.
