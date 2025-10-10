@@ -24,7 +24,7 @@ flowchart TD
   question_heavy_compute --> |Yes| question_hpc_cluster[Cluster]
   question_heavy_compute --> |No| others
 
-  click question_hpc_cluster "../compute/" "Compute decision tree"
+  click question_hpc_cluster "./compute.md" "Compute decision tree"
 
   subgraph research_field["Research field"]
 
