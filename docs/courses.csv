@@ -1,18 +1,11 @@
 date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-08-26,2025-10-16,Data-driven Life Sciences course 2025,https://ddls.aicell.io/course/ddls-2025/,https://training.scilifelab.se/events,SciLifeLab
-2025-10-02,2025-10-02,AITO webinar,https://lumi-supercomputer.eu/events/aito-webinar/,https://lumi-supercomputer.eu/events/,CSC
-2025-10-03,2025-10-03,VASP best practices seminar - online event,https://www.nsc.liu.se/support/Events/VASP_seminar_2025/,https://www.nsc.liu.se/support/Events/,NSC
-2025-10-06,2025-10-08,"Introduction to running R, Julia, and Matlab in HPC",https://www.hpc2n.umu.se/events/courses/2025/fall/r-matlab-julia,https://www.hpc2n.umu.se/events/courses,HPC2N
-2025-10-06,2025-10-06,Introduction to PDC Systems Course,https://www.pdc.kth.se//about/events/introduction-to-pdc-systems-course-1.1410466?date=2025-10-06&amp;orgdate=2025-10-02&amp;length=1&amp;orglength=0,https://www.pdc.kth.se/about/events,PDC
 2025-10-06,2025-10-31,Omics and data-driven precision health,https://scilifelab-training.github.io/Omics_DataDriven_PrecisionHealth/2504/,https://training.scilifelab.se/events,SciLifeLab
 2025-10-06,2025-10-10,"Introduction to running R, MATLAB, and Julia in HPC",https://docs.uppmax.uu.se/courses_workshops/R_matlab_julia,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
-2025-10-06,2025-10-06,Applied Bioinformatics,https://www.slubi.se/newsposts/courses/20251006_course_medbioinfo/index.html,https://www.slubi.se/courses.html,SLUBI
-2025-10-08,2025-10-09,Moving your AI training jobs to LUMI: A Hands-On Workshop,https://lumi-supercomputer.eu/events/moving-your-ai-training-jobs-to-lumi-a-hands-on-workshop/,https://lumi-supercomputer.eu/events/,CSC
-2025-10-09,2025-10-09,HPC Workloads in the Cloud. A practical intro webinar,https://enccs.se/events/10-2025-hpc-workloads-in-the-cloud/,https://enccs.se/events,ENCCS
-2025-10-09,2025-10-09,Berzelius Training - Practical Machine Learning,https://www.nsc.liu.se/support/Events/Berzelius_training_Oct2025/,https://www.nsc.liu.se/support/Events/,NSC
 2025-10-13,2025-10-13,Basic Singularity: Running and building Singularity containers,https://docs.uppmax.uu.se/courses_workshops/singularity/,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-10-13,2025-10-13,Analysis of High Throughput Sequencing RNA-Seq Data,https://www.slubi.se/newsposts/courses/20251013_course_RNAseq/index.html,https://www.slubi.se/courses.html,SLUBI
 2025-10-14,2025-10-14,Introduction to Python,https://docs.uppmax.uu.se/courses_workshops/intro_to_python,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
+2025-10-15,2025-10-15,LUMI user coffee breaks,https://lumi-supercomputer.eu/events/usercoffeebreaks/,https://lumi-supercomputer.eu/events/,CSC
 2025-10-15,2025-10-17,Basic Course in Scanning and Transmission Electron Microscopy (SEM/TEM),https://www.umu.se/en/research/infrastructure/medicinska-fakulteten/u/umea-centre-for-electron-microscopy-ucem/courses-workshops-and-training/basic-course-oct-2025/,https://training.scilifelab.se/events,SciLifeLab
 2025-10-15,2025-10-17,Introduction to Linux and UPPMAX,https://docs.uppmax.uu.se/courses_workshops/uppmax_intro_course,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-10-16,2025-10-16,[Date changed] Quantum-Accelerated Supercomputing for Materials Science (Webinar),https://enccs.se/events/quantum-accelerated-sc-materials-science/,https://enccs.se/events,ENCCS
@@ -29,7 +22,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-11-03,2025-11-07,Quantum Autumn School 2025,https://enccs.se/events/qas-2025/,https://enccs.se/events,ENCCS
 2025-11-03,2025-11-07,Introduction to Git,https://www.hpc2n.umu.se/events/courses,https://www.hpc2n.umu.se/events/courses,HPC2N
 2025-11-03,2025-11-14,Proteomics by Mass Spectrometry: When and How,https://doctoralcourses.application.ki.se/fubasextern/info?kurs=K7F2522,https://training.scilifelab.se/events,SciLifeLab
-2025-11-04,2025-11-04,Berzelius Training - Essential Commands,https://www.nsc.liu.se/support/Events/Berzelius_training_Nov2025/,https://www.nsc.liu.se/support/Events/,NSC
+2025-11-03,2025-11-03,Introduction to Bioinformatics,https://www.slubi.se/newsposts/courses/20251103_course_IntroToBioinf/index.html,https://www.slubi.se/courses.html,SLUBI
 2025-11-10,2025-11-10,Selecting Software Modules,https://www.hpc2n.umu.se/events/courses,https://www.hpc2n.umu.se/events/courses,HPC2N
 2025-11-10,2025-11-14,Physiology of ion channels and their role in disease,https://liu.se/en/organisation/liu/bkv/physiology-of-ion-channels-and-their-role-in-disease,https://training.scilifelab.se/events,SciLifeLab
 2025-11-11,2025-11-14,Hands-on Course in Epigenomics,https://docs.google.com/forms/d/e/1FAIpQLSchwq_kYqwkp2z2pnApBlVM4CvcaJzWnjvMUVU-YUNhVNgDwQ/viewform?usp=preview,https://training.scilifelab.se/events,SciLifeLab
@@ -42,3 +35,4 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-12-01,2025-12-02,Using Python in an HPC environment part 1,https://docs.uppmax.uu.se/courses_workshops/hpc_python,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-12-03,2025-12-03,Introduction seminar for Alvis users,https://indico.chalmers.se/event/354/,https://www.c3se.chalmers.se/,C3SE
 2025-12-04,2025-12-05,"Intermediate Bash, aka Command Line 201",https://www.hpc2n.umu.se/events/courses,https://www.hpc2n.umu.se/events/courses,HPC2N
+2026-01-19,2026-01-19,Data handling and high-quality illustrations for publications,https://www.slubi.se/newsposts/courses/20260119_course_illustrations/index.html,https://www.slubi.se/courses.html,SLUBI
