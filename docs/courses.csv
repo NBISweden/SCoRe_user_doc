@@ -1,7 +1,6 @@
 date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-08-26,2025-10-16,Data-driven Life Sciences course 2025,https://ddls.aicell.io/course/ddls-2025/,https://training.scilifelab.se/events,SciLifeLab
 2025-10-06,2025-10-31,Omics and data-driven precision health,https://scilifelab-training.github.io/Omics_DataDriven_PrecisionHealth/2504/,https://training.scilifelab.se/events,SciLifeLab
-2025-10-06,2025-10-10,"Introduction to running R, MATLAB, and Julia in HPC",https://docs.uppmax.uu.se/courses_workshops/R_matlab_julia,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-10-13,2025-10-13,Basic Singularity: Running and building Singularity containers,https://docs.uppmax.uu.se/courses_workshops/singularity/,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-10-13,2025-10-13,Analysis of High Throughput Sequencing RNA-Seq Data,https://www.slubi.se/newsposts/courses/20251013_course_RNAseq/index.html,https://www.slubi.se/courses.html,SLUBI
 2025-10-14,2025-10-14,Introduction to Python,https://docs.uppmax.uu.se/courses_workshops/intro_to_python,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
@@ -18,6 +17,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-10-22,2025-10-22,Nordic HPC Summit 2025,https://enccs.se/events/nordic-hpc-summit-2025/,https://enccs.se/events,ENCCS
 2025-10-23,2025-10-29,Programming formalisms,https://docs.uppmax.uu.se/courses_workshops/programming_formalisms,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-10-27,2025-10-31,Vibrational Spectroscopy User License Course (2 ECTS),https://www.umu.se/en/chemical-biological-centre/research-courses-at-kbc/visp-course-fall-2025/,https://training.scilifelab.se/events,SciLifeLab
+2025-10-28,2025-10-30,Performance monitoring with TAU and E4S on LUMI and Cloud HPC platforms,https://enccs.se/events/performance-monitoring-with-tau-e4s/,https://enccs.se/events,ENCCS
 2025-11-03,2025-11-07,Quantum Autumn School 2025,https://lumi-supercomputer.eu/events/quantum-autumn-school-2025/,https://lumi-supercomputer.eu/events/,CSC
 2025-11-03,2025-11-07,Quantum Autumn School 2025,https://enccs.se/events/qas-2025/,https://enccs.se/events,ENCCS
 2025-11-03,2025-11-07,Introduction to Git,https://www.hpc2n.umu.se/events/courses,https://www.hpc2n.umu.se/events/courses,HPC2N
