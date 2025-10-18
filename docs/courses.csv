@@ -1,7 +1,5 @@
 date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-10-06,2025-10-31,Omics and data-driven precision health,https://scilifelab-training.github.io/Omics_DataDriven_PrecisionHealth/2504/,https://training.scilifelab.se/events,SciLifeLab
-2025-10-15,2025-10-17,Basic Course in Scanning and Transmission Electron Microscopy (SEM/TEM),https://www.umu.se/en/research/infrastructure/medicinska-fakulteten/u/umea-centre-for-electron-microscopy-ucem/courses-workshops-and-training/basic-course-oct-2025/,https://training.scilifelab.se/events,SciLifeLab
-2025-10-15,2025-10-17,Introduction to Linux and UPPMAX,https://docs.uppmax.uu.se/courses_workshops/uppmax_intro_course,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-10-20,2025-10-21,LUMI Intro Course,https://lumi-supercomputer.eu/events/lumi-intro-course-tallinn/,https://lumi-supercomputer.eu/events/,CSC
 2025-10-20,2025-10-20,Linux Command Line 101,https://www.hpc2n.umu.se/events/courses/2025/fall/2/intro-linux,https://www.hpc2n.umu.se/events/courses,HPC2N
 2025-10-20,2025-10-31,"New Super-resolution, Light-sheet, and FCS methods at Scilifelab, 3.0 ECTS",https://www.kth.se/student/kurser/kurs/FSK3534?l=en,https://training.scilifelab.se/events,SciLifeLab
@@ -29,6 +27,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-11-25,2025-11-27,"GPU programming: when, why and how?",https://enccs.se/events/gpu-programming-when-why-how-2025/,https://enccs.se/events,ENCCS
 2025-11-27,2025-11-28,Using Python in an HPC environment part 2,https://docs.uppmax.uu.se/courses_workshops/hpc_python,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-11-28,2025-11-28,Introduction to running Python in HPC + Using Python in an HPC environment,https://www.hpc2n.umu.se/events/courses/2025/fall/hpc-python#overlay-context=events/courses,https://www.hpc2n.umu.se/events/courses,HPC2N
+2025-12-01,2025-12-05,R Programming Foundation For Data Analysis,https://uppsala.instructure.com/courses/114846?for_reload=1,https://training.scilifelab.se/events,SciLifeLab
 2025-12-01,2025-12-02,Using Python in an HPC environment part 1,https://docs.uppmax.uu.se/courses_workshops/hpc_python,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-12-03,2025-12-03,Introduction seminar for Alvis users,https://indico.chalmers.se/event/354/,https://www.c3se.chalmers.se/,C3SE
 2025-12-04,2025-12-05,"Intermediate Bash, aka Command Line 201",https://www.hpc2n.umu.se/events/courses,https://www.hpc2n.umu.se/events/courses,HPC2N
