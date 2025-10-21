@@ -5,9 +5,12 @@ This page is about finding a place to store big amounts of data:
 it shows a flowchart how to determine the storage resource
 you can use, followed by an overview of all resources.
 
-Before you start, you should probably do a data classification and write a data management plan.
+Before you start, you should probably do a data classification
+and write a data management plan.
 
-Further things to consider include things like keeping a backup, versioning, etc, but the flowchart below can be a useful start. We will happily discuss your needs and help you find something suitable.
+Further things to consider include things like keeping a backup,
+versioning, etc, but the flowchart below can be a useful start.
+We will happily discuss your needs and help you find something suitable.
 
 ```mermaid
 flowchart TD

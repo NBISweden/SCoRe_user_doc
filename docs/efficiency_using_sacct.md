@@ -90,6 +90,8 @@ This will produce output such as this:
 
     Here is an example output:
 
+    <!-- markdownlint-disable MD013 --><!-- Verbatim code cannot be split up over lines, hence will break 80 characters per line -->
+
     ```bash
        Elapsed      NCPUS   NTasks    UserCPU    CPUTime     AveCPU  MaxVMSize     ReqMem
     ---------- ---------- -------- ---------- ---------- ---------- ---------- ----------
@@ -97,6 +99,8 @@ This will produce output such as this:
       00:00:13         38        1  00:01.615   00:08:14   00:00:00   3227532K
       00:00:13         38        1   00:00:00   00:08:14
     ```
+
+    <!-- markdownlint-enable MD013 -->
 
     > Book enough memory
 
@@ -130,6 +134,8 @@ and what you can do to make them more efficient.
 
 ### Inefficient job example 1: booking too much cores
 
+<!-- markdownlint-disable MD013 --><!-- Verbatim code cannot be split up over lines, hence will break 80 characters per line -->
+
 ```bash
    Elapsed      NCPUS   NTasks    UserCPU    CPUTime     AveCPU  MaxVMSize     ReqMem
 ---------- ---------- -------- ---------- ---------- ---------- ---------- ----------
@@ -138,6 +144,8 @@ and what you can do to make them more efficient.
   00:00:01         64        1   00:00:00   00:01:04
 ```
 
+<!-- markdownlint-enable MD013 -->
+
 Here booking ? cores is considered okay.
 
 > Book enough memory
@@ -145,7 +153,7 @@ Here booking ? cores is considered okay.
 There were 64 CPUs booked, which provides for 375 gigabyte
 of memory. The memory used was 3424140 kilobyte, which is around 3424
 megabyte. So we only need 3424 megabyte out of 375000 megabyte.
-`3424 / 375000 = 0.009130667 = `0.9% of what we requested.
+`3424 / 375000 = 0.009130667 =`0.9% of what we requested.
 0.9% of 64 cores is 0.6 core needed. Hence, booking 1 core will provide
 enough memory
 
