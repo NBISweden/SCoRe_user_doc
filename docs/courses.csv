@@ -1,7 +1,6 @@
 date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-10-06,2025-10-31,Omics and data-driven precision health,https://scilifelab-training.github.io/Omics_DataDriven_PrecisionHealth/2504/,https://training.scilifelab.se/events,SciLifeLab
 2025-10-20,2025-10-31,"New Super-resolution, Light-sheet, and FCS methods at Scilifelab, 3.0 ECTS",https://www.kth.se/student/kurser/kurs/FSK3534?l=en,https://training.scilifelab.se/events,SciLifeLab
-2025-10-21,2025-10-24,Portable GPU Programming,https://lumi-supercomputer.eu/events/portable-gpu-programming/,https://lumi-supercomputer.eu/events/,CSC
 2025-10-21,2025-10-22,Training material made FAIR by-design,https://training.vib.be/all-trainings/fair-training-material-made-design,https://training.scilifelab.se/events,SciLifeLab
 2025-10-22,2025-10-24,LUMI Profiling and Optimization Workshop,https://lumi-supercomputer.eu/events/profiling-ws-tallinn/,https://lumi-supercomputer.eu/events/,CSC
 2025-10-22,2025-10-22,Nordic HPC Summit 2025,https://enccs.se/events/nordic-hpc-summit-2025/,https://enccs.se/events,ENCCS
