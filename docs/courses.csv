@@ -1,25 +1,20 @@
 date_from,date_to,course_name,course_url,provider_courses_url,provider_name
-2025-01-19,2026-01-30,Data handling and high-quality illustrations for publications,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
-2025-10-06,2025-10-31,Omics and data-driven precision health,https://scilifelab-training.github.io/Omics_DataDriven_PrecisionHealth/2504/,https://training.scilifelab.se/events,SciLifeLab
-2025-10-13,2025-10-31,Analysis of High Throughput Sequencing RNA-Seq Data,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
-2025-10-20,2025-10-31,"New Super-resolution, Light-sheet, and FCS methods at Scilifelab, 3.0 ECTS",https://www.kth.se/student/kurser/kurs/FSK3534?l=en,https://training.scilifelab.se/events,SciLifeLab
-2025-10-27,2025-10-31,Vibrational Spectroscopy User License Course (2 ECTS),https://www.umu.se/en/chemical-biological-centre/research-courses-at-kbc/visp-course-fall-2025/,https://training.scilifelab.se/events,SciLifeLab
 2025-11-03,2025-11-07,Quantum Autumn School 2025,https://lumi-supercomputer.eu/events/quantum-autumn-school-2025/,https://lumi-supercomputer.eu/events/,CSC
 2025-11-03,2025-11-07,Quantum Autumn School 2025,https://enccs.se/events/qas-2025/,https://enccs.se/events,ENCCS
 2025-11-03,2025-11-07,Introduction to Git,https://www.hpc2n.umu.se/events/courses/2025/git,https://www.hpc2n.umu.se/events/courses,HPC2N
-2025-11-03,2025-11-14,Proteomics by Mass Spectrometry: When and How,https://doctoralcourses.application.ki.se/fubasextern/info?kurs=K7F2522,https://training.scilifelab.se/events,SciLifeLab
+2025-11-03,2025-11-14,Proteomics by Mass Spectrometry: When and How,https://training.scilifelab.se/events/proteomics-by-mass-spectrometry-when-and-how,https://training.scilifelab.se/events,SciLifeLab
 2025-11-03,2026-01-18,Introduction to Bioinformatics,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
 2025-11-03,2026-01-18,Advanced Plant Breeding and Genetic Resources,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
 2025-11-10,2025-11-10,Selecting Software Modules,https://www.hpc2n.umu.se/events/courses/2025/fall/2/selecting-modules,https://www.hpc2n.umu.se/events/courses,HPC2N
-2025-11-10,2025-11-14,Physiology of ion channels and their role in disease,https://liu.se/en/organisation/liu/bkv/physiology-of-ion-channels-and-their-role-in-disease,https://training.scilifelab.se/events,SciLifeLab
-2025-11-11,2025-11-14,Hands-on Course in Epigenomics,https://docs.google.com/forms/d/e/1FAIpQLSchwq_kYqwkp2z2pnApBlVM4CvcaJzWnjvMUVU-YUNhVNgDwQ/viewform?usp=preview,https://training.scilifelab.se/events,SciLifeLab
+2025-11-10,2025-11-14,Physiology of ion channels and their role in disease,https://training.scilifelab.se/events/physiology-of-ion-channels-and-their-role-in-disease,https://training.scilifelab.se/events,SciLifeLab
+2025-11-11,2025-11-14,Hands-on Course in Epigenomics,https://training.scilifelab.se/events/hands-on-course-in-epigenomics,https://training.scilifelab.se/events,SciLifeLab
 2025-11-14,2025-11-14,Log in and transfer files to/from HPC Clusters,https://docs.uppmax.uu.se/courses_workshops/naiss_transfer,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
-2025-11-17,2025-11-21,Introduction to bioinformatics using NGS data,https://uppsala.instructure.com/courses/112140,https://training.scilifelab.se/events,SciLifeLab
+2025-11-17,2025-11-21,Introduction to bioinformatics using NGS data,https://training.scilifelab.se/events/introduction-to-bioinformatics-using-ngs-data-ee294a56-5b18-4c13-bf8c-09d429d4575d,https://training.scilifelab.se/events,SciLifeLab
 2025-11-18,2025-11-20,Introduction to GPU programming,https://lumi-supercomputer.eu/events/intro-to-gpu-programming/,https://lumi-supercomputer.eu/events/,CSC
 2025-11-18,2025-11-20,[Webinars] Introduction to GPU programming,https://enccs.se/events/webinars-introduction-to-gpu-programming-2025/,https://enccs.se/events,ENCCS
 2025-11-18,2025-11-18,Bianca In-Depth Workshop/Hackathon: Improve Your Handling of Sensitive Research Data,https://docs.uppmax.uu.se/courses_workshops/bianca_intermediate,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-11-20,2026-02-17,Statistical methods in animal breeding,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
-2025-11-24,2025-11-28,Introduction to Python - with application to bioinformatics,https://uppsala.instructure.com/courses/113769,https://training.scilifelab.se/events,SciLifeLab
+2025-11-24,2025-11-28,Introduction to Python - with application to bioinformatics,https://training.scilifelab.se/events/introduction-to-python-with-application-to-bioinformatics-1caa8c78-3a2b-4317-9f30-3d2b9d124e60,https://training.scilifelab.se/events,SciLifeLab
 2025-11-25,2025-11-25,AITO webinar,https://lumi-supercomputer.eu/events/aito-webinar-2/,https://lumi-supercomputer.eu/events/,CSC
 2025-11-25,2025-11-27,"GPU programming: when, why and how?",https://lumi-supercomputer.eu/events/gpu-programming/,https://lumi-supercomputer.eu/events/,CSC
 2025-11-25,2025-11-27,"GPU programming: when, why and how?",https://enccs.se/events/gpu-programming-when-why-how-2025/,https://enccs.se/events,ENCCS
@@ -27,8 +22,12 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-11-25,2025-11-25,Running jobs on clusters,https://www.lunarc.lu.se/learning-more/training-courses/,https://www.lunarc.lu.se/learning-more/training-courses/,LUNARC
 2025-11-27,2025-11-28,Using Python in an HPC environment part 2,https://docs.uppmax.uu.se/courses_workshops/hpc_python,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-11-28,2025-11-28,Introduction to running Python in HPC + Using Python in an HPC environment,https://www.hpc2n.umu.se/events/courses/2025/fall/hpc-python#overlay-context=events/courses,https://www.hpc2n.umu.se/events/courses,HPC2N
-2025-12-01,2025-12-05,R Programming Foundation For Data Analysis,https://uppsala.instructure.com/courses/114846?for_reload=1,https://training.scilifelab.se/events,SciLifeLab
+2025-12-01,2025-12-05,R Programming Foundation For Data Analysis,https://training.scilifelab.se/events/r-programming-foundation-for-data-analysis,https://training.scilifelab.se/events,SciLifeLab
 2025-12-01,2025-12-02,Using Python in an HPC environment part 1,https://docs.uppmax.uu.se/courses_workshops/hpc_python,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-12-03,2025-12-03,Introduction seminar for Alvis users,https://indico.chalmers.se/event/354/,https://www.c3se.chalmers.se/,C3SE
 2025-12-04,2025-12-05,"Intermediate Bash, aka Command Line 201",https://www.hpc2n.umu.se/events/courses,https://www.hpc2n.umu.se/events/courses,HPC2N
-2025-12-08,2025-12-12,Practical Course at UCEM - TEM sample preparation for life science,https://www.umu.se/en/research/infrastructure/medicinska-fakulteten/u/umea-centre-for-electron-microscopy-ucem/courses-workshops-and-training/tem-sample-preparation-course-2025/,https://training.scilifelab.se/events,SciLifeLab
+2025-12-08,2025-12-12,Practical Course at UCEM - TEM sample preparation for life science,https://training.scilifelab.se/events/practical-course-at-ucem-tem-sample-preparation,https://training.scilifelab.se/events,SciLifeLab
+2025-12-31,2025-12-31,Biodiversity Genomics Europe + SciLifeLab Digital Hi-C Course - Self Paced,https://training.scilifelab.se/events/biodiversity-genomics-europe-scilifelab-digital-hi-c-course-self-paced,https://training.scilifelab.se/events,SciLifeLab
+2025-12-31,2025-12-31,Open Science in the Swedish Context - Materials,https://training.scilifelab.se/events/open-science-in-the-swedish-context-self-paced,https://training.scilifelab.se/events,SciLifeLab
+2026-01-19,2026-01-30,Data handling and high-quality illustrations for publications,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
+2026-03-11,2026-03-16,Biologically Informed Neural Networks (BINNs): Principles and Practice,https://training.scilifelab.se/events/biologically-informed-neural-networks-binns-principles-and-practice,https://training.scilifelab.se/events,SciLifeLab
