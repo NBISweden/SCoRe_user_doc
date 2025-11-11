@@ -2,8 +2,6 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-11-03,2025-11-14,Proteomics by Mass Spectrometry: When and How,https://training.scilifelab.se/events/proteomics-by-mass-spectrometry-when-and-how,https://training.scilifelab.se/events,SciLifeLab
 2025-11-03,2026-01-18,Introduction to Bioinformatics,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
 2025-11-03,2026-01-18,Advanced Plant Breeding and Genetic Resources,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
-2025-11-10,2025-11-10,Selecting Software Modules,https://www.hpc2n.umu.se/events/courses/2025/fall/2/selecting-modules,https://www.hpc2n.umu.se/events/courses,HPC2N
-2025-11-10,2025-11-10,Workshop: Selecting software modules,https://www.hpc2n.umu.se/events/courses/2025/fall/2/selecting-modules,https://www.naiss.se/training/,NAISS
 2025-11-10,2025-11-14,Physiology of ion channels and their role in disease,https://training.scilifelab.se/events/physiology-of-ion-channels-and-their-role-in-disease,https://training.scilifelab.se/events,SciLifeLab
 2025-11-11,2025-11-14,Hands-on Course in Epigenomics,https://training.scilifelab.se/events/hands-on-course-in-epigenomics,https://training.scilifelab.se/events,SciLifeLab
 2025-11-13,2025-11-13,NAISS Zoom-in – a virtual open-house,https://www.naiss.se/event/naiss-zoom-in-a-virtual-open-house-12/,https://www.naiss.se/training/,NAISS
@@ -13,7 +11,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-11-18,2025-11-20,Introduction to GPU programming,https://lumi-supercomputer.eu/events/intro-to-gpu-programming/,https://lumi-supercomputer.eu/events/,CSC
 2025-11-18,2025-11-20,[Webinars] Introduction to GPU programming,https://enccs.se/events/webinars-introduction-to-gpu-programming-2025/,https://enccs.se/events,ENCCS
 2025-11-18,2025-11-18,Hackathon: Bianca In-Depth: Improve Your Handling ofSensitive Research Data,https://docs.uppmax.uu.se/courses_workshops/bianca_intermediate/,https://www.naiss.se/training/,NAISS
-2025-11-18,2025-11-18,Bianca In-Depth Workshop/Hackathon: Improve Your Handling of Sensitive Research Data,https://docs.uppmax.uu.se/courses_workshops/bianca_intermediate,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
+2025-11-18,2025-11-18,Bianca In-Depth Workshop: Improve Your Handling of Sensitive Research Data,https://docs.uppmax.uu.se/courses_workshops/bianca_intermediate,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-11-19,2025-11-21,Large Language Model Workshop,https://uppmax.github.io/LLM-workshop/,https://www.naiss.se/training/,NAISS
 2025-11-20,2026-02-17,Statistical methods in animal breeding,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
 2025-11-24,2025-11-28,Introduction to Python - with application to bioinformatics,https://training.scilifelab.se/events/introduction-to-python-with-application-to-bioinformatics-1caa8c78-3a2b-4317-9f30-3d2b9d124e60,https://training.scilifelab.se/events,SciLifeLab
@@ -24,12 +22,12 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-11-25,2025-11-25,Running jobs on clusters,https://www.lunarc.lu.se/learning-more/training-courses/,https://www.lunarc.lu.se/learning-more/training-courses/,LUNARC
 2025-11-25,2025-11-25,Running jobs on clusters,https://www.lunarc.lu.se/article/running-jobs-clusters-25-november-2025,https://www.naiss.se/training/,NAISS
 2025-11-27,2025-11-27,Introduction to Python and Using Python in an HPC environment (1),https://www.hpc2n.umu.se/events/courses/2025/fall/hpc-python,https://www.naiss.se/training/,NAISS
-2025-11-27,2025-11-28,Using Python in an HPC environment part 2,https://docs.uppmax.uu.se/courses_workshops/hpc_python,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
+2025-11-27,2025-11-28,Using Python in an HPC environment part 1,https://docs.uppmax.uu.se/courses_workshops/hpc_python,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-11-28,2025-11-28,Introduction to running Python in HPC + Using Python in an HPC environment,https://www.hpc2n.umu.se/events/courses/2025/fall/hpc-python#overlay-context=events/courses,https://www.hpc2n.umu.se/events/courses,HPC2N
 2025-11-28,2025-11-28,Introduction to Python and Using Python in an HPC environment (2),https://www.hpc2n.umu.se/events/courses/2025/fall/hpc-python,https://www.naiss.se/training/,NAISS
 2025-12-01,2025-12-01,Introduction to Python and Using Python in an HPC environment (3),https://www.hpc2n.umu.se/events/courses/2025/fall/hpc-python,https://www.naiss.se/training/,NAISS
 2025-12-01,2025-12-05,R Programming Foundation For Data Analysis,https://training.scilifelab.se/events/r-programming-foundation-for-data-analysis,https://training.scilifelab.se/events,SciLifeLab
-2025-12-01,2025-12-02,Using Python in an HPC environment part 1,https://docs.uppmax.uu.se/courses_workshops/hpc_python,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
+2025-12-01,2025-12-02,Using Python in an HPC environment part 2,https://docs.uppmax.uu.se/courses_workshops/hpc_python,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-12-02,2025-12-04,Accelerating your applications with AMD GPUs,https://lumi-supercomputer.eu/events/accelerating-your-applications-with-amd-gpus/,https://lumi-supercomputer.eu/events/,CSC
 2025-12-02,2025-12-02,Introduction to Python and Using Python in an HPC environment (4),https://www.hpc2n.umu.se/events/courses/2025/fall/hpc-python,https://www.naiss.se/training/,NAISS
 2025-12-03,2025-12-03,Introduction seminar for Alvis users,https://indico.chalmers.se/event/354/,https://www.c3se.chalmers.se/,C3SE
