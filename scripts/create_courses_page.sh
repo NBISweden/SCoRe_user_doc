@@ -18,6 +18,8 @@ if [[ "$PWD" =~ scripts$ ]]; then
     echo " "
     exit 42
 fi
+
+
 cd scripts/warner
 cargo build --release
 cd -
