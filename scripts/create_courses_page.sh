@@ -18,5 +18,11 @@ if [[ "$PWD" =~ scripts$ ]]; then
     echo " "
     exit 42
 fi
-
+cd warner
+cargo build --release
+cd ..
+cp warner/target/release/warner ../docs/warner
+cd ../docs
 cat docs/courses_1.md docs/courses_2.md > docs/courses.md
+./warner ./courses.md
+rm ./warner
