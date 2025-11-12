@@ -1,1 +1,1 @@
-/home/foraldrar/Dokument/prao_olle_20251112/project/warner/target/release/warner: /home/foraldrar/Dokument/prao_olle_20251112/project/warner/src/main.rs
+/home/runner/work/SCoRe_user_doc/SCoRe_user_doc/scripts/warner/target/release/warner: /home/runner/work/SCoRe_user_doc/SCoRe_user_doc/scripts/warner/src/main.rs
