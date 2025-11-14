@@ -1,13 +1,13 @@
 # Courses
-
+<!-- DO NOT EDIT-->
 There are multiple types of [resources](resources.md) you may need.
 Knowledge is a resource too.
 This page shows the places to increase your knowledge in a learning
 environment,
 as provided by courses and training.
-
+<!-- DO NOT EDIT-->
 ???- question "Why is this a useful resource?"
-
+<!-- DO NOT EDIT-->
     This page is the only page that combines all the courses of all the
     different providers.
 
@@ -19,18 +19,18 @@ as provided by courses and training.
       providers, as the same course will be displayed multiple times
 
 ???- question "How is this list generated and updated?"
-
+<!-- DO NOT EDIT-->
     On a daily basis,
     [the `update_content.yaml` continuous integration script](https://github.com/NBISweden/SCoRe_user_doc/blob/main/.github/workflows/update_content.yaml)
     checks the websites of the course providers and updates the list,
     using [the `scoreto` R package](https://github.com/richelbilderbeek/scoreto).
 
 ???- question "What does the :warning: mean?"
-
+<!-- DO NOT EDIT-->
     It means that the course provider has supplied a broken course URL.
 
 ???- question "A course provider is missing!"
-
+<!-- DO NOT EDIT-->
     If a course provider is missing, please [contribute](CONTRIBUTING.md)
     or [contact us](contact_us.md).
 
@@ -41,25 +41,25 @@ as provided by courses and training.
     at [the course materials page](course_materials.md).
 
 ???- question "My course is missing!"
-
+<!-- DO NOT EDIT-->
     If your course is missing, please [contribute](CONTRIBUTING.md)
     or [contact us](contact_us.md).
 
 ???- question "My course can be displayed better!"
-
+<!-- DO NOT EDIT-->
     If your course can be displayed better,
     please [contribute](CONTRIBUTING.md)
     or [contact us](contact_us.md).
 
 ???- question "My course is displayed twice!"
-
+<!-- DO NOT EDIT-->
     The same course can be listed by multiple providers.
     If so, this page will show the same course muliple times.
     This is intentional: it allows a course provider to check
     if all course information is shared identical across the providers.
 
 ???- question "How can I read this data is a machine-friendly format?"
-
+<!-- DO NOT EDIT-->
     Most of this information can be
     [downloaded as a `.csv`](https://raw.githubusercontent.com/NBISweden/SCoRe_user_doc/refs/heads/main/docs/courses.csv).
     The only difference is there is no indicator that a URL is broken.
@@ -113,3 +113,4 @@ as provided by courses and training.
 |2025-12-31 |2025-12-31 |Open Science in the Swedish Context - Materials                             |[Course site](https://training.scilifelab.se/events/open-science-in-the-swedish-context-self-paced)|[Provider site](https://training.scilifelab.se/events)|![SciLifeLab logo](logo/sll_logo_110_x_24.png)|
 |2026-01-19 |2026-01-30 |Data handling and high-quality illustrations for publications               |[Course site](https://www.slubi.se/)|[Provider site](https://www.slubi.se/courses.html)|![SLUBI logo](logo/slubi_logo_20_x_24.png)|
 |2026-03-11 |2026-03-16 |Biologically Informed Neural Networks (BINNs): Principles and Practice      |[Course site](https://training.scilifelab.se/events/biologically-informed-neural-networks-binns-principles-and-practice)|[Provider site](https://training.scilifelab.se/events)|![SciLifeLab logo](logo/sll_logo_110_x_24.png)|
+

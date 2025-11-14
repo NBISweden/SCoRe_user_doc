@@ -1,1 +1,1 @@
-/home/foraldrar/Dokument/prao_olle_20251112/project/warner/target/release/warner: /home/foraldrar/Dokument/prao_olle_20251112/project/warner/src/main.rs
+/home/richel/GitHubs/score_user_doc/scripts/warner/target/release/warner: /home/richel/GitHubs/score_user_doc/scripts/warner/src/main.rs
