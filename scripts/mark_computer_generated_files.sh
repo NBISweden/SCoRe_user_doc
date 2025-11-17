@@ -18,6 +18,6 @@ if [[ "$PWD" =~ scripts$ ]]; then
     exit 42
 fi
 
-./mark_computer_generated_file.R docs/courses.md
+./scripts/mark_computer_generated_file.R docs/courses.md
 
 
