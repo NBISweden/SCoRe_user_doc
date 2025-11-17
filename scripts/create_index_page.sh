@@ -21,3 +21,4 @@ fi
 
 cat docs/index_1.md docs/index_2.md > docs/index.md
 
+./scripts/mark_computer_generated_file.R docs/index.md

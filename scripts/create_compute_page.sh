@@ -19,5 +19,8 @@ if [[ "$PWD" =~ scripts$ ]]; then
     exit 42
 fi
 
+
 cat docs/compute_1.md docs/compute_2.md > docs/compute.md
+
+./scripts/mark_computer_generated_file.R docs/compute.md
 

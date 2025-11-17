@@ -21,3 +21,4 @@ fi
 
 cat docs/other_1.md docs/other_2.md > docs/other.md
 
+./scripts/mark_computer_generated_file.R docs/other.md

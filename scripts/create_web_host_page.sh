@@ -21,3 +21,4 @@ fi
 
 cat docs/web_host_1.md docs/web_host_2.md > docs/web_host.md
 
+./scripts/mark_computer_generated_file.R docs/web_host.md

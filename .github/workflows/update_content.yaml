@@ -88,11 +88,8 @@ jobs:
       - name: View courses_2.md
         run: cat docs/courses_2.md
 
-      - name: Create docs/courses.md
+      - name: Create docs/courses.md and marks it as computer generated
         run: ./scripts/create_courses_page.sh
-
-      - name: Mark docs/courses.md as a computer-generated file
-        run: ./scripts/mark_computer_generated_files.sh
 
       - name: View docs/courses.md
         run: cat docs/courses.md
@@ -113,7 +110,7 @@ jobs:
       - name: View index_2.md
         run: cat docs/index_2.md
 
-      - name: Create docs/index.md
+      - name: Create docs/index.md and marks it as computer generated
         run: ./scripts/create_index_page.sh
 
       - name: View docs/index.md
@@ -129,7 +126,7 @@ jobs:
       - name: View other_2.md
         run: cat docs/other_2.md
 
-      - name: Create docs/other.md
+      - name: Create docs/other.md and marks it as computer generated
         run: ./scripts/create_other_page.sh
 
       - name: View docs/other.md
@@ -145,7 +142,7 @@ jobs:
       - name: View storage_2.md
         run: cat docs/storage_2.md
 
-      - name: Create docs/storage.md
+      - name: Create docs/storage.md and marks it as computer generated
         run: ./scripts/create_storage_page.sh
 
       - name: View docs/storage.md
@@ -161,7 +158,7 @@ jobs:
       - name: View web_host_2.md
         run: cat docs/web_host_2.md
 
-      - name: Create docs/web_host.md
+      - name: Create docs/web_host.md and marks it as computer generated
         run: ./scripts/create_web_host_page.sh
 
       - name: View docs/web_host.md
