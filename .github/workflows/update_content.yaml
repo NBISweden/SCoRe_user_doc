@@ -89,6 +89,9 @@ jobs:
       - name: Create docs/courses.md
         run: ./scripts/create_courses_page.sh
 
+      - name: Mark docs/courses.md as a computer-generated file
+        run: ./scripts/mark_computer_generated_files.sh
+
       - name: View docs/courses.md
         run: cat docs/courses.md
 
