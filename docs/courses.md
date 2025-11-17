@@ -1,13 +1,13 @@
 # Courses
-<!-- DO NOT EDIT-->
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/courses_1.md' INSTEAD -->
 There are multiple types of [resources](resources.md) you may need.
 Knowledge is a resource too.
 This page shows the places to increase your knowledge in a learning
 environment,
 as provided by courses and training.
-<!-- DO NOT EDIT-->
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/courses_1.md' INSTEAD -->
 ???- question "Why is this a useful resource?"
-<!-- DO NOT EDIT-->
+
     This page is the only page that combines all the courses of all the
     different providers.
 
@@ -17,20 +17,20 @@ as provided by courses and training.
       emoji
     - Detect inconsistencies when the same course is advertised by multiple
       providers, as the same course will be displayed multiple times
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/courses_1.md' INSTEAD -->
 ???- question "How is this list generated and updated?"
-<!-- DO NOT EDIT-->
+
     On a daily basis,
     [the `update_content.yaml` continuous integration script](https://github.com/NBISweden/SCoRe_user_doc/blob/main/.github/workflows/update_content.yaml)
     checks the websites of the course providers and updates the list,
     using [the `scoreto` R package](https://github.com/richelbilderbeek/scoreto).
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/courses_1.md' INSTEAD -->
 ???- question "What does the :warning: mean?"
-<!-- DO NOT EDIT-->
-    It means that the course provider has supplied a broken course URL.
 
+    It means that the course provider has supplied a broken course URL.
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/courses_1.md' INSTEAD -->
 ???- question "A course provider is missing!"
-<!-- DO NOT EDIT-->
+
     If a course provider is missing, please [contribute](CONTRIBUTING.md)
     or [contact us](contact_us.md).
 
@@ -39,27 +39,27 @@ as provided by courses and training.
     If a course providers provides an online self-study
     learning environment, it is listed
     at [the course materials page](course_materials.md).
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/courses_1.md' INSTEAD -->
 ???- question "My course is missing!"
-<!-- DO NOT EDIT-->
+
     If your course is missing, please [contribute](CONTRIBUTING.md)
     or [contact us](contact_us.md).
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/courses_1.md' INSTEAD -->
 ???- question "My course can be displayed better!"
-<!-- DO NOT EDIT-->
+
     If your course can be displayed better,
     please [contribute](CONTRIBUTING.md)
     or [contact us](contact_us.md).
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/courses_1.md' INSTEAD -->
 ???- question "My course is displayed twice!"
-<!-- DO NOT EDIT-->
+
     The same course can be listed by multiple providers.
     If so, this page will show the same course muliple times.
     This is intentional: it allows a course provider to check
     if all course information is shared identical across the providers.
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/courses_1.md' INSTEAD -->
 ???- question "How can I read this data is a machine-friendly format?"
-<!-- DO NOT EDIT-->
+
     Most of this information can be
     [downloaded as a `.csv`](https://raw.githubusercontent.com/NBISweden/SCoRe_user_doc/refs/heads/main/docs/courses.csv).
     The only difference is there is no indicator that a URL is broken.
@@ -67,10 +67,10 @@ as provided by courses and training.
     If you could use this information in the `.csv` file,
     please [contribute](CONTRIBUTING.md)
     or [contact us](contact_us.md).
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/courses_1.md' INSTEAD -->
 <!-- courses_2.md is machine-generated and pasted below this file, courses_1.md -->
-
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/courses_1.md' INSTEAD -->
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/courses_1.md' INSTEAD -->
 |**From**|**To**|**Course name**|**Course site**|**Provider site**|**Provider name**|
 |:----------|:----------|:---------------------------------------------------------------------------|:---------------|:-----------------|:-----------------|
 |2025-11-03 |2026-01-18 |Introduction to Bioinformatics                                              |[Course site](https://www.slubi.se/)|[Provider site](https://www.slubi.se/courses.html)|![SLUBI logo](logo/slubi_logo_20_x_24.png)|
@@ -110,4 +110,3 @@ as provided by courses and training.
 |2026-03-11 |2026-03-16 |Biologically Informed Neural Networks (BINNs): Principles and Practice      |[Course site](https://training.scilifelab.se/events/biologically-informed-neural-networks-binns-principles-and-practice)|[Provider site](https://training.scilifelab.se/events)|![SciLifeLab logo](logo/sll_logo_110_x_24.png)|
 |2026-03-17 |2026-03-19 |Introduction to Data Management Practices                                   |[Course site](https://training.scilifelab.se/events/introduction-to-data-management-practices-e70c8075-89dd-446a-8da2-a833206ef824)|[Provider site](https://training.scilifelab.se/events)|![SciLifeLab logo](logo/sll_logo_110_x_24.png)|
 |2026-03-23 |2026-03-25 |Introduction to Metabolomics Data Analysis                                  |[Course site](https://training.scilifelab.se/events/introduction-to-metabolomics-data-analysis)|[Provider site](https://training.scilifelab.se/events)|![SciLifeLab logo](logo/sll_logo_110_x_24.png)|
-
