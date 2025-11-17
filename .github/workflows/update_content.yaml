@@ -21,6 +21,8 @@ on:
       - scripts/create_other_page.sh
       - scripts/create_storage_page.sh
       - scripts/create_web_host_page.sh
+      - scripts/mark_computer_generated_file.R
+      - scripts/mark_computer_generated_files.sh
   schedule:
   - cron: "0 0 * * *" # Run daily
 
