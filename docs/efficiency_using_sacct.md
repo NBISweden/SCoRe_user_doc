@@ -107,7 +107,7 @@ This will produce output such as this:
     There were 38 CPUs booked, which provides for 222000 megabyte
     of memory. The memory used was 3227532 kilobyte, which is around 3227
     megabyte. So we only need 3227 megabyte out of 222000 megabyte.
-    `3227 / 222000 = 0.014536036 = ` 1.5% of what we requested.
+    `3227 / 222000 = 0.014536036 =` 1.5% of what we requested.
     1.5% of 38 CPUs is 0.6 CPU needed. Hence, booking 1 CPU will provide
     enough memory
 
