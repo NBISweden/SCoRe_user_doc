@@ -19,4 +19,4 @@ if [[ "$PWD" =~ scripts$ ]]; then
     exit 42
 fi
 
-cat courses_1.md courses_2.md > courses.md
+cat docs/courses_1.md docs/courses_2.md > docs/courses.md
