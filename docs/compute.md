@@ -1,13 +1,13 @@
 # Compute
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
 There are multiple types of [resources](resources.md) you may need.
 This page is about finding a place to run heavy calculations on:
 it shows a flowchart how to determine the computational resource
 you can use, followed by an overview of all resources.
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
 ```mermaid
 flowchart TD
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
   subgraph researcher_on_sensitive_data[Researcher, sensitive data]
     arrhenius_rs[Arrhenius]
     bianca[Bianca]
@@ -28,9 +28,9 @@ flowchart TD
 
     bianca -.-> |Future| maja
     bianca -.-> |Future| arrhenius_rs
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
   end
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
   subgraph researcher_on_regular_data[Researcher, regular data]
     alvis[Alvis]
     arrhenius_rr[Arrhenius]
@@ -73,61 +73,61 @@ flowchart TD
 
     rackham -.-> |Future| pelle
     rackham -.-> |Future| arrhenius_rr
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
   end
   
   subgraph anyone_on_any_data[Anyone, any data]
     aa_data_science_platform[Data Science Platform]
   end
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
   job_question[Are you a researcher?]
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
   job_question --> |No| anyone_on_any_data
   job_question --> |Yes| sensitivity_question
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
   sensitivity_question[Do you work with sensitive data?]
   sensitivity_question --> |Yes| researcher_on_sensitive_data
   sensitivity_question --> |No| researcher_on_regular_data
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
   researcher_on_sensitive_data ~~~ researcher_on_regular_data 
 ```
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
 ???- question "Why is this a useful resource?"
 
     This page is the only page that combines all the computational resources
     of all the different providers.
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
 ???- question "How is this list generated and updated?"
 
     On a daily basis,
     [the `update_content.yaml` continuous integration script](https://github.com/NBISweden/SCoRe_user_doc/blob/main/.github/workflows/update_content.yaml)
     checks the websites of the course providers and updates the list,
     using [the `scoreto` R package](https://github.com/richelbilderbeek/scoreto).
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
 ???- question "A compute provider is missing!"
 
     If a compute provider is missing, please [contribute](CONTRIBUTING.md)
     or [contact us](contact_us.md).
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
 ???- question "My compute resource is absent!"
 
     If your compute resource is absent, please [contribute](CONTRIBUTING.md)
     or [contact us](contact_us.md).
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
 ???- question "My compute resource can be displayed better!"
 
     If your compute resource can be displayed better,
     please [contribute](CONTRIBUTING.md)
     or [contact us](contact_us.md).
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
 ???- question "How can I read this data is a machine-friendly format?"
 
     This information can be downloaded as a `.csv` from
     [the `scoreto` R package](https://github.com/richelbilderbeek/scoreto/blob/main/inst/extdata/compute.csv).
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
 <!-- compute_2.md is machine-generated and pasted below this file, compute_1.md -->
-
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
 |HPC cluster name|Type of computation|Type of data|User fee|Accessible for|Center(s)|
 |:----------------------------|:-------------------|:------------|:--------|:----------------------|:------|
 |[Alvis](https://www.c3se.chalmers.se/about/Alvis/)|AI              |Regular   |Free       |Swedish researchers    |![C3SE](logo/c3se_logo_134_x_24.png) ![NAISS](logo/naiss_logo_148_x_24.png)|

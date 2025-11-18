@@ -1,34 +1,34 @@
 # Storage
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
 There are multiple types of [resources](resources.md) you may need.
 This page is about finding a place to store big amounts of data:
 it shows a flowchart how to determine the storage resource
 you can use, followed by an overview of all resources.
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
 Before you start, you should probably do a data classification
 and write a data management plan.
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
 Further things to consider include things like keeping a backup,
 versioning, etc, but the flowchart below can be a useful start.
 We will happily discuss your needs and help you find something suitable.
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
 ```mermaid
 flowchart TD
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
   question_need_repo[Do you want to work actively on the data?]
   question_need_repo --> |Yes| question_heavy_compute
   question_need_repo --> |No| question_publish_archive
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
   question_publish_archive[Do you want to publish data?]
   question_publish_archive --> |Yes| research_field
   question_publish_archive --> |No| others
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
   question_heavy_compute[Need heavy compute?]
   question_heavy_compute --> |Yes| question_hpc_cluster[Cluster]
   question_heavy_compute --> |No| others
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
   click question_hpc_cluster "./compute.md" "Compute decision tree"
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
   subgraph research_field["Research field"]
 
     bolin_centre_database[Bolin Centre Database]
@@ -58,7 +58,7 @@ flowchart TD
     q_fega_sweden[Sensitive human data?] --> |Yes| fega_sweden
     q_fega_sweden[Sensitive human data?] --> |No| ena
   end
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
   subgraph others["Others"]
 
     eosc_file_sync_and_share[EOSC File Sync and Share]
@@ -87,47 +87,47 @@ flowchart TD
     local_secure --> |LU| lu
     local_secure --> |GU| gu
     local_secure --> |KI| ki
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
   end
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
 ```
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
 ???- question "Why is this a useful resource?"
 
     This page is the only page that combines all the storage resources
     of all the different providers.
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
 ???- question "How is this list generated and updated?"
 
     On a daily basis,
     [the `update_content.yaml` continuous integration script](https://github.com/NBISweden/SCoRe_user_doc/blob/main/.github/workflows/update_content.yaml)
     checks the websites of the course providers and updates the list,
     using [the `scoreto` R package](https://github.com/richelbilderbeek/scoreto).
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
 ???- question "A storage provider is missing!"
 
     If a storage provider is missing, please [contribute](CONTRIBUTING.md)
     or [contact us](contact_us.md).
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
 ???- question "My storage resource is absent!"
 
     If your storage resource is absent, please [contribute](CONTRIBUTING.md)
     or [contact us](contact_us.md).
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
 ???- question "My storage resource can be displayed better!"
 
     If your storage resource can be displayed better,
     please [contribute](CONTRIBUTING.md)
     or [contact us](contact_us.md).
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
 ???- question "How can I read this data is a machine-friendly format?"
 
     This information can be downloaded as a `.csv` from
     [the `scoreto` R package](https://github.com/richelbilderbeek/scoreto/blob/main/inst/extdata/storage.csv).
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
 <!-- storage_2.md is machine-generated and pasted below this file, storage_1.md -->
-
-
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
 |HPC storage system name|Data sensitivity|Data activity|User fee|Accessible for|Center(s)|
 |:----------------------------------------|:----------------|:-------------|:--------|:----------------------------------------------------------|:------|
 |[Berzelius Storage](https://supr.naiss.se/resource/berzelius-storage/)|Regular          |Active        |Free       |Users of the NSC Berzelius HPC cluster                     |![NSC](logo/nsc_logo_66_x_24.png)|
