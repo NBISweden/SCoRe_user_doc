@@ -2,10 +2,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-11-03,2026-01-18,Introduction to Bioinformatics,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
 2025-11-03,2026-01-18,Advanced Plant Breeding and Genetic Resources,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
 2025-11-17,2025-11-21,Introduction to bioinformatics using NGS data,https://training.scilifelab.se/events/introduction-to-bioinformatics-using-ngs-data-ee294a56-5b18-4c13-bf8c-09d429d4575d,https://training.scilifelab.se/events,SciLifeLab
-2025-11-18,2025-11-20,Introduction to GPU programming,https://lumi-supercomputer.eu/events/intro-to-gpu-programming/,https://lumi-supercomputer.eu/events/,CSC
 2025-11-18,2025-11-20,[Webinars] Introduction to GPU programming,https://enccs.se/events/webinars-introduction-to-gpu-programming-2025/,https://enccs.se/events,ENCCS
-2025-11-18,2025-11-18,Hackathon: Bianca In-Depth: Improve Your Handling ofSensitive Research Data,https://docs.uppmax.uu.se/courses_workshops/bianca_intermediate/,https://www.naiss.se/training/,NAISS
-2025-11-18,2025-11-18,Bianca In-Depth Workshop: Improve Your Handling of Sensitive Research Data,https://docs.uppmax.uu.se/courses_workshops/bianca_intermediate,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-11-19,2025-11-21,Large Language Model Workshop,https://uppmax.github.io/LLM-workshop/,https://www.naiss.se/training/,NAISS
 2025-11-20,2026-02-17,Statistical methods in animal breeding,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
 2025-11-24,2025-11-28,Introduction to Python - with application to bioinformatics,https://training.scilifelab.se/events/introduction-to-python-with-application-to-bioinformatics-1caa8c78-3a2b-4317-9f30-3d2b9d124e60,https://training.scilifelab.se/events,SciLifeLab
