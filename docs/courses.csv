@@ -4,7 +4,6 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-11-20,2026-02-17,Statistical methods in animal breeding,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
 2025-11-24,2025-11-28,Introduction to Python - with application to bioinformatics,https://training.scilifelab.se/events/introduction-to-python-with-application-to-bioinformatics-1caa8c78-3a2b-4317-9f30-3d2b9d124e60,https://training.scilifelab.se/events,SciLifeLab
 2025-11-25,2025-11-27,"GPU programming: when, why and how?",https://enccs.se/events/gpu-programming-when-why-how-2025/,https://enccs.se/events,ENCCS
-2025-11-26,2025-11-26,LUMI user coffee breaks,https://lumi-supercomputer.eu/events/usercoffeebreaks/,https://lumi-supercomputer.eu/events/,CSC
 2025-11-27,2025-12-02,Workshop: Python,https://infravis.se/workshop-python/,https://infravis.se/news-events/,InfraViz
 2025-11-27,2025-11-27,Introduction to Python and Using Python in an HPC environment (1),https://www.hpc2n.umu.se/events/courses/2025/fall/hpc-python,https://www.naiss.se/training/,NAISS
 2025-11-27,2025-11-27,Intro to Python (part of and registration in next event),https://docs.uppmax.uu.se/courses_workshops/part of and registration <br> in next event) <br> _Nov 27_](intro_to_python,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
@@ -19,6 +18,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-12-02,2025-12-02,Introduction to Python and Using Python in an HPC environment (4),https://www.hpc2n.umu.se/events/courses/2025/fall/hpc-python,https://www.naiss.se/training/,NAISS
 2025-12-03,2025-12-03,Introduction seminar for Alvis users,https://indico.chalmers.se/event/354/,https://www.c3se.chalmers.se/,C3SE
 2025-12-03,2025-12-03,Introduction seminar for Alvis users,https://indico.chalmers.se/event/354/,https://www.naiss.se/training/,NAISS
+2025-12-04,2025-12-04,Introduction seminar for Vera users,https://chalmers.zoom.us/j/64207529655,https://www.c3se.chalmers.se/,C3SE
 2025-12-04,2025-12-05,"Intermediate Bash, aka Command Line 201",https://www.hpc2n.umu.se/events/courses/2025/fall/linux-201,https://www.hpc2n.umu.se/events/courses,HPC2N
 2025-12-08,2025-12-12,Practical Course at UCEM - TEM sample preparation for life science,https://training.scilifelab.se/events/practical-course-at-ucem-tem-sample-preparation,https://training.scilifelab.se/events,SciLifeLab
 2025-12-11,2025-12-11,NAISS Zoom-in – a virtual open-house,https://www.naiss.se/event/naiss-zoom-in-a-virtual-open-house-13/,https://www.naiss.se/training/,NAISS
