@@ -3,10 +3,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-11-03,2026-01-18,Advanced Plant Breeding and Genetic Resources,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
 2025-11-20,2026-02-17,Statistical methods in animal breeding,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
 2025-11-24,2025-11-28,Introduction to Python - with application to bioinformatics,https://training.scilifelab.se/events/introduction-to-python-with-application-to-bioinformatics-1caa8c78-3a2b-4317-9f30-3d2b9d124e60,https://training.scilifelab.se/events,SciLifeLab
-2025-11-25,2025-11-27,"GPU programming: when, why and how?",https://enccs.se/events/gpu-programming-when-why-how-2025/,https://enccs.se/events,ENCCS
 2025-11-27,2025-12-02,Workshop: Python,https://infravis.se/workshop-python/,https://infravis.se/news-events/,InfraViz
-2025-11-27,2025-11-27,Introduction to Python and Using Python in an HPC environment (1),https://www.hpc2n.umu.se/events/courses/2025/fall/hpc-python,https://www.naiss.se/training/,NAISS
-2025-11-27,2025-11-27,Intro to Python (part of and registration in next event),https://docs.uppmax.uu.se/courses_workshops/part of and registration <br> in next event) <br> _Nov 27_](intro_to_python,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-11-27,2025-11-28,Using Python in an HPC environment part 1,https://docs.uppmax.uu.se/courses_workshops/hpc_python,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
 2025-11-28,2025-11-28,Introduction to running Python in HPC + Using Python in an HPC environment,https://www.hpc2n.umu.se/events/courses/2025/fall/hpc-python#overlay-context=events/courses,https://www.hpc2n.umu.se/events/courses,HPC2N
 2025-11-28,2025-11-28,Introduction to Python and Using Python in an HPC environment (2),https://www.hpc2n.umu.se/events/courses/2025/fall/hpc-python,https://www.naiss.se/training/,NAISS
@@ -29,3 +26,4 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-03-17,2026-03-19,Introduction to Data Management Practices,https://training.scilifelab.se/events/introduction-to-data-management-practices-e70c8075-89dd-446a-8da2-a833206ef824,https://training.scilifelab.se/events,SciLifeLab
 2026-03-23,2026-03-25,Introduction to Metabolomics Data Analysis,https://training.scilifelab.se/events/introduction-to-metabolomics-data-analysis,https://training.scilifelab.se/events,SciLifeLab
 2026-05-05,2026-05-07,Advanced Data Visualization,https://training.scilifelab.se/events/advanced-data-visualization-e7d20643-c6fc-4d96-8b2c-d06aca09fd80,https://training.scilifelab.se/events,SciLifeLab
+2026-08-10,2026-08-20,RaukR 2026 - Summer School - Data Science with R,https://training.scilifelab.se/events/raukr-2026-summer-school-data-science-with-r,https://training.scilifelab.se/events,SciLifeLab
