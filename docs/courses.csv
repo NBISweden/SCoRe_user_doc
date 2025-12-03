@@ -2,25 +2,19 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-11-03,2026-01-18,Introduction to Bioinformatics,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
 2025-11-03,2026-01-18,Advanced Plant Breeding and Genetic Resources,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
 2025-11-20,2026-02-17,Statistical methods in animal breeding,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
-2025-11-24,2025-11-28,Introduction to Python - with application to bioinformatics,https://training.scilifelab.se/events/introduction-to-python-with-application-to-bioinformatics-1caa8c78-3a2b-4317-9f30-3d2b9d124e60,https://training.scilifelab.se/events,SciLifeLab
-2025-11-27,2025-12-02,Workshop: Python,https://infravis.se/workshop-python/,https://infravis.se/news-events/,InfraViz
-2025-11-27,2025-11-28,Using Python in an HPC environment part 1,https://docs.uppmax.uu.se/courses_workshops/hpc_python,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
-2025-11-28,2025-11-28,Introduction to running Python in HPC + Using Python in an HPC environment,https://www.hpc2n.umu.se/events/courses/2025/fall/hpc-python#overlay-context=events/courses,https://www.hpc2n.umu.se/events/courses,HPC2N
-2025-11-28,2025-11-28,Introduction to Python and Using Python in an HPC environment (2),https://www.hpc2n.umu.se/events/courses/2025/fall/hpc-python,https://www.naiss.se/training/,NAISS
-2025-12-01,2025-12-01,Introduction to Python and Using Python in an HPC environment (3),https://www.hpc2n.umu.se/events/courses/2025/fall/hpc-python,https://www.naiss.se/training/,NAISS
 2025-12-01,2025-12-05,R Programming Foundation For Data Analysis,https://training.scilifelab.se/events/r-programming-foundation-for-data-analysis,https://training.scilifelab.se/events,SciLifeLab
-2025-12-01,2025-12-02,Using Python in an HPC environment part 2,https://docs.uppmax.uu.se/courses_workshops/hpc_python,https://docs.uppmax.uu.se/courses_workshops/courses_workshops/,UPPMAX
-2025-12-02,2025-12-04,Accelerating your applications with AMD GPUs,https://lumi-supercomputer.eu/events/accelerating-your-applications-with-amd-gpus/,https://lumi-supercomputer.eu/events/,CSC
-2025-12-02,2025-12-02,Workshop: NodeGoat,https://infravis.se/workshop-nodegoat/,https://infravis.se/news-events/,InfraViz
-2025-12-02,2025-12-02,Introduction to Python and Using Python in an HPC environment (4),https://www.hpc2n.umu.se/events/courses/2025/fall/hpc-python,https://www.naiss.se/training/,NAISS
 2025-12-03,2025-12-03,Introduction seminar for Alvis users,https://indico.chalmers.se/event/354/,https://www.c3se.chalmers.se/,C3SE
 2025-12-03,2025-12-03,Introduction seminar for Alvis users,https://indico.chalmers.se/event/354/,https://www.naiss.se/training/,NAISS
 2025-12-04,2025-12-04,Introduction seminar for Vera users,https://chalmers.zoom.us/j/64207529655,https://www.c3se.chalmers.se/,C3SE
 2025-12-04,2025-12-05,"Intermediate Bash, aka Command Line 201",https://www.hpc2n.umu.se/events/courses/2025/fall/linux-201,https://www.hpc2n.umu.se/events/courses,HPC2N
+2025-12-04,2025-12-05,Linux Command Line 201(formerly “Intermediate Bash and Linux”),https://www.hpc2n.umu.se/events/courses/2025/fall/linux-201,https://www.naiss.se/training/,NAISS
 2025-12-08,2025-12-12,Practical Course at UCEM - TEM sample preparation for life science,https://training.scilifelab.se/events/practical-course-at-ucem-tem-sample-preparation,https://training.scilifelab.se/events,SciLifeLab
+2025-12-11,2025-12-11,Profiling AI workloads on GPUs – Identifying performance improvements,https://lumi-supercomputer.eu/events/profiling-ai-workloads-on-gpus/,https://lumi-supercomputer.eu/events/,CSC
 2025-12-11,2025-12-11,NAISS Zoom-in – a virtual open-house,https://www.naiss.se/event/naiss-zoom-in-a-virtual-open-house-13/,https://www.naiss.se/training/,NAISS
 2025-12-31,2025-12-31,Biodiversity Genomics Europe + SciLifeLab Digital Hi-C Course - Self Paced,https://training.scilifelab.se/events/biodiversity-genomics-europe-scilifelab-digital-hi-c-course-self-paced,https://training.scilifelab.se/events,SciLifeLab
 2025-12-31,2025-12-31,Open Science in the Swedish Context - Materials,https://training.scilifelab.se/events/open-science-in-the-swedish-context-self-paced,https://training.scilifelab.se/events,SciLifeLab
+2026-01-15,2026-01-16,Awk workshop,https://docs.uppmax.uu.se/courses_workshops/awk/,https://www.naiss.se/training/,NAISS
+2026-01-19,2026-03-23,Plant Biology for Breeding and Protection,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
 2026-01-19,2026-01-30,Data handling and high-quality illustrations for publications,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
 2026-03-11,2026-03-16,Biologically Informed Neural Networks (BINNs): Principles and Practice,https://training.scilifelab.se/events/biologically-informed-neural-networks-binns-principles-and-practice,https://training.scilifelab.se/events,SciLifeLab
 2026-03-17,2026-03-19,Introduction to Data Management Practices,https://training.scilifelab.se/events/introduction-to-data-management-practices-e70c8075-89dd-446a-8da2-a833206ef824,https://training.scilifelab.se/events,SciLifeLab
