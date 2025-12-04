@@ -1,9 +1,9 @@
 site_name: SCoRe user documentation
 
-# Thanks to Martin Dahlö
-repo_url: https://docs.score.nbis.se
+# custom domain, needed or not?
+# repo_url: https://docs.score.nbis.se
 # Classic
-# repo_url: https://github.com/NBISweden/SCoRe_user_doc
+repo_url: https://github.com/NBISweden/SCoRe_user_doc
 
 edit_uri: blob/main/docs/
 
