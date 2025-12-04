@@ -1,5 +1,10 @@
 site_name: SCoRe user documentation
-repo_url: https://github.com/NBISweden/SCoRe_user_doc
+
+# Thanks to Martin Dahlö
+repo_url: https://docs.score.nbis.se
+# Classic
+# repo_url: https://github.com/NBISweden/SCoRe_user_doc
+
 edit_uri: blob/main/docs/
 
 nav:
