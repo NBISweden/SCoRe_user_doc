@@ -1,9 +1,9 @@
-[1] "<!-- markdownlint-disable MD060 --><!-- The pipes must not line up -->"                                                                                                                                        
-[2] ""                                                                                                                                                                                                              
-[3] "|Name|Description|User fee|Accessible for|Center(s)|"                                                                                                                                                          
-[4] "|:------------------------|:-----------------------------------------|:--------|:--------------|:------|"                                                                                                      
-[5] "|[AIDA Data Hub datasets](https://docs.datahub.aida.scilifelab.se/data/download-dataset/)|Download datasets from the AIDA Nextcloud |Free       |Everyone       |![AIDA Data Hub](logo/aida_logo_24_x_24.png)|"
-[6] "|[EOSC Bulk Data Transfer](https://open-science-cloud.ec.europa.eu/services/bulk-data-transfer)|Transfer data in bulk                     |Unknown    |EU citizens    |![EOSC](logo/eosc_logo_77_x_24.png)|"   
-[7] "|[EOSC Large File Transfer](https://open-science-cloud.ec.europa.eu/services/large-file-transfer)|Transfer large files                      |Unknown    |EU citizens    |![EOSC](logo/eosc_logo_77_x_24.png)|" 
-[8] ""                                                                                                                                                                                                              
-[9] "<!-- markdownlint-enable MD060 -->"                                                                                                                                                                            
+<!-- markdownlint-disable MD060 --><!-- The pipes must not line up -->
+
+|Name|Description|User fee|Accessible for|Center(s)|
+|:------------------------|:-----------------------------------------|:--------|:--------------|:------|
+|[AIDA Data Hub datasets](https://docs.datahub.aida.scilifelab.se/data/download-dataset/)|Download datasets from the AIDA Nextcloud |Free       |Everyone       |![AIDA Data Hub](logo/aida_logo_24_x_24.png)|
+|[EOSC Bulk Data Transfer](https://open-science-cloud.ec.europa.eu/services/bulk-data-transfer)|Transfer data in bulk                     |Unknown    |EU citizens    |![EOSC](logo/eosc_logo_77_x_24.png)|
+|[EOSC Large File Transfer](https://open-science-cloud.ec.europa.eu/services/large-file-transfer)|Transfer large files                      |Unknown    |EU citizens    |![EOSC](logo/eosc_logo_77_x_24.png)|
+
+<!-- markdownlint-enable MD060 -->

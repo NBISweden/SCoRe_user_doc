@@ -33,12 +33,12 @@ This page is about other resources.
 <!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/other_1.md' INSTEAD -->
 <!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/other_1.md' INSTEAD -->
 <!-- other_2.md is machine-generated and pasted below this file, other_1.md -->
-[1] "<!-- markdownlint-disable MD060 --><!-- The pipes must not line up -->"                                                                                                                                        
-[2] ""                                                                                                                                                                                                              
-[3] "|Name|Description|User fee|Accessible for|Center(s)|"                                                                                                                                                          
-[4] "|:------------------------|:-----------------------------------------|:--------|:--------------|:------|"                                                                                                      
-[5] "|[AIDA Data Hub datasets](https://docs.datahub.aida.scilifelab.se/data/download-dataset/)|Download datasets from the AIDA Nextcloud |Free       |Everyone       |![AIDA Data Hub](logo/aida_logo_24_x_24.png)|"
-[6] "|[EOSC Bulk Data Transfer](https://open-science-cloud.ec.europa.eu/services/bulk-data-transfer)|Transfer data in bulk                     |Unknown    |EU citizens    |![EOSC](logo/eosc_logo_77_x_24.png)|"   
-[7] "|[EOSC Large File Transfer](https://open-science-cloud.ec.europa.eu/services/large-file-transfer)|Transfer large files                      |Unknown    |EU citizens    |![EOSC](logo/eosc_logo_77_x_24.png)|" 
-[8] ""                                                                                                                                                                                                              
-[9] "<!-- markdownlint-enable MD060 -->"                                                                                                                                                                            
+<!-- markdownlint-disable MD060 --><!-- The pipes must not line up -->
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/other_1.md' INSTEAD -->
+|Name|Description|User fee|Accessible for|Center(s)|
+|:------------------------|:-----------------------------------------|:--------|:--------------|:------|
+|[AIDA Data Hub datasets](https://docs.datahub.aida.scilifelab.se/data/download-dataset/)|Download datasets from the AIDA Nextcloud |Free       |Everyone       |![AIDA Data Hub](logo/aida_logo_24_x_24.png)|
+|[EOSC Bulk Data Transfer](https://open-science-cloud.ec.europa.eu/services/bulk-data-transfer)|Transfer data in bulk                     |Unknown    |EU citizens    |![EOSC](logo/eosc_logo_77_x_24.png)|
+|[EOSC Large File Transfer](https://open-science-cloud.ec.europa.eu/services/large-file-transfer)|Transfer large files                      |Unknown    |EU citizens    |![EOSC](logo/eosc_logo_77_x_24.png)|
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/other_1.md' INSTEAD -->
+<!-- markdownlint-enable MD060 -->
