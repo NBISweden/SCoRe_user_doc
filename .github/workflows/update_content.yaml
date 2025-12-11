@@ -165,6 +165,13 @@ jobs:
         run: cat docs/web_host.md
 
       ##########################
+      # Check content
+      ##########################
+
+      - name: Check
+        run: ./scripts/check_no_numbering_in_md.sh 
+
+      ##########################
       # Done with generating content
       ##########################
 
