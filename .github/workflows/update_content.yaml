@@ -83,7 +83,7 @@ jobs:
       ##########################
 
       - name: Create docs/courses_2.md
-        run: Rscript -e 'scoreto::get_courses_as_markdown()' > docs/courses_2.md
+        run: Rscript -e 'cat(scoreto::get_courses_as_markdown())' > docs/courses_2.md
 
       - name: View courses_2.md
         run: cat docs/courses_2.md
