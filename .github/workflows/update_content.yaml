@@ -67,7 +67,7 @@ jobs:
       ##########################
 
       - name: Create docs/compute_2.md
-        run: Rscript -e 'scoreto::get_compute_as_markdown()' > docs/compute_2.md
+        run: Rscript -e 'cat(scoreto::get_compute_as_markdown(), sep = '\n')' > docs/compute_2.md
 
       - name: View compute_2.md
         run: cat docs/compute_2.md
@@ -105,8 +105,9 @@ jobs:
       # Index
       ##########################
 
+      # Need cat to remove numbering
       - name: Create docs/index_2.md
-        run: Rscript -e 'scoreto::get_all_provider_logos_as_markdown()' > docs/index_2.md
+        run: Rscript -e 'cat(scoreto::get_all_provider_logos_as_markdown(), sep = "\n")' > docs/index_2.md
 
       - name: View index_2.md
         run: cat docs/index_2.md
@@ -122,7 +123,7 @@ jobs:
       ##########################
 
       - name: Create docs/other_2.md
-        run: Rscript -e 'scoreto::get_other_as_markdown()' > docs/other_2.md
+        run: Rscript -e 'cat(scoreto::get_other_as_markdown(), sep = '\n')' > docs/other_2.md
 
       - name: View other_2.md
         run: cat docs/other_2.md
@@ -138,7 +139,7 @@ jobs:
       ##########################
 
       - name: Create docs/storage_2.md
-        run: Rscript -e 'scoreto::get_storage_as_markdown()' > docs/storage_2.md
+        run: Rscript -e 'cat(scoreto::get_storage_as_markdown(), sep = '\n')' > docs/storage_2.md
 
       - name: View storage_2.md
         run: cat docs/storage_2.md
@@ -154,7 +155,7 @@ jobs:
       ##########################
 
       - name: Create docs/web_host_2.md
-        run: Rscript -e 'scoreto::get_web_host_as_markdown()' > docs/web_host_2.md
+        run: Rscript -e 'cat(scoreto::get_web_host_as_markdown(), sep = '\n')' > docs/web_host_2.md
 
       - name: View web_host_2.md
         run: cat docs/web_host_2.md
