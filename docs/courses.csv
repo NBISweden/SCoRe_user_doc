@@ -10,12 +10,14 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-01-19,2026-01-30,Data handling and high-quality illustrations for publications,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
 2026-01-22,2026-01-22,Resource-efficient AI model parallelisation on LUMI supercomputer,https://lumi-supercomputer.eu/events/resource-efficient-ai-model-parallelisation-on-lumi-supercomputer/,https://lumi-supercomputer.eu/events/,CSC
 2026-01-22,2026-01-12,Resource-Efficient AI Model Parallelisation on LUMI Supercomputer,https://mimer-ai.eu/event/resource-efficient-ai-model-parallelisation-on-lumi-supercomputer/,https://mimer-ai.eu/events-and-learning/,Mimer
+2026-01-26,2026-01-29,SCA/HPCAsia 2026,https://lumi-supercomputer.eu/events/sca-hpcasia-2026/,https://lumi-supercomputer.eu/events/,CSC
 2026-02-11,2026-02-13,Healthcare foundation models,https://mimer-ai.eu/event/healthcare-foundation-models/,https://mimer-ai.eu/events-and-learning/,Mimer
 2026-03-02,2026-03-06,Introduction to Bioinformatics using NGS data,https://training.scilifelab.se/events/introduction-to-bioinformatics-using-ngs-data-7e8a2a46-1653-48e7-aabc-01aa53c8b96f,https://training.scilifelab.se/events,SciLifeLab
 2026-03-10,2026-03-11,Introduction to Pandas for data science,https://www.lunarc.lu.se/learning-more/training-courses/,https://www.lunarc.lu.se/learning-more/training-courses/,LUNARC
 2026-03-11,2026-03-16,Biologically Informed Neural Networks (BINNs): Principles and Practice,https://training.scilifelab.se/events/biologically-informed-neural-networks-binns-principles-and-practice,https://training.scilifelab.se/events,SciLifeLab
 2026-03-17,2026-03-19,Introduction to Data Management Practices,https://training.scilifelab.se/events/introduction-to-data-management-practices-e70c8075-89dd-446a-8da2-a833206ef824,https://training.scilifelab.se/events,SciLifeLab
 2026-03-23,2026-03-25,Introduction to Metabolomics Data Analysis,https://training.scilifelab.se/events/introduction-to-metabolomics-data-analysis,https://training.scilifelab.se/events,SciLifeLab
+2026-03-25,2026-03-26,Organizational Learning,https://training.scilifelab.se/events/organizational-learning,https://training.scilifelab.se/events,SciLifeLab
 2026-05-05,2026-05-07,Advanced Data Visualization,https://training.scilifelab.se/events/advanced-data-visualization-e7d20643-c6fc-4d96-8b2c-d06aca09fd80,https://training.scilifelab.se/events,SciLifeLab
 2026-05-25,2026-05-27,Snakemake “bring-your-own-code” (BYOC) workshop,https://training.scilifelab.se/events/snakemake-bring-your-own-code-byoc-workshop-72df20ec-2b51-4de2-8de9-33246f61b442,https://training.scilifelab.se/events,SciLifeLab
 2026-08-10,2026-08-20,RaukR 2026 - Summer School - Data Science with R,https://training.scilifelab.se/events/raukr-2026-summer-school-data-science-with-r,https://training.scilifelab.se/events,SciLifeLab
