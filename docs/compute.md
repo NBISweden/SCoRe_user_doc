@@ -125,7 +125,8 @@ flowchart TD
     This information can be downloaded as a `.csv` from
     [the `scoreto` R package](https://github.com/richelbilderbeek/scoreto/blob/main/inst/extdata/compute.csv).
 <!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
-<!-- compute_2.md is machine-generated and pasted below this file, compute_1.md -->
+<!-- compute_2.md is machine-generated and -->
+<!-- pasted below this file, compute_1.md -->
 <!-- markdownlint-disable MD060 --><!-- The pipes must not line up -->
 <!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
 |HPC cluster name|Type of computation|Type of data|User fee|Accessible for|Center(s)|
