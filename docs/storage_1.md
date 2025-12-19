@@ -125,4 +125,5 @@ flowchart TD
     This information can be downloaded as a `.csv` from
     [the `scoreto` R package](https://github.com/richelbilderbeek/scoreto/blob/main/inst/extdata/storage.csv).
 
-<!-- storage_2.md is machine-generated and pasted below this file, storage_1.md -->
+<!-- storage_2.md is machine-generated and -->
+<!-- pasted below this file, storage_1.md -->

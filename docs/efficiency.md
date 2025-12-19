@@ -94,6 +94,8 @@ flowchart TD
 The first step, 'Obtain CPU and memory usage of a job'
 depends on your HPC cluster:
 
+<!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
+
 | HPC cluster name                                                                         | Tool and guide                                                                   | Center(s)                                                                       |
 |-:----------------------------------------------------------------------------------------|-:--------------------------------------------------------------------------------|-:-------------------------------------------------------------------------------|
 | [Alvis](https://www.c3se.chalmers.se/about/Alvis/)                                       | [Using a graphical representation](efficiency_using_graphical_representation.md) | ![C3SE](logo/c3se_logo_134_x_24.png) ![NAISS](logo/naiss_logo_148_x_24.png)     |
@@ -110,6 +112,8 @@ depends on your HPC cluster:
 | [Tetralith](https://www.nsc.liu.se/systems/tetralith/)                                   | [Using `seff`](efficiency_using_seff.md)                                         | ![NAISS](logo/naiss_logo_148_x_24.png) ![NSC](logo/nsc_logo_66_x_24.png)        |
 | [Trusted research environment](https://tre.gu.se/)                                       | ?                                                                                | ![University of Gothenburg](logo/university_of_gothenburg_logo_24_x_24.png)     |
 | [Vera](https://www.c3se.chalmers.se/about/Vera/)                                         | [Using a graphical representation](efficiency_using_graphical_representation.md) | ![C3SE](logo/c3se_logo_134_x_24.png)                                            |
+
+<!-- markdownlint-enable MD013 -->
 
 ???- question "Need a worked-out example?"
 
