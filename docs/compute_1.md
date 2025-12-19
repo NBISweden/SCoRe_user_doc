@@ -125,4 +125,5 @@ flowchart TD
     This information can be downloaded as a `.csv` from
     [the `scoreto` R package](https://github.com/richelbilderbeek/scoreto/blob/main/inst/extdata/compute.csv).
 
-<!-- compute_2.md is machine-generated and pasted below this file, compute_1.md -->
+<!-- compute_2.md is machine-generated and -->
+<!-- pasted below this file, compute_1.md -->
