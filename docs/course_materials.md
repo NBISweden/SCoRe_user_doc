@@ -31,7 +31,7 @@ by reading self-study material.
 <!-- markdownlint-disable MD013 --><!-- Tables cannot be split up over lines, hence will break 80 characters per line -->
 
 Resource                                                             |Topic
-----------------------|----------------------
+---------------------------------------------------------------------|------------------------------------------------------------
 [Codecademy](https://www.codecademy.com/)                            |Computer science and programming languages
 [ENCCS](https://enccs.se/lessons/)                                   |HPC computing
 [Learn X in Y minutes](https://learnxinyminutes.com/)                |Programming languages
