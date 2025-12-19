@@ -10,7 +10,7 @@ Here we discuss how to contribute:
 
 ## Improvements to the Courses page
 
-[The Courses page](/courses)
+[The Courses page](courses.md)
 scrapes the websites of course providers,
 using [the `scoreto` R package](https://github.com/richelbilderbeek/scoreto).
 
