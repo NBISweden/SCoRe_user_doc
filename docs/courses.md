@@ -68,7 +68,8 @@ as provided by courses and training.
     please [contribute](CONTRIBUTING.md)
     or [contact us](contact_us.md).
 <!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/courses_1.md' INSTEAD -->
-<!-- courses_2.md is machine-generated and pasted below this file, courses_1.md -->
+<!-- courses_2.md is machine-generated -->
+<!-- and pasted below this file, courses_1.md -->
 <!-- markdownlint-disable MD060 --><!-- The pipes must not line up -->
 <!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/courses_1.md' INSTEAD -->
 |**From**|**To**|**Course name**|**Course site**|**Provider site**|**Provider name**|
