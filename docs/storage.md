@@ -140,7 +140,7 @@ flowchart TD
 |[DORIS](https://snd.se/en/doris-researchers)|Any              |Any           |Free       |Swedish researchers                                        |![SND](logo/snd_logo_83_x_24.png) ![Doris SND](logo/doris_snd_logo_30_x_24.png)|
 |[EOSC File Sync and Share](https://open-science-cloud.ec.europa.eu/services/file-sync-share)|Unsure           |Unknown       |Unknown    |EU citizens                                                |![EOSC](logo/eosc_logo_77_x_24.png)|
 |[FEGA Sweden](https://fega.nbis.se/)     |Sensitive        |Any           |Free       |Swedish researchers working on genotype and phenotype data |![FEGA Sweden](logo/fega_sweden_logo_71_x_24.png)|
-|[GBIF Sweden](https://gbif.se/)          |Regular          |Any           |Free       |Swedish researchers working on biodiversity data           |![GBIF](logo/gbif_logo_48_x_24.png)|
+|[GBIF Sweden](https://gbif.se/)          |Regular          |Any           |Free       |Swedish researchers working on biodiversity data           |![GBIF Sweden](logo/gbif_sweden_logo_48_x_24.png)|
 |[Klemming](https://supr.naiss.se/resource/klemming/)|Regular          |Active        |Free       |Users of the PDC Dardel HPC cluster                        |![PDC](logo/pdc_logo_21_x_24.png)|
 |[Mimer](https://supr.naiss.se/resource/mimer/)|Regular          |Active        |Free       |Users of the C3SE Alvis HPC cluster                        |![C3SE](logo/c3se_logo_134_x_24.png)|
 |[Nobackup](https://supr.naiss.se/resource/nobackup-hpc2n/)|Regular          |Active        |Free       |Users of the HPC2N HPC clusters                            |![HPC2N](logo/hpc2n_logo_84_x_24.png)|
