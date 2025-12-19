@@ -102,7 +102,7 @@ jobs:
         run: cat docs/courses.csv
 
       ##########################
-      # Index
+      # Index, i.e. logo's
       ##########################
 
       # Need cat to remove numbering
