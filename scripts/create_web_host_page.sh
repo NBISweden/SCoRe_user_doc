@@ -20,5 +20,4 @@ if [[ "$PWD" =~ scripts$ ]]; then
 fi
 
 cat docs/web_host_1.md docs/web_host_2.md > docs/web_host.md
-
-./scripts/mark_computer_generated_file.R docs/web_host.md
+Rscript -e "scoreto::mark_file_as_computer_generated(\"docs/web_host.md\")"
