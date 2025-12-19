@@ -11,24 +11,24 @@ and write a data management plan.
 Further things to consider include things like keeping a backup,
 versioning, etc, but the flowchart below can be a useful start.
 We will happily discuss your needs and help you find something suitable.
-<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
+
 ```mermaid
 flowchart TD
-<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
+
   question_need_repo[Do you want to work actively on the data?]
   question_need_repo --> |Yes| question_heavy_compute
   question_need_repo --> |No| question_publish_archive
-<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
+
   question_publish_archive[Do you want to publish data?]
   question_publish_archive --> |Yes| research_field
   question_publish_archive --> |No| others
-<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
+
   question_heavy_compute[Need heavy compute?]
   question_heavy_compute --> |Yes| question_hpc_cluster[Cluster]
   question_heavy_compute --> |No| others
-<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
+
   click question_hpc_cluster "./compute.md" "Compute decision tree"
-<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
+
   subgraph research_field["Research field"]
 
     bolin_centre_database[Bolin Centre Database]
@@ -58,7 +58,7 @@ flowchart TD
     q_fega_sweden[Sensitive human data?] --> |Yes| fega_sweden
     q_fega_sweden[Sensitive human data?] --> |No| ena
   end
-<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
+
   subgraph others["Others"]
 
     eosc_file_sync_and_share[EOSC File Sync and Share]
@@ -87,7 +87,7 @@ flowchart TD
     local_secure --> |LU| lu
     local_secure --> |GU| gu
     local_secure --> |KI| ki
-<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
+
   end
 <!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
 ```

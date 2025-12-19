@@ -4,10 +4,10 @@ There are multiple types of [resources](resources.md) you may need.
 This page is about finding a place to run heavy calculations on:
 it shows a flowchart how to determine the computational resource
 you can use, followed by an overview of all resources.
-<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
+
 ```mermaid
 flowchart TD
-<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
+
   subgraph researcher_on_sensitive_data[Researcher, sensitive data]
     arrhenius_rs[Arrhenius]
     bianca[Bianca]
@@ -28,9 +28,9 @@ flowchart TD
 
     bianca -.-> |Future| maja
     bianca -.-> |Future| arrhenius_rs
-<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
+
   end
-<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
+
   subgraph researcher_on_regular_data[Researcher, regular data]
     alvis[Alvis]
     arrhenius_rr[Arrhenius]
@@ -73,22 +73,22 @@ flowchart TD
 
     rackham -.-> |Future| pelle
     rackham -.-> |Future| arrhenius_rr
-<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
+
   end
   
   subgraph anyone_on_any_data[Anyone, any data]
     aa_data_science_platform[Data Science Platform]
   end
-<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
+
   job_question[Are you a researcher?]
-<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
+
   job_question --> |No| anyone_on_any_data
   job_question --> |Yes| sensitivity_question
-<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
+
   sensitivity_question[Do you work with sensitive data?]
   sensitivity_question --> |Yes| researcher_on_sensitive_data
   sensitivity_question --> |No| researcher_on_regular_data
-<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
+
   researcher_on_sensitive_data ~~~ researcher_on_regular_data 
 ```
 <!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/compute_1.md' INSTEAD -->
