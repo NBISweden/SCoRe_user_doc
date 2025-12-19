@@ -125,7 +125,8 @@ flowchart TD
     This information can be downloaded as a `.csv` from
     [the `scoreto` R package](https://github.com/richelbilderbeek/scoreto/blob/main/inst/extdata/storage.csv).
 <!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
-<!-- storage_2.md is machine-generated and pasted below this file, storage_1.md -->
+<!-- storage_2.md is machine-generated and -->
+<!-- pasted below this file, storage_1.md -->
 <!-- markdownlint-disable MD060 --><!-- The pipes must not line up -->
 <!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
 |HPC storage system name|Data sensitivity|Data activity|User fee|Accessible for|Center(s)|
