@@ -89,7 +89,7 @@ flowchart TD
     local_secure --> |KI| ki
 
   end
-<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
+
 ```
 <!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/storage_1.md' INSTEAD -->
 ???- question "Why is this a useful resource?"
