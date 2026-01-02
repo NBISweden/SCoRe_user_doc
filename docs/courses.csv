@@ -2,24 +2,32 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-11-03,2026-01-18,Introduction to Bioinformatics,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
 2025-11-03,2026-01-18,Advanced Plant Breeding and Genetic Resources,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
 2025-11-20,2026-02-17,Statistical methods in animal breeding,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
-2025-12-31,2025-12-31,Biodiversity Genomics Europe + SciLifeLab Digital Hi-C Course - Self Paced,https://training.scilifelab.se/events/biodiversity-genomics-europe-scilifelab-digital-hi-c-course-self-paced,https://training.scilifelab.se/events,SciLifeLab
-2025-12-31,2025-12-31,Open Science in the Swedish Context - Materials,https://training.scilifelab.se/events/open-science-in-the-swedish-context-self-paced,https://training.scilifelab.se/events,SciLifeLab
+2026-01-12,2026-01-16,GENE/GENE-X User Training and Tutorial,https://enccs.se/events/training-gene-gene-x-training/,https://enccs.se/events,ENCCS
+2026-01-15,2026-01-16,Awk workshop,https://docs.uppmax.uu.se/courses_workshops/awk/,https://www.naiss.se/training,NAISS
 2026-01-19,2026-01-21,Introduction to Linux and UPPMAX,https://docs.uppmax.uu.se/courses_workshops/uppmax_intro_course,https://docs.uppmax.uu.se/courses_workshops/courses_workshops,UPPMAX
 2026-01-19,2026-03-23,Plant Biology for Breeding and Protection,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
 2026-01-19,2026-01-30,Data handling and high-quality illustrations for publications,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
+2026-01-20,2026-01-20,Introduction to Kebnekaise,https://www.hpc2n.umu.se/events/courses/2026/spring/intro-kebnekaise,https://www.hpc2n.umu.se/events/courses,HPC2N
 2026-01-22,2026-01-22,Resource-efficient AI model parallelisation on LUMI supercomputer,https://lumi-supercomputer.eu/events/resource-efficient-ai-model-parallelisation-on-lumi-supercomputer/,https://lumi-supercomputer.eu/events,CSC
 2026-01-22,2026-01-12,Resource-Efficient AI Model Parallelisation on LUMI Supercomputer,https://mimer-ai.eu/event/resource-efficient-ai-model-parallelisation-on-lumi-supercomputer/,https://mimer-ai.eu/events-and-learning,Mimer
 2026-01-26,2026-01-29,SCA/HPCAsia 2026,https://lumi-supercomputer.eu/events/sca-hpcasia-2026/,https://lumi-supercomputer.eu/events,CSC
+2026-01-27,2026-01-28,Efficient use of the CPU nodes on Dardel and Arrhenius,https://naiss-training.github.io/Using-CPU-nodes/,https://www.naiss.se/training,NAISS
+2026-02-02,2026-02-06,NAISS introduction training week,https://naiss-training.github.io/NAISS-intro-week/,https://www.naiss.se/training,NAISS
 2026-02-02,2026-02-02,Connect and File Transfer,https://docs.uppmax.uu.se/courses_workshops/naiss_transfer,https://docs.uppmax.uu.se/courses_workshops/courses_workshops,UPPMAX
 2026-02-06,2026-02-06,Introduction to Bianca,https://docs.uppmax.uu.se/courses_workshops/bianca_intro,https://docs.uppmax.uu.se/courses_workshops/courses_workshops,UPPMAX
 2026-02-11,2026-02-13,Healthcare foundation models,https://mimer-ai.eu/event/healthcare-foundation-models/,https://mimer-ai.eu/events-and-learning,Mimer
+2026-02-12,2026-02-12,NAISS Zoom-in – a virtual open-house,https://www.naiss.se/event/naiss-zoom-in-a-virtual-open-house-14/,https://www.naiss.se/training,NAISS
+2026-02-19,2026-02-19,Basic Singularity/Apptainer workshop,https://docs.uppmax.uu.se/courses_workshops/singularity/,https://www.naiss.se/training,NAISS
 2026-03-02,2026-03-06,Introduction to Bioinformatics using NGS data,https://training.scilifelab.se/events/introduction-to-bioinformatics-using-ngs-data-7e8a2a46-1653-48e7-aabc-01aa53c8b96f,https://training.scilifelab.se/events,SciLifeLab
 2026-03-09,2026-03-13,Statistical Methods in Life Sciences,https://training.scilifelab.se/events/statistical-methods-in-life-sciences,https://training.scilifelab.se/events,SciLifeLab
 2026-03-10,2026-03-11,Introduction to Pandas for data science,https://www.lunarc.lu.se/learning-more/training-courses,https://www.lunarc.lu.se/learning-more/training-courses,LUNARC
+2026-03-10,2026-03-11,Introduction to Pandas for data science,https://www.lunarc.lu.se/article/introduction-pandas-data-science-10-11-march-2026,https://www.naiss.se/training,NAISS
 2026-03-11,2026-03-16,Biologically Informed Neural Networks (BINNs): Principles and Practice,https://training.scilifelab.se/events/biologically-informed-neural-networks-binns-principles-and-practice,https://training.scilifelab.se/events,SciLifeLab
 2026-03-16,2026-04-13,Train the Trainer (Online),https://training.scilifelab.se/events/train-the-trainer-online-546d1cc7-f45b-4e2d-b4d3-b366e717272d,https://training.scilifelab.se/events,SciLifeLab
 2026-03-17,2026-03-19,Introduction to Data Management Practices,https://training.scilifelab.se/events/introduction-to-data-management-practices-e70c8075-89dd-446a-8da2-a833206ef824,https://training.scilifelab.se/events,SciLifeLab
 2026-03-23,2026-03-25,Introduction to Metabolomics Data Analysis,https://training.scilifelab.se/events/introduction-to-metabolomics-data-analysis,https://training.scilifelab.se/events,SciLifeLab
 2026-03-25,2026-03-26,Organizational Learning,https://training.scilifelab.se/events/organizational-learning,https://training.scilifelab.se/events,SciLifeLab
 2026-05-04,2026-05-07,Open Science in the Swedish Context,https://training.scilifelab.se/events/open-science-in-the-swedish-context-c09c45db-0ac2-4a2c-8fdc-6fed4bcc3742,https://training.scilifelab.se/events,SciLifeLab
+2026-05-04,2026-05-08,Programming Formalisms,https://training.scilifelab.se/events/programming-formalisms,https://training.scilifelab.se/events,SciLifeLab
 2026-05-04,2026-05-08,Programming Formalisms,https://docs.uppmax.uu.se/courses_workshops/programming_formalisms,https://docs.uppmax.uu.se/courses_workshops/courses_workshops,UPPMAX
+2026-05-05,2026-05-07,Advanced Data Visualization,https://training.scilifelab.se/events/advanced-data-visualization-e7d20643-c6fc-4d96-8b2c-d06aca09fd80,https://training.scilifelab.se/events,SciLifeLab
