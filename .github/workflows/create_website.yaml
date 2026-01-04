@@ -23,7 +23,7 @@ jobs:
           python-version: 3.x
 
       - name: Install dependencies
-        run: pip install -r requirements.txt natsort
+        run: pip install -r requirements.txt
 
       # Intermediate files needed for ./scripts/create_courses_page.sh,
       # where 'docs/courses_2.md' is created by 'update_courses.yaml'
