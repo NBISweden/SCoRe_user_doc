@@ -44,7 +44,11 @@ Computer-related and associated things, such as:
 
 ## Who is behind this site?
 
-![SCoRe logo](logo/score_logo_42_x_24.png)
+???- question "What is the SCoRe logo?"
+
+    ![SCoRe logo](logo/score_logo.png)
+
+    The SCoRe logo.
 
 SCoRe is behind this site.
 
