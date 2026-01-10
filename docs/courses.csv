@@ -13,13 +13,15 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-01-26,2026-01-29,SCA/HPCAsia 2026,https://lumi-supercomputer.eu/events/sca-hpcasia-2026/,https://lumi-supercomputer.eu/events,CSC
 2026-01-27,2026-01-28,Efficient use of the CPU nodes on Dardel and Arrhenius,https://naiss-training.github.io/Using-CPU-nodes/,https://www.naiss.se/training,NAISS
 2026-02-02,2026-02-06,NAISS introduction training week,https://naiss-training.github.io/NAISS-intro-week/,https://www.naiss.se/training,NAISS
-2026-02-02,2026-02-02,Connect and File Transfer,https://docs.uppmax.uu.se/courses_workshops/naiss_transfer,https://docs.uppmax.uu.se/courses_workshops/courses_workshops,UPPMAX
+2026-02-02,2026-02-02,NAISS 'Connect and File Transfer' course,https://docs.uppmax.uu.se/courses_workshops/naiss_transfer,https://docs.uppmax.uu.se/courses_workshops/courses_workshops,UPPMAX
 2026-02-03,2026-02-03,"Gerben ter Riet, 'What can a sociological framework from the mid-twentieth century teach us about today’s open-science challenges? More than you might think', Zoom",https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,OSCU
 2026-02-06,2026-02-06,Introduction to Bianca,https://docs.uppmax.uu.se/courses_workshops/bianca_intro,https://docs.uppmax.uu.se/courses_workshops/courses_workshops,UPPMAX
 2026-02-11,2026-02-13,Healthcare foundation models,https://mimer-ai.eu/event/healthcare-foundation-models/,https://mimer-ai.eu/events-and-learning,Mimer
 2026-02-12,2026-02-12,NAISS Zoom-in – a virtual open-house,https://www.naiss.se/event/naiss-zoom-in-a-virtual-open-house-14/,https://www.naiss.se/training,NAISS
+2026-02-16,2026-02-12,Introduction to Deep Learning,https://mimer-ai.eu/event/introduction-to-deep-learning/,https://mimer-ai.eu/events-and-learning,Mimer
 2026-02-19,2026-02-19,Basic Singularity/Apptainer workshop,https://docs.uppmax.uu.se/courses_workshops/singularity/,https://www.naiss.se/training,NAISS
 2026-03-02,2026-03-06,Introduction to Bioinformatics using NGS data,https://training.scilifelab.se/events/introduction-to-bioinformatics-using-ngs-data-7e8a2a46-1653-48e7-aabc-01aa53c8b96f,https://training.scilifelab.se/events,SciLifeLab
+2026-03-05,2026-03-05,Array computing in C++ using Eigen,https://www.lunarc.lu.se/learning-more/training-courses,https://www.lunarc.lu.se/learning-more/training-courses,LUNARC
 2026-03-09,2026-03-13,Statistical Methods in Life Sciences,https://training.scilifelab.se/events/statistical-methods-in-life-sciences,https://training.scilifelab.se/events,SciLifeLab
 2026-03-10,2026-03-11,Introduction to Pandas for data science,https://www.lunarc.lu.se/learning-more/training-courses,https://www.lunarc.lu.se/learning-more/training-courses,LUNARC
 2026-03-10,2026-03-11,Introduction to Pandas for data science,https://www.lunarc.lu.se/article/introduction-pandas-data-science-10-11-march-2026,https://www.naiss.se/training,NAISS
@@ -29,7 +31,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-03-17,2026-03-19,Introduction to Data Management Practices,https://training.scilifelab.se/events/introduction-to-data-management-practices-e70c8075-89dd-446a-8da2-a833206ef824,https://training.scilifelab.se/events,SciLifeLab
 2026-03-23,2026-03-25,Introduction to Metabolomics Data Analysis,https://training.scilifelab.se/events/introduction-to-metabolomics-data-analysis,https://training.scilifelab.se/events,SciLifeLab
 2026-03-25,2026-03-26,Organizational Learning,https://training.scilifelab.se/events/organizational-learning,https://training.scilifelab.se/events,SciLifeLab
+2026-04-13,2026-04-27,Single-Cell RNA-Seq Data Analysis,https://training.scilifelab.se/events/single-cell-rna-seq-data-analysis-6e1acebc-a282-4354-8136-8b390bca2fd1,https://training.scilifelab.se/events,SciLifeLab
 2026-05-04,2026-05-07,Open Science in the Swedish Context,https://training.scilifelab.se/events/open-science-in-the-swedish-context-c09c45db-0ac2-4a2c-8fdc-6fed4bcc3742,https://training.scilifelab.se/events,SciLifeLab
 2026-05-04,2026-05-08,Programming Formalisms,https://training.scilifelab.se/events/programming-formalisms,https://training.scilifelab.se/events,SciLifeLab
 2026-05-04,2026-05-08,Programming Formalisms,https://docs.uppmax.uu.se/courses_workshops/programming_formalisms,https://docs.uppmax.uu.se/courses_workshops/courses_workshops,UPPMAX
-2026-05-05,2026-05-07,Advanced Data Visualization,https://training.scilifelab.se/events/advanced-data-visualization-e7d20643-c6fc-4d96-8b2c-d06aca09fd80,https://training.scilifelab.se/events,SciLifeLab
