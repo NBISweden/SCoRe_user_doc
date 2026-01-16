@@ -3,7 +3,7 @@
 [![AIDA Data Hub](logo/aida_logo_24_x_24.png)](https://datahub.aida.scilifelab.se)
 [![C3SE](logo/c3se_logo_134_x_24.png)](https://www.c3se.chalmers.se)
 [![Code Refinery](logo/coderefinery_logo_32_x_24.png)](https://coderefinery.org)
-[![CSC](logo/csc_logo_31_x_24.png)](https://www.lumi.csc.fi/public)
+[![CSC](logo/csc_logo_31_x_24.png)](https://lumi-supercomputer.eu)
 [![Doris SND](logo/doris_snd_logo_30_x_24.png)](https://www.snd.se/en/doris-researchers)
 [![ENCCS](logo/enccs_logo_103_x_24.png)](https://enccs.se)
 [![EOSC](logo/eosc_logo_77_x_24.png)](https://eosc.eu)
