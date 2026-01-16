@@ -12,10 +12,12 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-01-22,2026-01-22,Resource-efficient AI model parallelisation on LUMI supercomputer,https://lumi-supercomputer.eu/events/resource-efficient-ai-model-parallelisation-on-lumi-supercomputer/,https://lumi-supercomputer.eu/events,CSC
 2026-01-26,2026-01-29,SCA/HPCAsia 2026,https://lumi-supercomputer.eu/events/sca-hpcasia-2026/,https://lumi-supercomputer.eu/events,CSC
 2026-01-27,2026-01-28,Efficient use of the CPU nodes on Dardel and Arrhenius,https://naiss-training.github.io/Using-CPU-nodes/,https://www.naiss.se/training,NAISS
+2026-02-02,2026-02-06,NAISS intro week,https://naiss-training.github.io/NAISS-intro-week/,https://www.hpc2n.umu.se/events/courses,HPC2N
 2026-02-02,2026-02-06,NAISS introduction training week,https://naiss-training.github.io/NAISS-intro-week/,https://www.naiss.se/training,NAISS
 2026-02-02,2026-02-02,NAISS 'Connect and File Transfer' course,https://docs.uppmax.uu.se/courses_workshops/naiss_transfer,https://docs.uppmax.uu.se/courses_workshops/courses_workshops,UPPMAX
 2026-02-03,2026-02-03,"Gerben ter Riet, 'What can a sociological framework from the mid-twentieth century teach us about today’s open-science challenges? More than you might think', Zoom",https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,OSCU
 2026-02-06,2026-02-06,Introduction to Bianca,https://docs.uppmax.uu.se/courses_workshops/bianca_intro,https://docs.uppmax.uu.se/courses_workshops/courses_workshops,UPPMAX
+2026-02-10,2026-02-25,Scientific computing using Julia language,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
 2026-02-11,2026-02-13,Healthcare foundation models,https://mimer-ai.eu/event/healthcare-foundation-models/,https://mimer-ai.eu/events-and-learning,Mimer
 2026-02-12,2026-02-12,NAISS Zoom-in – a virtual open-house,https://www.naiss.se/event/naiss-zoom-in-a-virtual-open-house-14/,https://www.naiss.se/training,NAISS
 2026-02-13,2026-02-13,"Hans Karlsson, TBA",https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,OSCU
@@ -23,8 +25,10 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-02-19,2026-02-19,Basic Singularity/Apptainer workshop,https://docs.uppmax.uu.se/courses_workshops/singularity/,https://www.naiss.se/training,NAISS
 2026-02-25,2026-02-27,Code Kickstart Hackathon,https://lumi-supercomputer.eu/events/code-kickstart-hackathon/,https://lumi-supercomputer.eu/events,CSC
 2026-03-02,2026-03-06,Introduction to Bioinformatics using NGS data,https://training.scilifelab.se/events/introduction-to-bioinformatics-using-ngs-data-7e8a2a46-1653-48e7-aabc-01aa53c8b96f,https://training.scilifelab.se/events,SciLifeLab
+2026-03-03,2026-03-03,Intro to Python for HPC,https://docs.uppmax.uu.se/courses_workshops/intro_to_python/,https://www.naiss.se/training,NAISS
 2026-03-05,2026-03-05,Array computing in C++ using Eigen,https://www.lunarc.lu.se/learning-more/training-courses,https://www.lunarc.lu.se/learning-more/training-courses,LUNARC
-2026-03-09,2026-03-13,Statistical Methods in Life Sciences,https://training.scilifelab.se/events/statistical-methods-in-life-sciences,https://training.scilifelab.se/events,SciLifeLab
+2026-03-05,2026-03-05,Array computing in C++ using Eigen,https://www.naiss.se/training,https://www.naiss.se/training,NAISS
+2026-03-09,2026-03-13,Statistical Methods for Life Sciences,https://training.scilifelab.se/events/statistical-methods-in-life-sciences,https://training.scilifelab.se/events,SciLifeLab
 2026-03-10,2026-03-11,Introduction to Pandas for data science,https://www.lunarc.lu.se/learning-more/training-courses,https://www.lunarc.lu.se/learning-more/training-courses,LUNARC
 2026-03-10,2026-03-11,Introduction to Pandas for data science,https://www.lunarc.lu.se/article/introduction-pandas-data-science-10-11-march-2026,https://www.naiss.se/training,NAISS
 2026-03-10,2026-03-10,Berzelius Training - Introduction to Berzelius,https://www.nsc.liu.se/support/Events/Berzelius_training_Mar2026/,https://www.nsc.liu.se/support/Events,NSC
@@ -40,3 +44,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-05-04,2026-05-07,Open Science in the Swedish Context,https://training.scilifelab.se/events/open-science-in-the-swedish-context-c09c45db-0ac2-4a2c-8fdc-6fed4bcc3742,https://training.scilifelab.se/events,SciLifeLab
 2026-05-04,2026-05-08,Programming Formalisms,https://docs.uppmax.uu.se/courses_workshops/programming_formalisms,https://docs.uppmax.uu.se/courses_workshops/courses_workshops,UPPMAX
 2026-05-08,2026-05-08,"Börje Dahrén, TBA",https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,OSCU
+2026-09-11,2026-09-11,[Empty slot],https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,OSCU
+2026-10-09,2026-10-09,[Empty slot],https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,OSCU
+2026-11-13,2026-11-13,[Empty slot],https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,OSCU
+2026-12-11,2026-12-11,[Empty slot],https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,OSCU
