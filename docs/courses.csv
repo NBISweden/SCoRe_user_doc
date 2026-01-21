@@ -1,15 +1,14 @@
 date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-11-20,2026-02-17,Statistical methods in animal breeding,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
-2026-01-18,2026-01-20,[Webinars] Introduction to GPU programming,https://enccs.se/events/webinars-introduction-to-gpu-programming-2025/,https://enccs.se/events,ENCCS
 2026-01-19,2026-01-21,Introduction to Linux and UPPMAX,https://docs.uppmax.uu.se/courses_workshops/uppmax_intro_course,https://docs.uppmax.uu.se/courses_workshops/courses_workshops,UPPMAX
 2026-01-19,2026-03-23,Plant Biology for Breeding and Protection,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
 2026-01-19,2026-01-30,Data handling and high-quality illustrations for publications,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
-2026-01-20,2026-01-20,Introduction to Kebnekaise,https://www.hpc2n.umu.se/events/courses/2026/spring/intro-kebnekaise,https://www.hpc2n.umu.se/events/courses,HPC2N
 2026-01-22,2026-01-22,Resource-efficient AI model parallelisation on LUMI supercomputer,https://lumi-supercomputer.eu/events/resource-efficient-ai-model-parallelisation-on-lumi-supercomputer/,https://lumi-supercomputer.eu/events,CSC
 2026-01-25,2026-01-27,"GPU programming: when, why and how?",https://enccs.se/events/gpu-programming-when-why-how-2025/,https://enccs.se/events,ENCCS
 2026-01-26,2026-01-29,SCA/HPCAsia 2026,https://lumi-supercomputer.eu/events/sca-hpcasia-2026/,https://lumi-supercomputer.eu/events,CSC
 2026-01-27,2026-01-28,Efficient use of the CPU nodes on Dardel and Arrhenius,https://naiss-training.github.io/Using-CPU-nodes/,https://www.naiss.se/training,NAISS
 2026-02-02,2026-02-06,NAISS intro week,https://naiss-training.github.io/NAISS-intro-week/,https://www.hpc2n.umu.se/events/courses,HPC2N
+2026-02-02,2026-02-06,NAISS Introduction training week,https://www.lunarc.lu.se/learning-more/training-courses,https://www.lunarc.lu.se/learning-more/training-courses,LUNARC
 2026-02-02,2026-02-06,NAISS introduction training week,https://naiss-training.github.io/NAISS-intro-week/,https://www.naiss.se/training,NAISS
 2026-02-02,2026-02-02,NAISS 'Connect and File Transfer' course,https://naiss-training.github.io/NAISS-intro-week/connecting/,https://docs.uppmax.uu.se/courses_workshops/courses_workshops,UPPMAX
 2026-02-03,2026-02-03,"Gerben ter Riet, 'What can a sociological framework from the mid-twentieth century teach us about today’s open-science challenges? More than you might think', Zoom",https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,OSCU
