@@ -23,7 +23,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-03-02,2026-03-06,Introduction to Bioinformatics using NGS data,https://training.scilifelab.se/events/introduction-to-bioinformatics-using-ngs-data-7e8a2a46-1653-48e7-aabc-01aa53c8b96f,https://training.scilifelab.se/events,SciLifeLab
 2026-03-03,2026-03-03,Intro to Python for HPC,https://docs.uppmax.uu.se/courses_workshops/intro_to_python/,https://www.naiss.se/training,NAISS
 2026-03-05,2026-03-05,Array computing in C++ using Eigen,https://www.lunarc.lu.se/learning-more/training-courses,https://www.lunarc.lu.se/learning-more/training-courses,LUNARC
-2026-03-05,2026-03-05,Array computing in C++ using Eigen,https://www.naiss.se/training,https://www.naiss.se/training,NAISS
+2026-03-05,2026-03-05,Array computing in C++ using Eigen,https://www.lunarc.lu.se/article/array-computing-c-using-eigen-5-march-2026,https://www.naiss.se/training,NAISS
 2026-03-09,2026-03-13,Statistical Methods for Life Sciences,https://training.scilifelab.se/events/statistical-methods-in-life-sciences,https://training.scilifelab.se/events,SciLifeLab
 2026-03-09,2026-03-20,Basics of Programming for Biomedical and Clinical Research,https://training.scilifelab.se/events/basics-of-programming-for-biomedical-and-clinical-research,https://training.scilifelab.se/events,SciLifeLab
 2026-03-10,2026-03-11,Introduction to Pandas for data science,https://www.lunarc.lu.se/learning-more/training-courses,https://www.lunarc.lu.se/learning-more/training-courses,LUNARC
@@ -35,7 +35,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-03-16,2026-04-13,Train the Trainer (Online),https://training.scilifelab.se/events/train-the-trainer-online-546d1cc7-f45b-4e2d-b4d3-b366e717272d,https://training.scilifelab.se/events,SciLifeLab
 2026-03-17,2026-03-19,Introduction to Data Management Practices,https://training.scilifelab.se/events/introduction-to-data-management-practices-e70c8075-89dd-446a-8da2-a833206ef824,https://training.scilifelab.se/events,SciLifeLab
 2026-03-23,2026-03-25,Introduction to Metabolomics Data Analysis,https://training.scilifelab.se/events/introduction-to-metabolomics-data-analysis,https://training.scilifelab.se/events,SciLifeLab
-2026-03-25,2026-03-26,Organizational Learning,https://training.scilifelab.se/events/organizational-learning,https://training.scilifelab.se/events,SciLifeLab
+2026-03-25,2026-03-26,Organizational Learning (Online),https://training.scilifelab.se/events/organizational-learning,https://training.scilifelab.se/events,SciLifeLab
 2026-04-10,2026-04-10,"Taha Ahmed, TBA",https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,OSCU
 2026-04-13,2026-04-27,Single-Cell RNA-Seq Data Analysis,https://training.scilifelab.se/events/single-cell-rna-seq-data-analysis-6e1acebc-a282-4354-8136-8b390bca2fd1,https://training.scilifelab.se/events,SciLifeLab
 2026-05-04,2026-05-08,Programming Formalisms,https://docs.uppmax.uu.se/courses_workshops/programming_formalisms,https://docs.uppmax.uu.se/courses_workshops/courses_workshops,UPPMAX
