@@ -2,10 +2,6 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-11-20,2026-02-17,Statistical methods in animal breeding,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
 2026-01-19,2026-03-23,Plant Biology for Breeding and Protection,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
 2026-01-19,2026-01-30,Data handling and high-quality illustrations for publications,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
-2026-01-25,2026-01-27,"GPU programming: when, why and how?",https://enccs.se/events/gpu-programming-when-why-how-2025/,https://enccs.se/events,ENCCS
-2026-01-26,2026-01-29,SCA/HPCAsia 2026,https://lumi-supercomputer.eu/events/sca-hpcasia-2026/,https://lumi-supercomputer.eu/events,CSC
-2026-01-27,2026-01-28,Efficient use of the CPU nodes on Dardel and Arrhenius,https://naiss-training.github.io/Using-CPU-nodes/,https://www.naiss.se/training,NAISS
-2026-01-28,2026-01-28,LUMI user coffee breaks,https://lumi-supercomputer.eu/events/usercoffeebreaks/,https://lumi-supercomputer.eu/events,CSC
 2026-02-02,2026-02-06,NAISS intro week,https://naiss-training.github.io/NAISS-intro-week/,https://www.hpc2n.umu.se/events/courses,HPC2N
 2026-02-02,2026-02-06,NAISS Introduction training week,https://www.lunarc.lu.se/learning-more/training-courses,https://www.lunarc.lu.se/learning-more/training-courses,LUNARC
 2026-02-02,2026-02-06,NAISS introduction training week,https://naiss-training.github.io/NAISS-intro-week/,https://www.naiss.se/training,NAISS
@@ -33,6 +29,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-03-11,2026-03-16,Biologically Informed Neural Networks (BINNs): Principles and Practice,https://training.scilifelab.se/events/biologically-informed-neural-networks-binns-principles-and-practice,https://training.scilifelab.se/events,SciLifeLab
 2026-03-13,2026-03-13,"Maria Vrettou, TBA",https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,OSCU
 2026-03-16,2026-04-13,Train the Trainer (Online),https://training.scilifelab.se/events/train-the-trainer-online-546d1cc7-f45b-4e2d-b4d3-b366e717272d,https://training.scilifelab.se/events,SciLifeLab
+2026-03-17,2026-03-26,CodeRefinery tools workshop (online),https://coderefinery.github.io/2026-03-17-workshop/,https://coderefinery.org/workshops/upcoming,Code Refinery
 2026-03-17,2026-03-19,Introduction to Data Management Practices,https://training.scilifelab.se/events/introduction-to-data-management-practices-e70c8075-89dd-446a-8da2-a833206ef824,https://training.scilifelab.se/events,SciLifeLab
 2026-03-23,2026-03-25,Introduction to Metabolomics Data Analysis,https://training.scilifelab.se/events/introduction-to-metabolomics-data-analysis,https://training.scilifelab.se/events,SciLifeLab
 2026-03-25,2026-03-26,Organizational Learning (Online),https://training.scilifelab.se/events/organizational-learning,https://training.scilifelab.se/events,SciLifeLab
