@@ -1,12 +1,8 @@
 date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2025-11-20,2026-02-17,Statistical methods in animal breeding,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
 2026-01-19,2026-03-23,Plant Biology for Breeding and Protection,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
-2026-02-02,2026-02-06,NAISS intro week,https://naiss-training.github.io/NAISS-intro-week/,https://www.hpc2n.umu.se/events/courses,HPC2N
-2026-02-02,2026-02-06,NAISS Introduction training week,https://www.lunarc.lu.se/learning-more/training-courses,https://www.lunarc.lu.se/learning-more/training-courses,LUNARC
-2026-02-02,2026-02-06,NAISS introduction training week,https://naiss-training.github.io/NAISS-intro-week/,https://www.naiss.se/training,NAISS
-2026-02-02,2026-02-06,emPLANT Bioinformatics Course,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
-2026-02-06,2026-02-06,Introduction to Bianca,https://uppmax.github.io/bianca_workshops/beginner/intro/,https://docs.uppmax.uu.se/courses_workshops/courses_workshops,UPPMAX
 2026-02-10,2026-02-25,Scientific computing using Julia language,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
+2026-02-11,2026-02-11,LUMI user coffee breaks,https://lumi-supercomputer.eu/events/usercoffeebreaks/,https://lumi-supercomputer.eu/events,CSC
 2026-02-11,2026-02-13,Healthcare foundation models,https://mimer-ai.eu/event/healthcare-foundation-models/,https://mimer-ai.eu/events-and-learning,Mimer
 2026-02-12,2026-02-12,NAISS Zoom-in – a virtual open-house,https://www.naiss.se/event/naiss-zoom-in-a-virtual-open-house-14/,https://www.naiss.se/training,NAISS
 2026-02-13,2026-02-13,"Hans Karlsson, Open Science at Uppsala University - where are we today? Where are we going?",https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,OSCU
