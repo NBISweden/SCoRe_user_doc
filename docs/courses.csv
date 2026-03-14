@@ -3,7 +3,6 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-02-25,2030-12-31,Masterclass in Clinical Genomics,https://training.scilifelab.se/events/masterclass-in-clinical-genomics,https://training.scilifelab.se/events,SciLifeLab
 2026-03-09,2026-03-20,Basics of Programming for Biomedical and Clinical Research,https://training.scilifelab.se/events/basics-of-programming-for-biomedical-and-clinical-research,https://training.scilifelab.se/events,SciLifeLab
 2026-03-11,2026-03-16,Biologically Informed Neural Networks (BINNs): Principles and Practice,https://training.scilifelab.se/events/biologically-informed-neural-networks-binns-principles-and-practice,https://training.scilifelab.se/events,SciLifeLab
-2026-03-13,2026-03-13,Cancelled,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,OSCU
 2026-03-16,2026-04-13,Train the Trainer (Online),https://training.scilifelab.se/events/train-the-trainer-online-546d1cc7-f45b-4e2d-b4d3-b366e717272d,https://training.scilifelab.se/events,SciLifeLab
 2026-03-17,2026-03-26,CodeRefinery tools workshop (online),https://coderefinery.github.io/2026-03-17-workshop/,https://coderefinery.org/workshops/upcoming,Code Refinery
 2026-03-17,2026-03-17,CodeRefinery Workshop on Coding Tools and Techniques for Reproducible Research [In-person & online],https://enccs.se/events/coderefinery-git-coding-tools-mar-26/,https://enccs.se/events,ENCCS
@@ -23,6 +22,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-04-15,2026-04-15,Operationalizing AI: MLOps x LLMOps,https://mimer-ai.eu/event/operationalizing-ai-mlops-x-llmops/,https://mimer-ai.eu/events-and-learning,Mimer
 2026-04-20,2026-04-20,Introduction to Python and running Python in an HPC environment,https://www.hpc2n.umu.se/events/courses/2026/spring/Python-in-HPC,https://www.hpc2n.umu.se/events/courses,HPC2N
 2026-04-20,2026-04-20,Introduction to Python and Using Pythonin an HPC environment,https://www.hpc2n.umu.se/events/courses/2026/spring/Python-in-HPC,https://www.naiss.se/training,NAISS
+2026-04-21,2026-04-21,Scientific Machine Learning applied to Neuroscience,https://mimer-ai.eu/event/scientific-ml-applied-to-neuroscience/,https://mimer-ai.eu/events-and-learning,Mimer
 2026-04-22,2026-04-23,Moving your HPC workloads to LUMI,https://lumi-supercomputer.eu/events/lumi-intro-course-april2026/,https://lumi-supercomputer.eu/events,CSC
 2026-04-22,2026-04-22,WACQT Industry Workshop 2026 (External event),https://enccs.se/events/wacqt-industry-workshop-2026/,https://enccs.se/events,ENCCS
 2026-04-22,2026-04-24,Introduction to Python and Using Pythonin an HPC environment (continued),https://www.hpc2n.umu.se/events/courses/2026/spring/Python-in-HPC,https://www.naiss.se/training,NAISS
@@ -34,6 +34,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-05-11,2026-05-13,LUMI Profiling and Optimization Workshop (Advanced Level),https://lumi-supercomputer.eu/events/lumi-profiling-and-optimization-workshop-advanced-level/,https://lumi-supercomputer.eu/events,CSC
 2026-05-14,2026-05-14,Software installation on HPC systems,https://lumi-supercomputer.eu/events/software-installation-on-hpc-systems/,https://lumi-supercomputer.eu/events,CSC
 2026-05-14,2026-05-14,[Webinar] Software installation on HPC systems,https://enccs.se/events/webinar-software-installation-on-hpc-systems/,https://enccs.se/events,ENCCS
+2026-05-18,2026-05-22,Hackathon: Optimizing for AMD GPUs,https://lumi-supercomputer.eu/events/hackathon-optimizing-for-amd-gpus/,https://lumi-supercomputer.eu/events,CSC
 2026-05-20,2026-05-21,An introduction to parallel programming using Message Passing with MPI,https://www.hpc2n.umu.se/events/courses/2026/spring/mpi,https://www.hpc2n.umu.se/events/courses,HPC2N
 2026-05-22,2026-05-22,Online hackathon: Bianca In-Depth: Improve Your Handlingof Sensitive Research Data,https://docs.uppmax.uu.se/courses_workshops/bianca_intermediate/,https://www.naiss.se/training,NAISS
 2026-06-01,2026-06-03,NAISS intro days,https://www.hpc2n.umu.se/events/courses/2026/spring/naiss-intro-days,https://www.hpc2n.umu.se/events/courses,HPC2N
