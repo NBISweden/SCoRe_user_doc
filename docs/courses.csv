@@ -12,6 +12,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-03-19,2026-03-19,Workshop: NodeGoat,https://infravis.se/workshop-nodegoat-2/,https://infravis.se/news-events,InfraViz
 2026-03-23,2026-03-25,Introduction to Metabolomics Data Analysis,https://training.scilifelab.se/events/introduction-to-metabolomics-data-analysis,https://training.scilifelab.se/events,SciLifeLab
 2026-03-25,2026-03-26,Organizational Learning (Online),https://training.scilifelab.se/events/organizational-learning,https://training.scilifelab.se/events,SciLifeLab
+2026-03-25,2026-03-25,Mimer hackathon,https://mimer-ai.eu/event/agent-mimer-hackathon/,https://mimer-ai.eu/events-and-learning,Mimer
 2026-03-30,2026-03-31,Efficient use of the Grace Hopper GPU nodes onDardel and Arrhenius,https://naiss-training.github.io/Using-Grace-Hopper/,https://www.naiss.se/training,NAISS
 2026-03-31,2026-03-31,LUMI SmartSim Workshop,https://lumi-supercomputer.eu/events/lumi-smartsim-workshop-march2026/,https://lumi-supercomputer.eu/events,CSC
 2026-04-07,2026-04-07,Scientific Visualization with ParaView,https://naiss-training.github.io/paraview-workshop-info/,https://www.naiss.se/training,NAISS
