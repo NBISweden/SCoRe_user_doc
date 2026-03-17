@@ -2,7 +2,6 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-01-19,2026-03-23,Plant Biology for Breeding and Protection,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
 2026-02-25,2030-12-31,Masterclass in Clinical Genomics,https://training.scilifelab.se/events/masterclass-in-clinical-genomics,https://training.scilifelab.se/events,SciLifeLab
 2026-03-09,2026-03-20,Basics of Programming for Biomedical and Clinical Research,https://training.scilifelab.se/events/basics-of-programming-for-biomedical-and-clinical-research,https://training.scilifelab.se/events,SciLifeLab
-2026-03-11,2026-03-16,Biologically Informed Neural Networks (BINNs): Principles and Practice,https://training.scilifelab.se/events/biologically-informed-neural-networks-binns-principles-and-practice,https://training.scilifelab.se/events,SciLifeLab
 2026-03-16,2026-04-13,Train the Trainer (Online),https://training.scilifelab.se/events/train-the-trainer-online-546d1cc7-f45b-4e2d-b4d3-b366e717272d,https://training.scilifelab.se/events,SciLifeLab
 2026-03-17,2026-03-26,CodeRefinery tools workshop (online),https://coderefinery.github.io/2026-03-17-workshop/,https://coderefinery.org/workshops/upcoming,Code Refinery
 2026-03-17,2026-03-17,CodeRefinery Workshop on Coding Tools and Techniques for Reproducible Research [In-person & online],https://enccs.se/events/coderefinery-git-coding-tools-mar-26/,https://enccs.se/events,ENCCS
@@ -23,6 +22,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-04-15,2026-04-15,Operationalizing AI: MLOps x LLMOps,https://mimer-ai.eu/event/operationalizing-ai-mlops-x-llmops/,https://mimer-ai.eu/events-and-learning,Mimer
 2026-04-20,2026-04-20,Introduction to Python and running Python in an HPC environment,https://www.hpc2n.umu.se/events/courses/2026/spring/Python-in-HPC,https://www.hpc2n.umu.se/events/courses,HPC2N
 2026-04-20,2026-04-20,Introduction to Python and Using Pythonin an HPC environment,https://www.hpc2n.umu.se/events/courses/2026/spring/Python-in-HPC,https://www.naiss.se/training,NAISS
+2026-04-20,2026-04-24,NBIS/Elixir Workshop - Tools for Reproducible Research,https://training.scilifelab.se/events/nbis-elixir-workshop-tools-for-reproducible-research,https://training.scilifelab.se/events,SciLifeLab
 2026-04-21,2026-04-21,Scientific Machine Learning applied to Neuroscience,https://mimer-ai.eu/event/scientific-ml-applied-to-neuroscience/,https://mimer-ai.eu/events-and-learning,Mimer
 2026-04-22,2026-04-23,Moving your HPC workloads to LUMI,https://lumi-supercomputer.eu/events/lumi-intro-course-april2026/,https://lumi-supercomputer.eu/events,CSC
 2026-04-22,2026-04-22,WACQT Industry Workshop 2026 (External event),https://enccs.se/events/wacqt-industry-workshop-2026/,https://enccs.se/events,ENCCS
