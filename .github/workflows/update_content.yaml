@@ -48,6 +48,9 @@ jobs:
       - name: Install libharfbuzz-dev libfribidi-dev
         run: sudo apt install -qq libharfbuzz-dev libfribidi-dev
 
+      - name: Install libuv1-dev
+        run: sudo apt install -qq libuv1-dev
+
       - name: Install dependencies
         run: |
           install.packages(c("remotes", "rcmdcheck"))
