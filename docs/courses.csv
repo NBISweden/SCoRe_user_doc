@@ -1,26 +1,14 @@
 date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-02-25,2030-12-31,Masterclass in Clinical Genomics,https://training.scilifelab.se//events/masterclass-in-clinical-genomics,https://training.scilifelab.se/events,SciLifeLab
-2026-05-04,2026-05-08,Programming Formalisms,https://docs.uppmax.uu.se/courses_workshops/programming_formalisms/,https://www.naiss.se/training,NAISS
-2026-05-04,2026-05-08,Programming Formalisms,https://training.scilifelab.se//events/programming-formalisms,https://training.scilifelab.se/events,SciLifeLab
-2026-05-04,2026-05-08,NBIS workshop in Neural Nets and Deep Learning,https://training.scilifelab.se//events/nbis-workshop-in-neural-nets-and-deep-learning-2b2be2aa-b060-4df7-b3fc-4bdad7a1fd8b,https://training.scilifelab.se/events,SciLifeLab
-2026-05-04,2026-05-07,Open Science in the Swedish Context,https://training.scilifelab.se//events/open-science-in-the-swedish-context-c09c45db-0ac2-4a2c-8fdc-6fed4bcc3742,https://training.scilifelab.se/events,SciLifeLab
-2026-05-04,2026-05-08,Programming Formalisms,https://docs.uppmax.uu.se/courses_workshops/programming_formalisms,https://docs.uppmax.uu.se/courses_workshops/courses_workshops,UPPMAX
-2026-05-05,2026-05-05,Introduction to Berzelius – Part 2: Essential Commands,https://www.nsc.liu.se/support/Events/Berzelius_training_May2026/,https://www.naiss.se/training,NAISS
-2026-05-05,2026-05-07,Advanced Data Visualization,https://training.scilifelab.se//events/advanced-data-visualization-e7d20643-c6fc-4d96-8b2c-d06aca09fd80,https://training.scilifelab.se/events,SciLifeLab
-2026-05-07,2026-05-07,NAISS Zoom-in – a virtual open-house,https://www.naiss.se/event/naiss-zoom-in-a-virtual-open-house-17/,https://www.naiss.se/training,NAISS
-2026-05-08,2026-05-08,Börje Dahrén: 'Academic books and diamond open access',https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,OSCU
-2026-05-11,2026-05-13,LUMI Profiling and Optimization Workshop (On-site),https://lumi-supercomputer.eu/events/lumi-profiling-and-optimization-workshop-advanced-level/,https://lumi-supercomputer.eu/events,CSC
-2026-05-11,2026-05-11,File Transfer 201,https://hpc.pages.naiss.se/training/NAISS-intro-days/connecting/,https://www.naiss.se/training,NAISS
-2026-05-11,2026-05-11,"LUMI Profiling and Optimization Workshop, May 11-13 in Stockholm ",https://www.pdc.kth.se//about/events/lumi-profiling-and-optimization-workshop-may-11-13-in-stockholm-1.1468849?date=2026-05-11&amp;orgdate=2026-04-30&amp;length=1&amp;orglength=0,https://www.pdc.kth.se/about/events,PDC
-2026-05-12,2026-05-12,[Webinar] Software installation on HPC systems,https://enccs.se/events/webinar-software-installation-on-hpc-systems/,https://enccs.se/events,ENCCS
 2026-05-14,2026-05-14,Software installation on HPC systems,https://lumi-supercomputer.eu/events/software-installation-on-hpc-systems/,https://lumi-supercomputer.eu/events,CSC
 2026-05-18,2026-05-22,Hackathon: Optimizing for AMD GPUs (On-site),https://lumi-supercomputer.eu/events/hackathon-optimizing-for-amd-gpus/,https://lumi-supercomputer.eu/events,CSC
 2026-05-20,2026-05-21,An introduction to parallel programming using Message Passing with MPI,https://www.hpc2n.umu.se/events/courses/2026/spring/mpi,https://www.hpc2n.umu.se/events/courses,HPC2N
-2026-05-20,2026-05-01,"Supporting Research in Practice: Workflows, Challenges, and Needs",https://www.lunarc.lu.se/learning-more/training-courses,https://www.lunarc.lu.se/learning-more/training-courses,LUNARC
 2026-05-20,2026-05-21,An introduction to parallel programming using Message Passing,https://hpc.pages.naiss.se/training/naiss-training/course_adverts/2026/parallel_programming_MPI_May_2026/,https://www.naiss.se/training,NAISS
 2026-05-22,2026-05-22,Online hackathon: Bianca In-Depth: Improve Your Handlingof Sensitive Research Data,https://docs.uppmax.uu.se/courses_workshops/bianca_intermediate/,https://www.naiss.se/training,NAISS
 2026-05-25,2026-05-27,Snakemake “bring-your-own-code” (BYOC) workshop,https://training.scilifelab.se//events/snakemake-bring-your-own-code-byoc-workshop-72df20ec-2b51-4de2-8de9-33246f61b442,https://training.scilifelab.se/events,SciLifeLab
+2026-05-26,2026-05-29,Julia for High Performance Data Analysis (Workshop),https://lumi-supercomputer.eu/events/julia-for-high-performance-data-analysis-workshop/,https://lumi-supercomputer.eu/events,CSC
 2026-05-26,2026-05-26,[Workshop] Julia for High Performance Data Analysis,https://enccs.se/events/workshop-julia-for-high-performance-data-analysis/,https://enccs.se/events,ENCCS
+2026-05-26,2026-05-26,Julia for High Performance Data Analysis,https://mimer-ai.eu/event/julia-for-high-performance-data-analysis/,https://mimer-ai.eu/events-and-learning,Mimer
 2026-05-27,2026-05-28,An introduction to parallel programming using Message Passing,https://hpc.pages.naiss.se/training/naiss-training/course_adverts/2026/parallel_programming_MPI_May_2026/,https://www.naiss.se/training,NAISS
 2026-05-27,2026-05-27,Advanced image analysis and AI/ML for medical imaging,https://training.scilifelab.se//events/advanced-image-analysis-and-ai-ml-for-medical-imaging,https://training.scilifelab.se/events,SciLifeLab
 2026-05-27,2026-05-27,Advanced image analysis and AI/ML for medical imaging,https://mimer-ai.eu/event/advanced-image-analysis-and-ai-ml-for-medical-imaging/,https://mimer-ai.eu/events-and-learning,Mimer
@@ -28,13 +16,20 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-06-01,2026-06-03,NAISS Introduction training days,https://hpc.pages.naiss.se/training/NAISS-intro-days/,https://www.naiss.se/training,NAISS
 2026-06-03,2026-06-05,AI and HPC,https://hpc.pages.naiss.se/training/naiss-training/course_adverts/2026/ai_hpc_June_2026/,https://www.naiss.se/training,NAISS
 2026-06-03,2026-06-09,Introduction to Palaeogenomics,https://training.scilifelab.se//events/introduction-to-palaeogenomics,https://training.scilifelab.se/events,SciLifeLab
+2026-06-03,2026-06-03,From Lab Data to AI-Ready Insights: An Introduction to NOMAD for Materials Science Researchers,https://mimer-ai.eu/event/introduction-to-nomad-for-materials-science-researchers/,https://mimer-ai.eu/events-and-learning,Mimer
 2026-06-04,2026-06-04,Introduction seminar for Vera users,https://chalmers.zoom.us/j/63657298295,https://www.c3se.chalmers.se,C3SE
+2026-06-08,2026-06-08,Introduction to MLOps,https://mimer-ai.eu/event/introduction-to-mlops/,https://mimer-ai.eu/events-and-learning,Mimer
 2026-06-11,2026-06-12,Moving your AI training jobs to LUMI: A Hands-On Workshop (Hybrid),https://lumi-supercomputer.eu/events/moving-your-ai-training-jobs-to-lumi-a-hands-on-workshop-june2026/,https://lumi-supercomputer.eu/events,CSC
 2026-06-14,2026-06-18,Metabolic Engineering & Systems Biology (MESB26),https://training.scilifelab.se//events/metabolic-engineering-systems-biology-mesb,https://training.scilifelab.se/events,SciLifeLab
+2026-06-16,2026-06-16,Trustworthy AI in practice,https://mimer-ai.eu/event/trustworthy-ai-in-practice/,https://mimer-ai.eu/events-and-learning,Mimer
 2026-06-22,2026-06-26,4th CryoNET Advanced Image Processing Workshop,https://training.scilifelab.se//events/4th-cryonet-advanced-image-processing-workshop,https://training.scilifelab.se/events,SciLifeLab
 2026-07-23,2026-07-02,CSC Summer School in High-Performance Computing 2026,https://lumi-supercomputer.eu/events/csc-summer-school-2026/,https://lumi-supercomputer.eu/events,CSC
-2026-08-24,2026-08-24,PDC Summer School,https://www.pdc.kth.se//about/events/pdc-summer-school-1.1472399?date=2026-08-24&amp;orgdate=2026-04-30&amp;length=1&amp;orglength=0,https://www.pdc.kth.se/about/events,PDC
+2026-08-10,2026-08-20,RaukR 2026 - Summer School - Data Science with R,https://training.scilifelab.se//events/raukr-2026-summer-school-data-science-with-r,https://training.scilifelab.se/events,SciLifeLab
+2026-08-24,2026-08-24,PDC Summer School,https://www.pdc.kth.se//about/events/pdc-summer-school-1.1472399?date=2026-08-24&amp;orgdate=2026-05-13&amp;length=1&amp;orglength=0,https://www.pdc.kth.se/about/events,PDC
+2026-08-30,2026-08-31,Biodiversity Genomics Europe + SciLifeLab Digital Hi-C Course - Self Paced,https://training.scilifelab.se//events/biodiversity-genomics-europe-scilifelab-digital-hi-c-course-self-paced,https://training.scilifelab.se/events,SciLifeLab
+2026-09-07,2026-09-11,Statistical Methods for Life Sciences,https://training.scilifelab.se//events/statistical-methods-in-life-sciences,https://training.scilifelab.se/events,SciLifeLab
 2026-09-11,2026-09-11,"Maria Vrettou, TBA",https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,OSCU
+2026-09-21,2026-10-02,Proteomics SC00003,https://training.scilifelab.se//events/proteomics-sc00003,https://training.scilifelab.se/events,SciLifeLab
 2026-10-09,2026-10-09,[Empty slot],https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,OSCU
 2026-11-13,2026-11-13,[Empty slot],https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,OSCU
 2026-12-11,2026-12-11,[Empty slot],https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,OSCU
