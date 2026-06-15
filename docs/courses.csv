@@ -3,16 +3,16 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-06-14,2026-06-18,Metabolic Engineering & Systems Biology (MESB26),https://training.scilifelab.se//events/metabolic-engineering-systems-biology-mesb,https://training.scilifelab.se/events,SciLifeLab
 2026-06-16,2026-06-17,Microcontroller programming and interfacing for medical and agricultural technology,https://www.slubi.se/,https://www.slubi.se/courses.html,SLUBI
 2026-06-16,2026-06-16,Trustworthy AI in practice,https://mimer-ai.eu/event/trustworthy-ai-in-practice/,https://mimer-ai.eu/events-and-learning,Mimer
-2026-06-17,2026-06-17,Neko training webinar,https://www.pdc.kth.se//about/events/neko-training-webinar-1.1480861?date=2026-06-17&amp;orgdate=2026-06-14&amp;length=1&amp;orglength=0,https://www.pdc.kth.se/about/events,PDC
+2026-06-17,2026-06-17,Neko training webinar,https://www.pdc.kth.se//about/events/neko-training-webinar-1.1480861?date=2026-06-17&amp;orgdate=2026-06-15&amp;length=1&amp;orglength=0,https://www.pdc.kth.se/about/events,PDC
 2026-06-17,2026-06-17,Crash course in AI ethics,https://mimer-ai.eu/event/crash-course-in-ai-ethics/,https://mimer-ai.eu/events-and-learning,Mimer
 2026-06-22,2026-06-26,4th CryoNET Advanced Image Processing Workshop,https://training.scilifelab.se//events/4th-cryonet-advanced-image-processing-workshop,https://training.scilifelab.se/events,SciLifeLab
 2026-06-23,2026-06-25,"ISC 2026 – Hamburg, Germany",https://lumi-supercomputer.eu/events/isc-2026/,https://lumi-supercomputer.eu/events,CSC
 2026-07-23,2026-07-02,CSC Summer School in High-Performance Computing 2026,https://lumi-supercomputer.eu/events/csc-summer-school-2026/,https://lumi-supercomputer.eu/events,CSC
 2026-08-10,2026-08-20,RaukR 2026 - Summer School - Data Science with R,https://training.scilifelab.se//events/raukr-2026-summer-school-data-science-with-r,https://training.scilifelab.se/events,SciLifeLab
 2026-08-17,2026-08-28,"Integrated Structural Biology course, 3rd edition",https://training.scilifelab.se//events/integrated-structural-biology-course-3rd-edition,https://training.scilifelab.se/events,SciLifeLab
-2026-08-24,2026-08-24,PDC Summer School,https://www.pdc.kth.se//about/events/pdc-summer-school-1.1472399?date=2026-08-24&amp;orgdate=2026-06-14&amp;length=1&amp;orglength=0,https://www.pdc.kth.se/about/events,PDC
+2026-08-24,2026-08-24,PDC Summer School,https://www.pdc.kth.se//about/events/pdc-summer-school-1.1472399?date=2026-08-24&amp;orgdate=2026-06-15&amp;length=1&amp;orglength=0,https://www.pdc.kth.se/about/events,PDC
 2026-08-30,2026-08-31,Biodiversity Genomics Europe + SciLifeLab Digital Hi-C Course - Self Paced,https://training.scilifelab.se//events/biodiversity-genomics-europe-scilifelab-digital-hi-c-course-self-paced,https://training.scilifelab.se/events,SciLifeLab
-2026-09-02,2026-09-02,EuroHPC and ENCCS offers towards industry,https://www.pdc.kth.se//about/events/eurohpc-and-enccs-offers-towards-industry-1.1481969?date=2026-09-02&amp;orgdate=2026-06-14&amp;length=1&amp;orglength=0,https://www.pdc.kth.se/about/events,PDC
+2026-09-02,2026-09-02,EuroHPC and ENCCS offers towards industry,https://www.pdc.kth.se//about/events/eurohpc-and-enccs-offers-towards-industry-1.1481969?date=2026-09-02&amp;orgdate=2026-06-15&amp;length=1&amp;orglength=0,https://www.pdc.kth.se/about/events,PDC
 2026-09-07,2026-09-11,Statistical Methods for Life Sciences,https://training.scilifelab.se//events/statistical-methods-in-life-sciences,https://training.scilifelab.se/events,SciLifeLab
 2026-09-11,2026-09-11,"Maria Vrettou, TBA",https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,OSCU
 2026-09-15,2026-09-15,[Workshop] Practical Data Wrangling,https://enccs.se/events/workshop-practical-data-wrangling/,https://enccs.se/events,ENCCS
@@ -21,7 +21,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-09-30,2026-09-30,[Webinar] Foundation Models for Atoms: Machine-Learned Interatomic Potentials in Practice,https://enccs.se/events/webinar-foundation-models-for-atoms/,https://enccs.se/events,ENCCS
 2026-10-01,2026-10-01,DEEP Inspection for Materials Science – Detection and Segmentation,https://mimer-ai.eu/event/deep-inspection-for-materials-science-detection-segmentation/,https://mimer-ai.eu/events-and-learning,Mimer
 2026-10-05,2026-10-09,Epigenomics Data Analysis From Bulk to Single Cell,https://training.scilifelab.se//events/epigenomics-data-analysis-from-bulk-to-single-cell,https://training.scilifelab.se/events,SciLifeLab
-2026-10-06,2026-10-06,NAISS User Forum,https://www.pdc.kth.se//about/events/naiss-user-forum-1.1478678?date=2026-10-06&amp;orgdate=2026-06-14&amp;length=1&amp;orglength=0,https://www.pdc.kth.se/about/events,PDC
+2026-10-06,2026-10-06,NAISS User Forum,https://www.pdc.kth.se//about/events/naiss-user-forum-1.1478678?date=2026-10-06&amp;orgdate=2026-06-15&amp;length=1&amp;orglength=0,https://www.pdc.kth.se/about/events,PDC
 2026-10-06,2026-10-09,ELIXIR/NBIS Spatial Omics Data Analysis,https://training.scilifelab.se//events/elixir-nbis-spatial-omics-data-analysis,https://training.scilifelab.se/events,SciLifeLab
 2026-10-09,2026-10-09,[Empty slot],https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,OSCU
 2026-11-13,2026-11-13,[Empty slot],https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events/,OSCU
