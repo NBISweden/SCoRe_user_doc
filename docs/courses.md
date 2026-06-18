@@ -4,7 +4,11 @@ There are multiple types of [resources](resources.md) you may need.
 Knowledge is a resource too.
 This page shows the places to increase your knowledge in a learning
 environment,
-as provided by courses and training.
+as provided by courses and training, in Sweden.
+<!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/courses_1.md' INSTEAD -->
+???- question "Where can I find a similar overview for courses outside of Sweden?"
+
+    At [the TESS events page](https://tess.elixir-europe.org/events)
 <!-- DO NOT EDIT THIS COMPUTER GENERATED FILE. EDIT 'docs/courses_1.md' INSTEAD -->
 ???- question "Why is this a useful resource?"
 
