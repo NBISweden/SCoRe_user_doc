@@ -4,6 +4,10 @@ MESB
 MLOps
 Palaeogenomics
 th
+EuroHPC
+ISC
+Interatomic
+KCSC
 Bilderbeek
 config
 Dardel
