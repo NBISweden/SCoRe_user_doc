@@ -55,6 +55,7 @@ jobs:
         run: |
           install.packages(c("remotes", "rcmdcheck"))
           remotes::install_cran("dplyr")
+          remotes::install_cran("httr2")
           remotes::install_cran("knitr")
           remotes::install_cran("lubridate")
           remotes::install_cran("readr")
