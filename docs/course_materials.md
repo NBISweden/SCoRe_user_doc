@@ -33,7 +33,7 @@ by reading self-study material.
 Resource                                                             |Topic
 ---------------------------------------------------------------------|------------------------------------------------------------
 [Codecademy](https://www.codecademy.com/)                            |Computer science and programming languages
-[ENCCS](https://enccs.se/lessons/)                                   |HPC computing
+[ENCCS](https://enccs.github.io/lessons/)                            |HPC computing
 [Learn X in Y minutes](https://learnxinyminutes.com/)                |Programming languages
 [LUMI](https://lumi-supercomputer.github.io/LUMI-training-materials/)|LUMI and HPC computing
 [SCC](https://github.com/SNICScienceCloud/technical-training)        |Swedish Science Cloud, e.g. deploying an interactive website
