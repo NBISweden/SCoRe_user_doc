@@ -3,8 +3,6 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-08-01,2027-12-31,EMBL 2027 Training Courses,https://training.scilifelab.se/events/embl-2027-training-courses,https://training.scilifelab.se/events,SciLifeLab
 2026-08-17,2026-08-28,"Integrated Structural Biology course, 3rd edition",https://training.scilifelab.se/events/integrated-structural-biology-course-3rd-edition,https://training.scilifelab.se/events,SciLifeLab
 2026-08-24,2026-10-23,Data-Driven Life Sciences course 2026,https://training.scilifelab.se/events/data-driven-life-sciences-course-2026,https://training.scilifelab.se/events,SciLifeLab
-2026-08-24,2026-08-26,Introduction to Linux and UPPMAX,https://docs.uppmax.uu.se/courses_workshops/uppmax_intro_course,https://docs.uppmax.uu.se/courses_workshops/courses_workshops,UPPMAX
-2026-08-26,2026-08-26,Sweden AI Factory Networking Lunch at RISE Sundsvall,https://swedenaifactory.se/event/sweden-ai-factory-networking-lunch-at-rise-sundsvall,https://mimer-ai.eu/events-and-workshops,Mimer
 2026-08-27,2026-08-28,AWK Workshop,https://hpc.pages.naiss.se/training/course_adverts/2026/awk_August_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
 2026-08-30,2026-08-31,Biodiversity Genomics Europe + SciLifeLab Digital Hi-C Course - Self Paced,https://training.scilifelab.se/events/biodiversity-genomics-europe-scilifelab-digital-hi-c-course-self-paced,https://training.scilifelab.se/events,SciLifeLab
 2026-09-01,2026-09-01,AI Agents: From Buzzword to Reality,https://www.pdc.kth.se/about/events/ai-agents-from-buzzword-to-reality-1.1489405,https://www.pdc.kth.se/about/events,PDC
@@ -36,6 +34,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-10-12,2026-10-13,Basic Singularity/Apptainer workshop,https://hpc.pages.naiss.se/training/course_adverts/2026/apptainer_October_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
 2026-10-19,2026-10-22,"Introduction to R, MATLAB, and Julia in HPC",https://hpc.pages.naiss.se/training/naiss-training/course_adverts/2026/R_Matlab_Julia_October_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
 2026-11-02,2026-11-02,[School] Quantum Autumn School 2026,https://enccs.se/event/quantum-computing-school-2026-in-sweden,https://enccs.se/events,ENCCS
+2026-11-03,2026-11-05,Introduction to Linux and UPPMAX,https://docs.uppmax.uu.se/courses_workshops/uppmax_intro_course,https://docs.uppmax.uu.se/courses_workshops/courses_workshops,UPPMAX
 2026-11-13,2026-11-13,[Empty slot],https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,OSCU
 2026-11-16,2026-12-03,Population genetics with applications in plant-microbe interactions,https://www.slubi.se,https://www.slubi.se/courses.html,SLUBI
 2026-11-20,2026-11-20,Bianca In-Depth Workshop/Hackathon: Improve Your Handling of Sensitive Research Data ,https://docs.uppmax.uu.se/courses_workshops/bianca_intermediate,https://docs.uppmax.uu.se/courses_workshops/courses_workshops,UPPMAX
