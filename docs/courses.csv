@@ -1,10 +1,9 @@
 date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-02-25,2030-12-31,Masterclass in Clinical Genomics,https://training.scilifelab.se/events/masterclass-in-clinical-genomics,https://training.scilifelab.se/events,SciLifeLab
 2026-08-01,2027-12-31,EMBL 2027 Training Courses,https://training.scilifelab.se/events/embl-2027-training-courses,https://training.scilifelab.se/events,SciLifeLab
-2026-08-17,2026-08-28,"Integrated Structural Biology course, 3rd edition",https://training.scilifelab.se/events/integrated-structural-biology-course-3rd-edition,https://training.scilifelab.se/events,SciLifeLab
 2026-08-24,2026-10-23,Data-Driven Life Sciences course 2026,https://training.scilifelab.se/events/data-driven-life-sciences-course-2026,https://training.scilifelab.se/events,SciLifeLab
-2026-08-27,2026-08-28,AWK Workshop,https://hpc.pages.naiss.se/training/course_adverts/2026/awk_August_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
 2026-08-30,2026-08-31,Biodiversity Genomics Europe + SciLifeLab Digital Hi-C Course - Self Paced,https://training.scilifelab.se/events/biodiversity-genomics-europe-scilifelab-digital-hi-c-course-self-paced,https://training.scilifelab.se/events,SciLifeLab
+2026-08-31,2026-09-18,Reproducible Research in Bioinformatics and Computational Biology,https://www.slubi.se,https://www.slubi.se/courses.html,SLUBI
 2026-09-01,2026-09-01,AI Agents: From Buzzword to Reality,https://www.pdc.kth.se/about/events/ai-agents-from-buzzword-to-reality-1.1489405,https://www.pdc.kth.se/about/events,PDC
 2026-09-01,2026-09-01,AI Agents: from buzzword to reality,https://training.scilifelab.se/events/ai-agents-from-buzzword-to-reality,https://training.scilifelab.se/events,SciLifeLab
 2026-09-01,2026-09-01,AI Agents: from buzzword to reality,https://swedenaifactory.se/event/ai-agents-from-bussword-to-reality,https://mimer-ai.eu/events-and-workshops,Mimer
@@ -29,7 +28,9 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-10-01,2026-10-01,DEEP Inspection for Materials Science – Detection and Segmentation,https://swedenaifactory.se/event/deep-inspection-for-materials-science-detection-segmentation,https://mimer-ai.eu/events-and-workshops,Mimer
 2026-10-02,2026-10-02,File Transfer 102,https://hpc.pages.naiss.se/transfer-102,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
 2026-10-05,2026-10-09,Epigenomics Data Analysis From Bulk to Single Cell,https://training.scilifelab.se/events/epigenomics-data-analysis-from-bulk-to-single-cell,https://training.scilifelab.se/events,SciLifeLab
+2026-10-05,2026-10-23,Analysis of High Throughput Sequencing RNA-Seq Data,https://www.slubi.se,https://www.slubi.se/courses.html,SLUBI
 2026-10-06,2026-10-06,NAISS User Forum,https://www.pdc.kth.se/about/events/naiss-user-forum-1.1478678,https://www.pdc.kth.se/about/events,PDC
+2026-10-06,2026-10-09,ELIXIR/NBIS Spatial Omics Data Analysis,https://training.scilifelab.se/events/elixir-nbis-spatial-omics-data-analysis,https://training.scilifelab.se/events,SciLifeLab
 2026-10-08,2026-10-09,Geocomputing on the Supercomputer,https://lumi-supercomputer.eu/events/geocomputing,https://lumi-supercomputer.eu/events,CSC
 2026-10-09,2026-10-09,[Empty slot],https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,OSCU
 2026-10-12,2026-10-13,Basic Singularity/Apptainer workshop,https://hpc.pages.naiss.se/training/course_adverts/2026/apptainer_October_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
