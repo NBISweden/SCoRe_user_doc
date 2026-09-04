@@ -3,12 +3,11 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-08-01,2027-12-31,EMBL 2027 Training Courses,https://training.scilifelab.se/events/embl-2027-training-courses,https://training.scilifelab.se/events,SciLifeLab
 2026-08-24,2026-10-23,Data-Driven Life Sciences course 2026,https://training.scilifelab.se/events/data-driven-life-sciences-course-2026,https://training.scilifelab.se/events,SciLifeLab
 2026-08-31,2026-09-18,Reproducible Research in Bioinformatics and Computational Biology,https://www.slubi.se,https://www.slubi.se/courses.html,SLUBI
-2026-09-02,2026-09-02,EuroHPC and ENCCS offers towards industry,https://www.pdc.kth.se/about/events/eurohpc-and-enccs-offers-towards-industry-1.1481969,https://www.pdc.kth.se/about/events,PDC
 2026-09-07,2026-09-21,Mondays with MATLAB,https://hpc.pages.naiss.se/training/course_adverts/2026/matlab_mondays_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
 2026-09-07,2026-09-11,Statistical Methods for Life Sciences,https://training.scilifelab.se/events/statistical-methods-in-life-sciences,https://training.scilifelab.se/events,SciLifeLab
 2026-09-08,2026-09-08,SciLifeLab OpenRefine workshop,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,OSCU
 2026-09-09,2026-09-09,"Improving Science with Science: Open Research, Equity, and Contributor Recognition",https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,OSCU
-2026-09-11,2026-09-11,"Maria Vrettou, TBA",https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,OSCU
+2026-09-11,2026-09-11,Maria Vrettou: 'Open Human Data',https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,OSCU
 2026-09-14,2026-09-18,NAISS introduction training week,https://hpc.pages.naiss.se/NAISS-intro-week,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
 2026-09-15,2026-09-15,[Workshop] Practical Data Wrangling,https://enccs.se/event/workshop-practical-data-wrangling,https://enccs.se/events,ENCCS
 2026-09-16,2027-03-10,PhD Reading Course: Genome-Scale Algorithm Design,https://training.scilifelab.se/events/phd-reading-course-genome-scale-algorithm-design,https://training.scilifelab.se/events,SciLifeLab
@@ -20,6 +19,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-09-21,2026-10-02,Proteomics SC00003,https://training.scilifelab.se/events/proteomics-sc00003,https://training.scilifelab.se/events,SciLifeLab
 2026-09-22,2026-09-22,VASP best practices on Arrhenius,https://hpc.pages.naiss.se/training/course_adverts/2026/vasp_arrhenius_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
 2026-09-22,2026-09-22,DEEP Inspection for Materials Science – Classification,https://swedenaifactory.se/event/deep-inspection-for-materials-science-classification,https://mimer-ai.eu/events-and-workshops,Mimer
+2026-09-24,2026-09-24,[ENCCS Webinar] Beyond the Cloud: Automated Molecular Simulations for Liquid Formulations on HPC,https://enccs.se/event/enccs-webinar-beyond-the-cloud-automated-molecular-simulations-for-liquid-formulations-on-hpc,https://enccs.se/events,ENCCS
 2026-09-30,2026-09-30,[Webinar] Foundation Models for Atoms: Machine-Learned Interatomic Potentials in Practice,https://enccs.se/event/webinar-foundation-models-for-atoms-machine-learned-interatomic-potentials-in-practice,https://enccs.se/events,ENCCS
 2026-09-30,2026-09-30,Foundation Models for Atoms: Machine-Learned Interatomic Potentials in Practice,https://swedenaifactory.se/event/foundation-models-for-atoms-machine-learned-interatomic-potentials-in-practice,https://mimer-ai.eu/events-and-workshops,Mimer
 2026-10-01,2026-10-01,DEEP Inspection for Materials Science – Detection and Segmentation,https://swedenaifactory.se/event/deep-inspection-for-materials-science-detection-segmentation,https://mimer-ai.eu/events-and-workshops,Mimer
