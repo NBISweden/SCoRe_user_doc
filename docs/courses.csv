@@ -4,8 +4,6 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-08-24,2026-10-23,Data-Driven Life Sciences course 2026,https://training.scilifelab.se/events/data-driven-life-sciences-course-2026,https://training.scilifelab.se/events,SciLifeLab
 2026-08-31,2026-09-18,Reproducible Research in Bioinformatics and Computational Biology,https://www.slubi.se,https://www.slubi.se/courses.html,SLUBI
 2026-09-07,2026-09-21,Mondays with MATLAB,https://hpc.pages.naiss.se/training/course_adverts/2026/matlab_mondays_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
-2026-09-07,2026-09-11,Statistical Methods for Life Sciences,https://training.scilifelab.se/events/statistical-methods-in-life-sciences,https://training.scilifelab.se/events,SciLifeLab
-2026-09-11,2026-09-11,Maria Vrettou: 'Open Human Data',https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,OSCU
 2026-09-14,2026-09-18,NAISS introduction training week,https://hpc.pages.naiss.se/NAISS-intro-week,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
 2026-09-15,2026-09-15,[Workshop] Practical Data Wrangling,https://enccs.se/event/workshop-practical-data-wrangling,https://enccs.se/events,ENCCS
 2026-09-16,2027-03-10,PhD Reading Course: Genome-Scale Algorithm Design,https://training.scilifelab.se/events/phd-reading-course-genome-scale-algorithm-design,https://training.scilifelab.se/events,SciLifeLab
@@ -15,6 +13,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-09-18,2026-09-18,"Weird, Wild & Worth Billions – The Rise of Physical AI",https://swedenaifactory.se/event/weird-wild-worth-billions-the-rise-of-physical-ai,https://mimer-ai.eu/events-and-workshops,Mimer
 2026-09-21,2026-09-21,Introduction to Kebnekaise,https://www.hpc2n.umu.se/events/courses/2026/fall/intro-to-kebnekaise,https://www.hpc2n.umu.se/events/courses,HPC2N
 2026-09-21,2026-10-02,Proteomics SC00003,https://training.scilifelab.se/events/proteomics-sc00003,https://training.scilifelab.se/events,SciLifeLab
+2026-09-22,2026-09-24,EuroHPC User Days 2026,https://lumi-supercomputer.eu/events/eurohpc-user-days-2026,https://lumi-supercomputer.eu/events,CSC
 2026-09-22,2026-09-22,VASP best practices on Arrhenius,https://hpc.pages.naiss.se/training/course_adverts/2026/vasp_arrhenius_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
 2026-09-22,2026-09-22,DEEP Inspection for Materials Science – Classification,https://swedenaifactory.se/event/deep-inspection-for-materials-science-classification,https://mimer-ai.eu/events-and-workshops,Mimer
 2026-09-24,2026-09-24,[ENCCS Webinar] Beyond the Cloud: Automated Molecular Simulations for Liquid Formulations on HPC,https://enccs.se/event/enccs-webinar-beyond-the-cloud-automated-molecular-simulations-for-liquid-formulations-on-hpc,https://enccs.se/events,ENCCS
@@ -34,6 +33,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-10-19,2026-10-22,"Introduction to R, MATLAB, and Julia in HPC",https://hpc.pages.naiss.se/training/naiss-training/course_adverts/2026/R_Matlab_Julia_October_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
 2026-10-19,2026-10-23,Introduction to Python - with application to bioinformatics,https://training.scilifelab.se/events/introduction-to-python-with-application-to-bioinformatics-0457ce61-6c47-476e-8d11-a3f1c3072b1f,https://training.scilifelab.se/events,SciLifeLab
 2026-11-02,2026-11-02,[School] Quantum Autumn School 2026,https://enccs.se/event/quantum-computing-school-2026-in-sweden,https://enccs.se/events,ENCCS
+2026-11-02,2026-11-13,Proteomics by Mass Spectrometry: When and How,https://training.scilifelab.se/events/proteomics-by-mass-spectrometry-when-and-how-d5895fcb-14ac-4fee-bf0b-0e5ce76957cd,https://training.scilifelab.se/events,SciLifeLab
 2026-11-03,2026-11-05,Introduction to Linux and UPPMAX,https://docs.uppmax.uu.se/courses_workshops/uppmax_intro_course,https://docs.uppmax.uu.se/courses_workshops/courses_workshops,UPPMAX
 2026-11-09,2026-11-10,Moving your HPC workloads to LUMI (Hybrid),https://lumi-supercomputer.eu/events/moving-your-hpc-workloads-to-lumi-hybrid,https://lumi-supercomputer.eu/events,CSC
 2026-11-09,2026-11-13,Introduction to Git,https://hpc.pages.naiss.se/training/naiss-training/course_adverts/2026/intro_to_git_nov_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
