@@ -1,0 +1,12 @@
+hpc_cluster,center,part_of,compute_type,compute,storage,type_of_data,costs_for_user,possible_users
+Alvis,C3SE,NAISS,AI,Medium,Low,Regular,Free,Swedish researchers
+Bianca,UPPMAX,NAISS,General purpose,Medium,Low,Sensitive,Free,Swedish researchers
+COSMOS,LUNARC,NAISS,General purpose,Medium,Low,Regular,Free,Swedish researchers
+COSMOS SENS,LUNARC,NA,General purpose,Medium,Low,Sensitive,Free,Lund researchers
+Dardel,PDC,NAISS,General purpose,Medium,Low,Regular,Free,Swedish researchers
+Kebnekaise,HPC2N,NA,General purpose,Medium,Low,Regular,Free,Umeå researchers
+LUMI,CSC,NAISS,General purpose,High,Low,Regular,Free,Swedish researchers
+Rackham,UPPMAX,NA,General purpose,Medium,Low,Regular,Free,Uppsala researchers
+Tetralith,NSC,NAISS,General purpose,Medium,Low,Regular,Free,Swedish researchers
+Vera,NSC,NA,General purpose,Medium,Low,Regular,Free,Linköping researchers
+Verdi,AIDA Data Hub,AIDA Data Hub,General purpose,Low,High,Any type,Depends,Anyone
