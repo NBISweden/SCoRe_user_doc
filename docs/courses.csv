@@ -2,14 +2,8 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-02-25,2030-12-31,Masterclass in Clinical Genomics,https://training.scilifelab.se/events/masterclass-in-clinical-genomics,https://training.scilifelab.se/events,SciLifeLab
 2026-08-01,2027-12-31,EMBL 2027 Training Courses,https://training.scilifelab.se/events/embl-2027-training-courses,https://training.scilifelab.se/events,SciLifeLab
 2026-08-24,2026-10-23,Data-Driven Life Sciences course 2026,https://training.scilifelab.se/events/data-driven-life-sciences-course-2026,https://training.scilifelab.se/events,SciLifeLab
-2026-08-31,2026-09-18,Reproducible Research in Bioinformatics and Computational Biology,https://www.slubi.se,https://www.slubi.se/courses.html,SLUBI
 2026-09-07,2026-09-21,Mondays with MATLAB,https://hpc.pages.naiss.se/training/course_adverts/2026/matlab_mondays_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
-2026-09-14,2026-09-18,NAISS introduction training week,https://hpc.pages.naiss.se/NAISS-intro-week,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
 2026-09-16,2027-03-10,PhD Reading Course: Genome-Scale Algorithm Design,https://training.scilifelab.se/events/phd-reading-course-genome-scale-algorithm-design,https://training.scilifelab.se/events,SciLifeLab
-2026-09-18,2026-09-18,NAISS intro week,https://hpc.pages.naiss.se/training/NAISS-intro-week,https://www.hpc2n.umu.se/events/courses,HPC2N
-2026-09-18,2026-09-18,Introduction to Bianca: Handling Sensitive Research Data,https://uppmax.github.io/bianca_workshops/beginner/intro,https://docs.uppmax.uu.se/courses_workshops/courses_workshops,UPPMAX
-2026-09-18,2026-09-18,AI Factory roadshow – Gotland,https://swedenaifactory.se/event/ai-factory-roadshow,https://mimer-ai.eu/events-and-workshops,Mimer
-2026-09-18,2026-09-18,"Weird, Wild & Worth Billions – The Rise of Physical AI",https://swedenaifactory.se/event/weird-wild-worth-billions-the-rise-of-physical-ai,https://mimer-ai.eu/events-and-workshops,Mimer
 2026-09-21,2026-09-21,Introduction to Kebnekaise,https://www.hpc2n.umu.se/events/courses/2026/fall/intro-to-kebnekaise,https://www.hpc2n.umu.se/events/courses,HPC2N
 2026-09-21,2026-10-02,Proteomics SC00003,https://training.scilifelab.se/events/proteomics-sc00003,https://training.scilifelab.se/events,SciLifeLab
 2026-09-22,2026-09-24,EuroHPC User Days 2026,https://lumi-supercomputer.eu/events/eurohpc-user-days-2026,https://lumi-supercomputer.eu/events,CSC
@@ -26,10 +20,12 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-10-06,2026-10-06,NAISS User Forum,https://www.pdc.kth.se/about/events/naiss-user-forum-1.1478678,https://www.pdc.kth.se/about/events,PDC
 2026-10-06,2026-10-09,ELIXIR/NBIS Spatial Omics Data Analysis,https://training.scilifelab.se/events/elixir-nbis-spatial-omics-data-analysis,https://training.scilifelab.se/events,SciLifeLab
 2026-10-07,2026-10-07,Autonomous Systems Through the Lens of World Models,https://swedenaifactory.se/event/autonomous-systems-through-the-lens-of-world-models,https://mimer-ai.eu/events-and-workshops,Mimer
+2026-10-07,2026-10-07,Generative AI for Life Science,https://swedenaifactory.se/event/generative-ai-for-life-science,https://mimer-ai.eu/events-and-workshops,Mimer
 2026-10-08,2026-10-09,Geocomputing on the Supercomputer,https://lumi-supercomputer.eu/events/geocomputing,https://lumi-supercomputer.eu/events,CSC
 2026-10-09,2026-10-09,[Empty slot],https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,OSCU
 2026-10-12,2026-10-13,Basic Singularity/Apptainer workshop,https://hpc.pages.naiss.se/training/course_adverts/2026/apptainer_October_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
 2026-10-12,2026-10-16,Machine Learning for Life Sciences,https://training.scilifelab.se/events/machine-learning-for-life-sciences-fa4ad3fb-99a5-49ca-9e13-a9e225392f88,https://training.scilifelab.se/events,SciLifeLab
+2026-10-13,2026-10-13,Nordic AI Factory Summit 2026,https://swedenaifactory.se/event/nordic-ai-factory-summit-2026,https://mimer-ai.eu/events-and-workshops,Mimer
 2026-10-19,2026-10-22,"Introduction to R, MATLAB, and Julia in HPC",https://hpc.pages.naiss.se/training/naiss-training/course_adverts/2026/R_Matlab_Julia_October_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
 2026-10-19,2026-10-23,Introduction to Python - with application to bioinformatics,https://training.scilifelab.se/events/introduction-to-python-with-application-to-bioinformatics-0457ce61-6c47-476e-8d11-a3f1c3072b1f,https://training.scilifelab.se/events,SciLifeLab
 2026-11-02,2026-11-02,[School] Quantum Autumn School 2026,https://enccs.se/event/quantum-computing-school-2026-in-sweden,https://enccs.se/events,ENCCS
