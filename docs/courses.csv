@@ -4,10 +4,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-08-24,2026-10-23,Data-Driven Life Sciences course 2026,https://training.scilifelab.se/events/data-driven-life-sciences-course-2026,https://training.scilifelab.se/events,SciLifeLab
 2026-09-16,2027-03-10,PhD Reading Course: Genome-Scale Algorithm Design,https://training.scilifelab.se/events/phd-reading-course-genome-scale-algorithm-design,https://training.scilifelab.se/events,SciLifeLab
 2026-09-24,2026-12-17,Webinar series in Proteomics in Life Sciences,https://training.scilifelab.se/events/webinar-series-in-proteomics-in-life-sciences,https://training.scilifelab.se/events,SciLifeLab
-2026-10-05,2026-10-09,Epigenomics Data Analysis From Bulk to Single Cell,https://training.scilifelab.se/events/epigenomics-data-analysis-from-bulk-to-single-cell,https://training.scilifelab.se/events,SciLifeLab
 2026-10-05,2026-10-23,Analysis of High Throughput Sequencing RNA-Seq Data,https://www.slubi.se,https://www.slubi.se/courses.html,SLUBI
-2026-10-06,2026-10-09,ELIXIR/NBIS Spatial Omics Data Analysis,https://training.scilifelab.se/events/elixir-nbis-spatial-omics-data-analysis,https://training.scilifelab.se/events,SciLifeLab
-2026-10-09,2026-10-09,[Empty slot],https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,OSCU
 2026-10-12,2026-10-13,Basic Singularity/Apptainer workshop,https://hpc.pages.naiss.se/training/course_adverts/2026/apptainer_October_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
 2026-10-12,2026-10-16,Machine Learning for Life Sciences,https://training.scilifelab.se/events/machine-learning-for-life-sciences-fa4ad3fb-99a5-49ca-9e13-a9e225392f88,https://training.scilifelab.se/events,SciLifeLab
 2026-10-13,2026-10-13,Nordic AI Factory Summit 2026,https://swedenaifactory.se/event/nordic-ai-factory-summit-2026,https://mimer-ai.eu/events-and-workshops,Mimer
@@ -21,11 +18,13 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-10-23,2026-10-23,Explainable AI for Life Science,https://swedenaifactory.se/event/explainable-ai-for-life-science,https://mimer-ai.eu/events-and-workshops,Mimer
 2026-10-29,2026-10-29,[Webinar] Using Julia for time-critical Applications,https://enccs.se/event/webinar-using-julia-for-time-critical-applications,https://enccs.se/events,ENCCS
 2026-11-02,2026-11-02,[School] Quantum Autumn School 2026,https://enccs.se/event/quantum-computing-school-2026-in-sweden,https://enccs.se/events,ENCCS
+2026-11-02,2026-11-13,Proteomics by Mass Spectrometry: When and How,https://training.scilifelab.se/events/proteomics-by-mass-spectrometry-when-and-how-d5895fcb-14ac-4fee-bf0b-0e5ce76957cd,https://training.scilifelab.se/events,SciLifeLab
 2026-11-03,2026-11-03,KCSC Symposium on Scientific Computing,https://www.pdc.kth.se/about/events/kcsc-symposium-on-scientific-computing-1.1495386,https://www.pdc.kth.se/about/events,PDC
 2026-11-03,2026-11-05,Introduction to Linux and UPPMAX,https://docs.uppmax.uu.se/courses_workshops/uppmax_intro_course,https://docs.uppmax.uu.se/courses_workshops/courses_workshops,UPPMAX
-2026-11-05,2026-11-05,[Hackathon] QSIP Hackathon with focus in quantum cryptography and quantum machine learning,https://enccs.se/event/hackathon-qsip-hackathon-with-focus-in-quantum-cryptography-and-quantum-machine-learning,https://enccs.se/events,ENCCS
+2026-11-05,2026-11-05,[Hackathon] QSIP Hackathon with focus in quantum cryptography and quantum machine learning,https://enccs.se/event/qsip-hackathon-quantum-cryptography-qml,https://enccs.se/events,ENCCS
 2026-11-09,2026-11-10,Moving your HPC workloads to LUMI (Hybrid),https://lumi-supercomputer.eu/events/moving-your-hpc-workloads-to-lumi-hybrid,https://lumi-supercomputer.eu/events,CSC
 2026-11-09,2026-11-13,Introduction to Git,https://hpc.pages.naiss.se/training/course_adverts/2026/intro_to_git_nov_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
+2026-11-09,2026-11-13,R Programming Foundations for Data Analysis,https://training.scilifelab.se/events/r-programming-foundations-for-data-analysis-bebd8438-1e6d-4cdd-8667-8fa98eef093e,https://training.scilifelab.se/events,SciLifeLab
 2026-11-11,2026-11-13,LUMI Profiling and Optimization Workshop (On-site),https://lumi-supercomputer.eu/events/lumi-profiling-and-optimization-workshop-on-site,https://lumi-supercomputer.eu/events,CSC
 2026-11-13,2026-11-13,"Sami Vihriälä, TBA",https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,OSCU
 2026-11-16,2026-11-20,Using Python in an HPC environment,https://hpc.pages.naiss.se/training/course_adverts/2026/Python_in_HPC_fall_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
@@ -33,6 +32,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-11-20,2026-11-20,Bianca In-Depth Workshop/Hackathon: Improve Your Handling of Sensitive Research Data ,https://docs.uppmax.uu.se/courses_workshops/bianca_intermediate,https://docs.uppmax.uu.se/courses_workshops/courses_workshops,UPPMAX
 2026-11-25,2026-11-26,Moving your AI training jobs to LUMI: A Hands-On Workshop (Hybrid),https://lumi-supercomputer.eu/events/moving-your-ai-training-jobs-to-lumi-a-hands-on-workshop-hybrid,https://lumi-supercomputer.eu/events,CSC
 2026-12-08,2026-12-09,ML for Scientific Data: From Classical ML to Deep Learning,https://hpc.pages.naiss.se/training/course_adverts/2026/ML_scientific_data_December_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
+2026-12-10,2026-12-10,Running Deep Learning Workloads on NAISS Systems,https://hpc.pages.naiss.se/training/course_adverts/2026/DL_intro_December_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
 2026-12-11,2026-12-11,[Empty slot],https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,OSCU
 2027-01-15,2027-01-15,[Empty slot],https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,OSCU
 2027-02-12,2027-02-12,[Empty slot],https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,OSCU
