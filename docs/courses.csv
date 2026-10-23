@@ -5,10 +5,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-09-16,2027-03-10,PhD Reading Course: Genome-Scale Algorithm Design,https://training.scilifelab.se/events/phd-reading-course-genome-scale-algorithm-design,https://training.scilifelab.se/events,SciLifeLab
 2026-09-24,2026-12-17,Webinar series in Proteomics in Life Sciences,https://training.scilifelab.se/events/webinar-series-in-proteomics-in-life-sciences,https://training.scilifelab.se/events,SciLifeLab
 2026-10-05,2026-10-23,Analysis of High Throughput Sequencing RNA-Seq Data,https://www.slubi.se,https://www.slubi.se/courses.html,SLUBI
-2026-10-19,2026-10-22,"Introduction to R, MATLAB, and Julia in HPC",https://hpc.pages.naiss.se/training/course_adverts/2026/R_Matlab_Julia_October_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
 2026-10-19,2026-10-23,Introduction to Python - with application to bioinformatics,https://training.scilifelab.se/events/introduction-to-python-with-application-to-bioinformatics-0457ce61-6c47-476e-8d11-a3f1c3072b1f,https://training.scilifelab.se/events,SciLifeLab
-2026-10-21,2026-10-21,Who’s Really Making the Decision? Human Oversight in the Age of AI,https://swedenaifactory.se/event/whos-really-making-the-decision-human-oversight-in-the-age-of-ai,https://mimer-ai.eu/events-and-workshops,Mimer
-2026-10-21,2026-10-21,Meetup #40 – Orchestration vs Model Selection,https://swedenaifactory.se/event/meetup-40-orchestration-vs-model-selection,https://mimer-ai.eu/events-and-workshops,Mimer
 2026-10-23,2026-10-23,Explainable AI for Life Science,https://training.scilifelab.se/events/explainable-ai-for-life-science,https://training.scilifelab.se/events,SciLifeLab
 2026-10-23,2026-10-23,Explainable AI for Life Science,https://swedenaifactory.se/event/explainable-ai-for-life-science,https://mimer-ai.eu/events-and-workshops,Mimer
 2026-10-27,2026-10-27,Online lecture: When every hypothesis is published: AI and the exploitation of Open Science Assets,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,OSCU
@@ -23,6 +20,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-11-09,2026-11-10,Moving your HPC workloads to LUMI (Hybrid),https://lumi-supercomputer.eu/events/moving-your-hpc-workloads-to-lumi-hybrid,https://lumi-supercomputer.eu/events,CSC
 2026-11-09,2026-11-13,Introduction to Git,https://hpc.pages.naiss.se/training/course_adverts/2026/intro_to_git_nov_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
 2026-11-09,2026-11-13,R Programming Foundations for Data Analysis,https://training.scilifelab.se/events/r-programming-foundations-for-data-analysis-bebd8438-1e6d-4cdd-8667-8fa98eef093e,https://training.scilifelab.se/events,SciLifeLab
+2026-11-10,2026-11-10,AI for Meta-Science Hackathon 2026,https://swedenaifactory.se/event/ai-for-meta-science-hackathon-2026,https://mimer-ai.eu/events-and-workshops,Mimer
 2026-11-11,2026-11-13,LUMI Profiling and Optimization Workshop (On-site),https://lumi-supercomputer.eu/events/lumi-profiling-and-optimization-workshop-on-site,https://lumi-supercomputer.eu/events,CSC
 2026-11-13,2026-11-13,"Sami Vihriälä, TBA",https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,OSCU
 2026-11-16,2026-11-20,Using Python in an HPC environment,https://hpc.pages.naiss.se/training/course_adverts/2026/Python_in_HPC_fall_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
