@@ -4,9 +4,8 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-09-16,2027-03-10,PhD Reading Course: Genome-Scale Algorithm Design,https://training.scilifelab.se/events/phd-reading-course-genome-scale-algorithm-design,https://training.scilifelab.se/events,SciLifeLab
 2026-09-24,2026-12-17,Webinar series in Proteomics in Life Sciences,https://training.scilifelab.se/events/webinar-series-in-proteomics-in-life-sciences,https://training.scilifelab.se/events,SciLifeLab
 2026-11-02,2026-11-13,Proteomics by Mass Spectrometry: When and How,https://training.scilifelab.se/events/proteomics-by-mass-spectrometry-when-and-how-d5895fcb-14ac-4fee-bf0b-0e5ce76957cd,https://training.scilifelab.se/events,SciLifeLab
-2026-11-04,2026-11-04,Agentic AI: Beyond Coding Assistants and Chatbots,https://swedenaifactory.se/event/agentic-ai-beyond-coding-assistants-and-chatbots,https://mimer-ai.eu/events-and-workshops,Mimer
-2026-11-04,2026-11-04,Foundation Models for Metallurgy,https://swedenaifactory.se/event/foundation-models-for-metallurgy,https://mimer-ai.eu/events-and-workshops,Mimer
 2026-11-05,2026-11-05,[Hackathon] QSIP Hackathon with focus in quantum cryptography and quantum machine learning [in-person],https://enccs.se/event/qsip-hackathon-quantum-cryptography-qml,https://enccs.se/events,ENCCS
+2026-11-05,2026-11-05,Agentic AI: Beyond Coding Assistants and Chatbots,https://swedenaifactory.se/event/agentic-ai-beyond-coding-assistants-and-chatbots,https://mimer-ai.eu/events-and-workshops,Mimer
 2026-11-09,2026-11-10,Moving your HPC workloads to LUMI (Hybrid),https://lumi-supercomputer.eu/events/moving-your-hpc-workloads-to-lumi-hybrid,https://lumi-supercomputer.eu/events,CSC
 2026-11-09,2026-11-13,Introduction to Git,https://hpc.pages.naiss.se/training/course_adverts/2026/intro_to_git_nov_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
 2026-11-09,2026-11-13,R Programming Foundations for Data Analysis,https://training.scilifelab.se/events/r-programming-foundations-for-data-analysis-bebd8438-1e6d-4cdd-8667-8fa98eef093e,https://training.scilifelab.se/events,SciLifeLab
@@ -19,6 +18,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-11-20,2026-11-20,Bianca In-Depth Workshop/Hackathon: Improve Your Handling of Sensitive Research Data ,https://docs.uppmax.uu.se/courses_workshops/bianca_intermediate,https://docs.uppmax.uu.se/courses_workshops/courses_workshops,UPPMAX
 2026-11-25,2026-11-26,Moving your AI training jobs to LUMI: A Hands-On Workshop (Hybrid),https://lumi-supercomputer.eu/events/moving-your-ai-training-jobs-to-lumi-a-hands-on-workshop-hybrid,https://lumi-supercomputer.eu/events,CSC
 2026-11-25,2026-11-25,Using AI in lifescience - A primer,https://training.scilifelab.se/events/using-ai-in-lifescience-a-primer,https://training.scilifelab.se/events,SciLifeLab
+2026-12-01,2026-12-01,[Webinar] Machine Learning Interatomic Potentials on HPC: From Installation to Benchmarking,https://enccs.se/event/mlip-part-1,https://enccs.se/events,ENCCS
 2026-12-01,2026-12-03,Cryo-EM sample preparation and data collection course,https://training.scilifelab.se/events/cryo-em-sample-preparation-and-data-collection-course,https://training.scilifelab.se/events,SciLifeLab
 2026-12-02,2026-12-04,NAISS Introduction training days,https://hpc.pages.naiss.se/training/NAISS-intro-days,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
 2026-12-02,2026-12-04,Cryoelectron Tomography and Subtomogram averaging Workshop 2026,https://training.scilifelab.se/events/cryoelectron-tomography-and-subtomogram-averaging-workshop-2026,https://training.scilifelab.se/events,SciLifeLab
@@ -27,6 +27,7 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-12-10,2026-12-10,Running Deep Learning Workloads on NAISS Systems,https://hpc.pages.naiss.se/training/course_adverts/2026/DL_intro_December_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
 2026-12-11,2026-12-11,[Empty slot],https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,OSCU
 2027-01-15,2027-01-15,[Empty slot],https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,OSCU
+2027-01-21,2027-01-21,[Webinar] Machine Learning Interatomic Potentials on HPC: From Fine-tuning to Distillation,https://enccs.se/event/mlip-part-2,https://enccs.se/events,ENCCS
 2027-02-12,2027-02-12,[Empty slot],https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,OSCU
 2027-03-12,2027-03-12,[Empty slot],https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,OSCU
 2027-04-09,2027-04-09,[Empty slot],https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,OSCU
