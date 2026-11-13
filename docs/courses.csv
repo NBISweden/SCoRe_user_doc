@@ -6,18 +6,19 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-11-02,2026-11-13,Proteomics by Mass Spectrometry: When and How,https://training.scilifelab.se/events/proteomics-by-mass-spectrometry-when-and-how-d5895fcb-14ac-4fee-bf0b-0e5ce76957cd,https://training.scilifelab.se/events,SciLifeLab
 2026-11-09,2026-11-13,Introduction to Git,https://hpc.pages.naiss.se/training/course_adverts/2026/intro_to_git_nov_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
 2026-11-09,2026-11-13,R Programming Foundations for Data Analysis,https://training.scilifelab.se/events/r-programming-foundations-for-data-analysis-bebd8438-1e6d-4cdd-8667-8fa98eef093e,https://training.scilifelab.se/events,SciLifeLab
-2026-11-11,2026-11-13,LUMI Profiling and Optimization Workshop (On-site),https://lumi-supercomputer.eu/events/lumi-profiling-and-optimization-workshop-on-site,https://lumi-supercomputer.eu/events,CSC
 2026-11-13,2026-11-13,"Sami Vihriälä, Citizen Science Beyond Outreach: Connecting Public Engagement, Open Science and AI",https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,https://open-science-community-uppsala.github.io/open_science_community_uppsala/events/events,OSCU
 2026-11-16,2026-11-20,Using Python in an HPC environment,https://hpc.pages.naiss.se/training/course_adverts/2026/Python_in_HPC_fall_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
 2026-11-16,2026-12-03,Population genetics with applications in plant-microbe interactions,https://www.slubi.se,https://www.slubi.se/courses.html,SLUBI
 2026-11-18,2026-11-18,AI for decision makers,https://swedenaifactory.se/event/ai-for-decision-makers,https://mimer-ai.eu/events-and-workshops,Mimer
 2026-11-20,2026-11-20,Bianca In-Depth Workshop/Hackathon: Improve Your Handling of Sensitive Research Data ,https://docs.uppmax.uu.se/courses_workshops/bianca_intermediate,https://docs.uppmax.uu.se/courses_workshops/courses_workshops,UPPMAX
+2026-11-24,2026-11-24,An Introduction to 3D Gaussian Splatting,https://swedenaifactory.se/event/an-introduction-to-3d-gaussian-splatting,https://mimer-ai.eu/events-and-workshops,Mimer
 2026-11-25,2026-11-26,Moving your AI training jobs to LUMI: A Hands-On Workshop (Hybrid),https://lumi-supercomputer.eu/events/moving-your-ai-training-jobs-to-lumi-a-hands-on-workshop-hybrid,https://lumi-supercomputer.eu/events,CSC
 2026-11-25,2026-11-25,Using AI in lifescience - A primer,https://training.scilifelab.se/events/using-ai-in-lifescience-a-primer,https://training.scilifelab.se/events,SciLifeLab
 2026-12-01,2026-12-01,[Webinar] Machine Learning Interatomic Potentials on HPC: From Installation to Benchmarking,https://enccs.se/event/mlip-part-1,https://enccs.se/events,ENCCS
 2026-12-01,2026-12-03,Cryo-EM sample preparation and data collection course,https://training.scilifelab.se/events/cryo-em-sample-preparation-and-data-collection-course,https://training.scilifelab.se/events,SciLifeLab
 2026-12-02,2026-12-04,NAISS Introduction training days,https://hpc.pages.naiss.se/training/NAISS-intro-days,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
 2026-12-02,2026-12-04,Cryoelectron Tomography and Subtomogram averaging Workshop 2026,https://training.scilifelab.se/events/cryoelectron-tomography-and-subtomogram-averaging-workshop-2026,https://training.scilifelab.se/events,SciLifeLab
+2026-12-02,2026-12-02,An introduction to GIS systems,https://swedenaifactory.se/event/an-introduction-to-gis-systems,https://mimer-ai.eu/events-and-workshops,Mimer
 2026-12-08,2026-12-09,ML for Scientific Data: From Classical ML to Deep Learning,https://hpc.pages.naiss.se/training/course_adverts/2026/ML_scientific_data_December_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
 2026-12-10,2026-12-10,Introduction seminar for Vera users,https://chalmers.zoom.us/j/61913001966,https://www.c3se.chalmers.se,C3SE
 2026-12-10,2026-12-10,[Webinar] Pushing the Limits of Density-Functional Theory: How HPC Enables Predictive Materials Simulations,https://enccs.se/event/dft-hpc-webinar,https://enccs.se/events,ENCCS
