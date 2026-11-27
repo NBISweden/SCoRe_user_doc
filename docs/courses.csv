@@ -4,13 +4,14 @@ date_from,date_to,course_name,course_url,provider_courses_url,provider_name
 2026-09-16,2027-03-10,PhD Reading Course: Genome-Scale Algorithm Design,https://training.scilifelab.se/events/phd-reading-course-genome-scale-algorithm-design,https://training.scilifelab.se/events,SciLifeLab
 2026-09-24,2026-12-17,Webinar series in Proteomics in Life Sciences,https://training.scilifelab.se/events/webinar-series-in-proteomics-in-life-sciences,https://training.scilifelab.se/events,SciLifeLab
 2026-11-16,2026-12-03,Population genetics with applications in plant-microbe interactions,https://www.slubi.se,https://www.slubi.se/courses.html,SLUBI
-2026-11-26,2026-11-26,AI for decision makers,https://swedenaifactory.se/event/ai-for-decision-makers,https://mimer-ai.eu/events-and-workshops,Mimer
+2026-11-27,2026-11-27,AI for decision makers,https://swedenaifactory.se/event/ai-for-decision-makers,https://mimer-ai.eu/events-and-workshops,Mimer
 2026-12-01,2026-12-01,[ENCCS and Sweden AIF Webinar] Machine Learning Interatomic Potentials on HPC: From Installation to Benchmarking,https://enccs.se/event/mlip-part-1,https://enccs.se/events,ENCCS
 2026-12-01,2026-12-03,Cryo-EM sample preparation and data collection course,https://training.scilifelab.se/events/cryo-em-sample-preparation-and-data-collection-course,https://training.scilifelab.se/events,SciLifeLab
 2026-12-02,2026-12-04,NAISS Introduction training days,https://hpc.pages.naiss.se/training/NAISS-intro-days,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
 2026-12-02,2026-12-04,Cryoelectron Tomography and Subtomogram averaging Workshop 2026,https://training.scilifelab.se/events/cryoelectron-tomography-and-subtomogram-averaging-workshop-2026,https://training.scilifelab.se/events,SciLifeLab
 2026-12-02,2026-12-02,An introduction to GIS systems,https://swedenaifactory.se/event/an-introduction-to-gis-systems,https://mimer-ai.eu/events-and-workshops,Mimer
 2026-12-08,2026-12-09,ML for Scientific Data: From Classical ML to Deep Learning,https://hpc.pages.naiss.se/training/course_adverts/2026/ML_scientific_data_December_2026,https://hpc.pages.naiss.se/training/naiss-training/courses/upcoming,NAISS
+2026-12-09,2026-12-09,LUMI user coffee breaks,https://lumi-supercomputer.eu/events/usercoffeebreaks,https://lumi-supercomputer.eu/events,CSC
 2026-12-09,2026-12-09,Developing generative AI methods for inverse materials design,https://swedenaifactory.se/event/developing-generative-ai-methods-for-inverse-materials-design,https://mimer-ai.eu/events-and-workshops,Mimer
 2026-12-10,2026-12-10,Introduction seminar for Vera users,https://chalmers.zoom.us/j/61913001966,https://www.c3se.chalmers.se,C3SE
 2026-12-10,2026-12-10,[Webinar] Pushing the Limits of Density-Functional Theory: How HPC Enables Predictive Materials Simulations,https://enccs.se/event/dft-hpc-webinar,https://enccs.se/events,ENCCS
